@@ -16,3 +16,5 @@ unsigned long long Metricas::obtenerIteraciones() const
 {
     return iteraciones;
 }
+
+//Comentario para pruebas de ramas
