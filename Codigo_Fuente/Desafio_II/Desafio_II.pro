@@ -4,10 +4,14 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += \
+        MatrizBits.cpp \
         fecha.cpp \
         main.cpp \
-        metricas.cpp
+        metricas.cpp \
+        udeabook.cpp
 
 HEADERS += \
+    MatrizBits.h \
     fecha.h \
-    metricas.h
+    metricas.h \
+    udeabook.h

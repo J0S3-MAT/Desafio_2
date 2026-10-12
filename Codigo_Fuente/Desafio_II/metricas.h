@@ -11,8 +11,21 @@ private:
 public:
     Metricas();
 
+    void reiniciar();
+
     void sumarIteraciones(unsigned long long cantidad);
-    unsigned long long obtenerIteraciones() const;
+    unsigned long long getIteraciones() const;
+
+    void sumarMemoriaTemporal(unsigned long long bytes);
+    unsigned long long getMemoriaTemporal() const;
+
+    void restarMemoriaTemporal(unsigned long long bytes);
+
+    void registrarMemoriaFinal(unsigned long long memoriaSistema);
+    unsigned long long getMemoriaTotal() const;
+
+    void mostrarResultados() const;
+
 };
 
-#endif // METRICAS_H
+#endif

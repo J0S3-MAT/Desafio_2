@@ -1,25 +1,32 @@
 #include <iostream>
-#include "metricas.h"
+#include "udeabook.h"
 
 using namespace std;
 
 int main()
 {
-    cout << "==========================" << endl;
-    cout << "       UdeABook           " << endl;
-    cout << "==========================" << endl;
 
-    cout << "Proyecto iniciado correctamente" << endl;
+    cout << "------UdeABook------" << endl;
 
-    Metricas prueba;
+    UdeABook red;
+    Metricas metricas;
 
-    cout << "Iteraciones iniciales: "
-         << prueba.obtenerIteraciones() << endl;
+    red.inicializarMatrizAmistades(5);
 
-    prueba.sumarIteraciones(5);
-    prueba.sumarIteraciones(3);
+    red.establecerAmistad(0, 1);
+    red.establecerAmistad(0, 2);
+    red.establecerAmistad(3, 1);
+    red.establecerAmistad(3, 2);
 
-    cout << "Iteraciones finales: "
-         << prueba.obtenerIteraciones() << endl;
-    return 0;
+    int comunes = red.contarAmigosComunes(0, 3, metricas);
+
+    unsigned long long memoriaSistema = red.getMemoriaSistema();
+
+    metricas.registrarMemoriaFinal(memoriaSistema);
+
+    cout << "Amigos comunes: " << comunes << endl;
+    cout << "Memoria del objeto: " << sizeof(red) << " bytes" << endl;
+    cout << "Memoria de la matriz: " << red.getBytesMatrizAmistades() << " bytes" << endl;
+
+    metricas.mostrarResultados();
 }
