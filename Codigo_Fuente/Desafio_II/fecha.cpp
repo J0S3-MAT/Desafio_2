@@ -1,14 +1,13 @@
 #include "fecha.h"
 
-// Constructor predeterminado
 Fecha::Fecha()
-    : dia(1), mes(1), anio(2000)
+    : dia(0), mes(0), anio(0)
 {
 }
 
 // Constructor con parametros
 Fecha::Fecha(int dia, int mes, int anio)
-    : dia(1), mes(1), anio(2000)
+    : dia(0), mes(0), anio(0)
 {
     if (anio >= 1 && anio <= 32767 &&
         mes >= 1 && mes <= 12 &&
@@ -20,9 +19,9 @@ Fecha::Fecha(int dia, int mes, int anio)
 
         if (!esValida())
         {
-            this->dia = 1;
-            this->mes = 1;
-            this->anio = 2000;
+            this->dia = 0;
+            this->mes = 0;
+            this->anio = 0;
         }
     }
 }
