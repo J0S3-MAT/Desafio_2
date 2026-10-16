@@ -10,7 +10,8 @@ SOURCES += \
     foto.cpp \
     main.cpp \
     metricas.cpp \
-    udeabook.cpp
+    udeabook.cpp \
+    usuario.cpp
 
 HEADERS += \
     album.h \
@@ -18,4 +19,5 @@ HEADERS += \
     fecha.h \
     foto.h \
     metricas.h \
-    udeabook.h
+    udeabook.h \
+    usuario.h

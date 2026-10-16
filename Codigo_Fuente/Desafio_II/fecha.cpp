@@ -94,19 +94,19 @@ bool Fecha::operator<=(const Fecha& otra) const
 }
 
 // Obtener dia
-int Fecha::obtenerDia() const
+int Fecha::getDia() const
 {
     return dia;
 }
 
 // Obtener mes
-int Fecha::obtenerMes() const
+int Fecha::getMes() const
 {
     return mes;
 }
 
 // Obtener año
-int Fecha::obtenerAnio() const
+int Fecha::getAnio() const
 {
     return anio;
 }
