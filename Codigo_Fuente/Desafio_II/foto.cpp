@@ -11,10 +11,7 @@ Foto::Foto()
 }
 
 // Constructor con parametros
-Foto::Foto(const Fecha& fecha,
-           unsigned long long tamanio,
-           const char* ruta,
-           int likes)
+Foto::Foto(const Fecha& fecha,unsigned long long tamanio,const char* ruta,int likes)
     : fechaCaptura(fecha),
     tamanioBytes(tamanio),
     rutaArchivo(nullptr),
@@ -132,25 +129,25 @@ bool Foto::quitarLike()
 }
 
 // Obtener ruta
-const char* Foto::obtenerRuta() const
+const char* Foto::getRuta() const
 {
     return rutaArchivo;
 }
 
 // Obtener fecha de captura
-const Fecha& Foto::obtenerFechaCaptura() const
+const Fecha& Foto::getFechaCaptura() const
 {
     return fechaCaptura;
 }
 
 // Obtener tamaño en bytes
-unsigned long long Foto::obtenerTamanioBytes() const
+unsigned long long Foto::getTamanioBytes() const
 {
     return tamanioBytes;
 }
 
 // Obtener cantidad de likes
-int Foto::obtenerCantidadLikes() const
+int Foto::getCantidadLikes() const
 {
     return cantidadLikes;
 }

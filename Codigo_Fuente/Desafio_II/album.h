@@ -36,12 +36,12 @@ public:
                        bool esAmigo) const;
 
     // Consultar fotografias
-    int obtenerCantidadFotos() const;
-    Foto* obtenerFoto(int posicion);
+    int getCantidadFotos() const;
+    Foto* getFoto(int posicion);
 
     // Getters
-    const char* obtenerNombre() const;
-    const char* obtenerRuta() const;
+    const char* getNombre() const;
+    const char* getRuta() const;
 };
 
 #endif // ALBUM_H

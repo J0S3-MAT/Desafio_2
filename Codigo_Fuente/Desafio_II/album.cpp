@@ -170,13 +170,13 @@ bool Album::permiteAcceso(bool esPropietario,
 }
 
 // Obtener cantidad de fotografias
-int Album::obtenerCantidadFotos() const
+int Album::getCantidadFotos() const
 {
     return cantidadFotos;
 }
 
 // Obtener fotografia por posicion
-Foto* Album::obtenerFoto(int posicion)
+Foto* Album::getFoto(int posicion)
 {
     if (posicion < 0 || posicion >= cantidadFotos)
     {
@@ -186,14 +186,15 @@ Foto* Album::obtenerFoto(int posicion)
     return &fotos[posicion];
 }
 
+
 // Obtener nombre
-const char* Album::obtenerNombre() const
+const char* Album::getNombre() const
 {
     return nombre;
 }
 
 // Obtener ruta
-const char* Album::obtenerRuta() const
+const char* Album::getRuta() const
 {
     return ruta;
 }

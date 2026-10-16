@@ -34,10 +34,10 @@ public:
     bool quitarLike();
 
     // Getters
-    const char* obtenerRuta() const;
-    const Fecha& obtenerFechaCaptura() const;
-    unsigned long long obtenerTamanioBytes() const;
-    int obtenerCantidadLikes() const;
+    const char* getRuta() const;
+    const Fecha& getFechaCaptura() const;
+    unsigned long long getTamanioBytes() const;
+    int getCantidadLikes() const;
 };
 
 #endif // FOTO_H
