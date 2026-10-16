@@ -1,4 +1,4 @@
-#include "matrizbits.h"
+#include "MatrizBits.h"
 #include <climits>
 
 int calcularIndice(int fila, int columna, int columnas)
