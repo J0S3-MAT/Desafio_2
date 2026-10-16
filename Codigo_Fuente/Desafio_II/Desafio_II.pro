@@ -1,19 +1,26 @@
+
 TEMPLATE = app
 CONFIG += console c++17
 CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += \
-        MatrizBits.cpp \
-        fecha.cpp \
-        main.cpp \
-        mensaje.cpp \
-        metricas.cpp \
-        udeabook.cpp
+    album.cpp \
+    MatrizBits.cpp \
+    fecha.cpp \
+    foto.cpp \
+    main.cpp \
+    mensaje.cpp \
+    metricas.cpp \
+    udeabook.cpp \
+    usuario.cpp
 
 HEADERS += \
+    album.h \
     MatrizBits.h \
     fecha.h \
+    foto.h \
     mensaje.h \
     metricas.h \
-    udeabook.h
+    udeabook.h \
+    usuario.h

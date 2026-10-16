@@ -25,9 +25,9 @@ public:
     bool operator<=(const Fecha& otra) const;
 
     // Getters
-    int obtenerDia() const;
-    int obtenerMes() const;
-    int obtenerAnio() const;
+    int getDia() const;
+    int getMes() const;
+    int getAnio() const;
 };
 
 #endif // FECHA_H
