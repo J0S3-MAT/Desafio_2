@@ -1,15 +1,21 @@
 #include "udeabook.h"
 #include "matrizbits.h"
+#include "mensaje.h"
 
 UdeABook::UdeABook()
 {
     matrizAmistades = nullptr;
     cantidadUsuarios = 0;
+
+    mensajes = nullptr;
+    cantidadMensajes = 0;
+    capacidadMensajes = 0;
 }
 
 UdeABook::~UdeABook()
 {
     destruirMatrizBits(matrizAmistades);
+    delete[] mensajes;
 }
 
 bool UdeABook::inicializarMatrizAmistades(int cantidad)
@@ -84,6 +90,8 @@ bool UdeABook::establecerAmistad(int usuario1, int usuario2)
 
 int UdeABook::contarAmigosComunes(int usuario1, int usuario2, Metricas& metricas) const
 {
+
+
     if (matrizAmistades == nullptr)
     {
         return 0;
@@ -111,6 +119,8 @@ int UdeABook::contarAmigosComunes(int usuario1, int usuario2, Metricas& metricas
         }
     }
 
+
+
     return comunes;
 }
 
@@ -135,5 +145,131 @@ unsigned long long UdeABook::getBytesMatrizAmistades() const
 
 unsigned long long UdeABook::getMemoriaSistema() const
 {
-    return sizeof(UdeABook) + getBytesMatrizAmistades();
+    unsigned long long memoria = sizeof(UdeABook) + getBytesMatrizAmistades();
+
+    memoria += static_cast<unsigned long long>(capacidadMensajes) * sizeof(Mensaje);
+
+    return memoria;
+}
+
+int UdeABook::contarAmigos(int usuario, Metricas& metricas) const
+{
+    if (matrizAmistades == nullptr || usuario < 0 || usuario >= cantidadUsuarios)
+    {
+        return 0;
+    }
+
+    int cantidad = 0;
+
+    for (int i = 0; i < cantidadUsuarios; i++)
+    {
+        metricas.sumarIteraciones(1);
+
+        if (sonAmigos(usuario, i))
+        {
+            cantidad++;
+        }
+    }
+
+    return cantidad;
+}
+
+
+int UdeABook::obtenerSugerencias(int usuario, int k, int* resultados, Metricas& metricas) const
+{
+    if (matrizAmistades == nullptr || resultados == nullptr || usuario < 0 || usuario >= cantidadUsuarios || k < 1 || k > 20)
+    {
+        return 0;
+    }
+
+    // Reservar y registrar el arreglo de puntuaciones
+    unsigned long long bytesPuntuaciones = static_cast<unsigned long long>(cantidadUsuarios) * sizeof(int);
+
+    int* puntuaciones = new int[cantidadUsuarios]();
+
+    metricas.sumarMemoriaTemporal(bytesPuntuaciones);
+
+    // Registrar parametros por valor y variables locales principales
+    unsigned long long bytesLocales = sizeof(usuario) + sizeof(k) + sizeof(resultados) + sizeof(bytesPuntuaciones) + sizeof(puntuaciones) + sizeof(bytesLocales);
+
+    metricas.sumarMemoriaTemporal(bytesLocales);
+
+    // Buscar amigos de amigos y calcular puntuaciones
+    metricas.sumarMemoriaTemporal(sizeof(int));
+
+    for (int amigo = 0; amigo < cantidadUsuarios; amigo++)
+    {
+        metricas.sumarIteraciones(1);
+
+        if (!sonAmigos(usuario, amigo))
+        {
+            continue;
+        }
+
+        metricas.sumarMemoriaTemporal(sizeof(int));
+
+        for (int candidato = 0; candidato < cantidadUsuarios; candidato++)
+        {
+            metricas.sumarIteraciones(1);
+
+            if (candidato != usuario && !sonAmigos(usuario, candidato) && sonAmigos(amigo, candidato))
+            {
+                puntuaciones[candidato]++;
+            }
+        }
+
+        metricas.restarMemoriaTemporal(sizeof(int));
+    }
+
+    metricas.restarMemoriaTemporal(sizeof(int));
+
+    // Seleccionar hasta K candidatos con mas amigos comunes
+    int cantidad = 0;
+
+    metricas.sumarMemoriaTemporal(sizeof(cantidad));
+    metricas.sumarMemoriaTemporal(sizeof(int));
+
+    for (int i = 0; i < k; i++)
+    {
+        int mejor = -1;
+
+        metricas.sumarMemoriaTemporal(sizeof(mejor));
+        metricas.sumarMemoriaTemporal(sizeof(int));
+
+        for (int candidato = 0; candidato < cantidadUsuarios; candidato++)
+        {
+            metricas.sumarIteraciones(1);
+
+            if (puntuaciones[candidato] > 0 && (mejor == -1 || puntuaciones[candidato] > puntuaciones[mejor]))
+            {
+                mejor = candidato;
+            }
+        }
+
+        metricas.restarMemoriaTemporal(sizeof(int));
+
+        if (mejor == -1)
+        {
+            metricas.restarMemoriaTemporal(sizeof(mejor));
+            break;
+        }
+
+        resultados[cantidad] = mejor;
+        cantidad++;
+
+        puntuaciones[mejor] = -1;
+
+        metricas.restarMemoriaTemporal(sizeof(mejor));
+    }
+
+    metricas.restarMemoriaTemporal(sizeof(int));
+
+    // Liberar y descontar la memoria temporal
+    delete[] puntuaciones;
+
+    metricas.restarMemoriaTemporal(bytesPuntuaciones);
+    metricas.restarMemoriaTemporal(bytesLocales);
+    metricas.restarMemoriaTemporal(sizeof(cantidad));
+
+    return cantidad;
 }

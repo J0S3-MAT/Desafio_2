@@ -7,6 +7,7 @@ private:
     unsigned long long iteraciones;
     unsigned long long memoriaTemporalBytes;
     unsigned long long memoriaTotalBytes;
+    unsigned long long picoMemoriaTemporalBytes;
 
 public:
     Metricas();
@@ -25,7 +26,7 @@ public:
     unsigned long long getMemoriaTotal() const;
 
     void mostrarResultados() const;
-
+    unsigned long long getPicoMemoriaTemporal() const;
 };
 
 #endif
