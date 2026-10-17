@@ -16,6 +16,12 @@ public:
     Fecha(int dia, int mes, int anio);
     Fecha(const Fecha& otra);
 
+    // Operador de asignacion
+    Fecha& operator=(const Fecha& otra);
+
+    // Fecha actual en Colombia (UTC-5)
+    static Fecha hoy();
+
     // Validacion
     bool esValida() const;
 
