@@ -200,3 +200,113 @@ const char* Album::getRuta() const
 }
 
 
+unsigned long long Album::getBytesDinamicos() const
+{
+    unsigned long long memoria = 0;
+
+    // Memoria dinamica del nombre
+    if (nombre != nullptr)
+    {
+        int longitud = 0;
+
+        while (nombre[longitud] != '\0')
+        {
+            longitud++;
+        }
+
+        memoria += static_cast<unsigned long long>(longitud) + 1;
+    }
+
+    // Memoria dinamica de la ruta del album
+    if (ruta != nullptr)
+    {
+        int longitud = 0;
+
+        while (ruta[longitud] != '\0')
+        {
+            longitud++;
+        }
+
+        memoria += static_cast<unsigned long long>(longitud) + 1;
+    }
+
+    // Memoria dinamica de las fotografias
+    if (fotos != nullptr)
+    {
+        memoria += static_cast<unsigned long long>(cantidadFotos) * sizeof(Foto);
+
+        for (int i = 0; i < cantidadFotos; i++)
+        {
+            memoria += fotos[i].getBytesRuta();
+        }
+    }
+
+    return memoria;
+}
+
+// Crear una copia independiente de una cadena
+char* Album::copiarCadena(const char* texto)
+{
+    if (texto == nullptr)
+    {
+        return nullptr;
+    }
+
+    int longitud = 0;
+
+    while (texto[longitud] != '\0')
+    {
+        longitud++;
+    }
+
+    char* copia = new char[longitud + 1];
+
+    for (int i = 0; i <= longitud; i++)
+    {
+        copia[i] = texto[i];
+    }
+
+    return copia;
+}
+
+// Reemplazar los datos del album y reservar sus fotos vacias.
+// Primero se reserva todo lo nuevo; si algo falla, el album queda como estaba
+bool Album::inicializar(const char* nuevoNombre, const char* nuevaRuta, int nuevaPrivacidad, int nuevaCantidadFotos)
+{
+    if (nuevaCantidadFotos < 0)
+    {
+        return false;
+    }
+
+    char* copiaNombre = copiarCadena(nuevoNombre);
+    char* copiaRuta = nullptr;
+    Foto* nuevasFotos = nullptr;
+
+    try
+    {
+        copiaRuta = copiarCadena(nuevaRuta);
+
+        if (nuevaCantidadFotos > 0)
+        {
+            nuevasFotos = new Foto[nuevaCantidadFotos];
+        }
+    }
+    catch (...)
+    {
+        delete[] copiaNombre;
+        delete[] copiaRuta;
+        throw;
+    }
+
+    delete[] nombre;
+    delete[] ruta;
+    delete[] fotos;
+
+    nombre = copiaNombre;
+    ruta = copiaRuta;
+    privacidad = (nuevaPrivacidad >= 0 && nuevaPrivacidad <= 2) ? nuevaPrivacidad : 2;
+    fotos = nuevasFotos;
+    cantidadFotos = nuevaCantidadFotos;
+
+    return true;
+}
