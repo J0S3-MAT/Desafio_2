@@ -43,12 +43,13 @@ Fecha& Fecha::operator=(const Fecha& otra)
     return *this;
 }
 
-// Fecha actual: se cuentan los dias desde el 1/1/1970 y se descuentan anios y meses completos
+
 Fecha Fecha::hoy()
 {
-    long long segundos = std::chrono::duration_cast<std::chrono::seconds>(std::chrono::system_clock::now().time_since_epoch()).count();
 
-    // Hora de Colombia: UTC - 5 horas
+    long long segundos = std::chrono::system_clock::to_time_t(std::chrono::system_clock::now());
+
+
     long long dias = (segundos - 5 * 3600) / 86400;
 
     int anio = 1970;
@@ -77,7 +78,9 @@ Fecha Fecha::hoy()
         mes++;
     }
 
-    return Fecha(static_cast<int>(dias) + 1, mes + 1, anio);
+    int dia = dias + 1;
+
+    return Fecha(dia, mes + 1, anio);
 }
 
 // Verificar si el año es bisiesto
@@ -135,25 +138,25 @@ bool Fecha::operator==(const Fecha& otra) const
            anio == otra.anio;
 }
 
-// Operador menor o igual
+
 bool Fecha::operator<=(const Fecha& otra) const
 {
     return (*this < otra) || (*this == otra);
 }
 
-// Obtener dia
+
 int Fecha::getDia() const
 {
     return dia;
 }
 
-// Obtener mes
+
 int Fecha::getMes() const
 {
     return mes;
 }
 
-// Obtener año
+
 int Fecha::getAnio() const
 {
     return anio;

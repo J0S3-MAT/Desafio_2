@@ -11,11 +11,7 @@ Album::Album()
 }
 
 // Constructor con parametros
-Album::Album(const char* nombre,
-             const char* ruta,
-             int privacidad,
-             const Foto* fotos,
-             int cantidadFotos)
+Album::Album(const char* nombre,const char* ruta,int privacidad,const Foto* fotos,int cantidadFotos)
     : nombre(nullptr),
     ruta(nullptr),
     privacidad(2),
@@ -90,11 +86,7 @@ Album::Album(const char* nombre,
 
 // Constructor de copia
 Album::Album(const Album& otro)
-    : Album(otro.nombre,
-            otro.ruta,
-            otro.privacidad,
-            otro.fotos,
-            otro.cantidadFotos)
+    : Album(otro.nombre,otro.ruta,otro.privacidad,otro.fotos,otro.cantidadFotos)
 {
 }
 
@@ -111,30 +103,28 @@ Album& Album::operator=(const Album& otro)
 {
     if (this != &otro)
     {
-        // Crear una copia profunda temporal
+
         Album copia(otro);
 
-        // Intercambiar nombres
+
         char* nombreTemporal = nombre;
         nombre = copia.nombre;
         copia.nombre = nombreTemporal;
 
-        // Intercambiar rutas
+
         char* rutaTemporal = ruta;
         ruta = copia.ruta;
         copia.ruta = rutaTemporal;
 
-        // Intercambiar privacidad
         int privacidadTemporal = privacidad;
         privacidad = copia.privacidad;
         copia.privacidad = privacidadTemporal;
 
-        // Intercambiar arreglos de fotos
+
         Foto* fotosTemporales = fotos;
         fotos = copia.fotos;
         copia.fotos = fotosTemporales;
 
-        // Intercambiar cantidades
         int cantidadTemporal = cantidadFotos;
         cantidadFotos = copia.cantidadFotos;
         copia.cantidadFotos = cantidadTemporal;
@@ -147,35 +137,32 @@ Album& Album::operator=(const Album& otro)
 bool Album::permiteAcceso(bool esPropietario,
                           bool esAmigo) const
 {
-    // El propietario siempre puede acceder
+
     if (esPropietario)
     {
         return true;
     }
 
-    // Album publico
     if (privacidad == 0)
     {
         return true;
     }
 
-    // Album solo para amigos
+
     if (privacidad == 1 && esAmigo)
     {
         return true;
     }
 
-    // Album privado
+
     return false;
 }
 
-// Obtener cantidad de fotografias
 int Album::getCantidadFotos() const
 {
     return cantidadFotos;
 }
 
-// Obtener fotografia por posicion
 Foto* Album::getFoto(int posicion)
 {
     if (posicion < 0 || posicion >= cantidadFotos)
@@ -187,13 +174,12 @@ Foto* Album::getFoto(int posicion)
 }
 
 
-// Obtener nombre
+
 const char* Album::getNombre() const
 {
     return nombre;
 }
 
-// Obtener ruta
 const char* Album::getRuta() const
 {
     return ruta;
@@ -204,7 +190,7 @@ unsigned long long Album::getBytesDinamicos() const
 {
     unsigned long long memoria = 0;
 
-    // Memoria dinamica del nombre
+
     if (nombre != nullptr)
     {
         int longitud = 0;
@@ -214,10 +200,9 @@ unsigned long long Album::getBytesDinamicos() const
             longitud++;
         }
 
-        memoria += static_cast<unsigned long long>(longitud) + 1;
+        memoria += longitud + 1;
     }
 
-    // Memoria dinamica de la ruta del album
     if (ruta != nullptr)
     {
         int longitud = 0;
@@ -227,13 +212,13 @@ unsigned long long Album::getBytesDinamicos() const
             longitud++;
         }
 
-        memoria += static_cast<unsigned long long>(longitud) + 1;
+        memoria += longitud + 1;
     }
 
-    // Memoria dinamica de las fotografias
+
     if (fotos != nullptr)
     {
-        memoria += static_cast<unsigned long long>(cantidadFotos) * sizeof(Foto);
+        memoria += cantidadFotos * sizeof(Foto);
 
         for (int i = 0; i < cantidadFotos; i++)
         {
@@ -244,7 +229,7 @@ unsigned long long Album::getBytesDinamicos() const
     return memoria;
 }
 
-// Crear una copia independiente de una cadena
+
 char* Album::copiarCadena(const char* texto)
 {
     if (texto == nullptr)
@@ -269,8 +254,7 @@ char* Album::copiarCadena(const char* texto)
     return copia;
 }
 
-// Reemplazar los datos del album y reservar sus fotos vacias.
-// Primero se reserva todo lo nuevo; si algo falla, el album queda como estaba
+
 bool Album::inicializar(const char* nuevoNombre, const char* nuevaRuta, int nuevaPrivacidad, int nuevaCantidadFotos)
 {
     if (nuevaCantidadFotos < 0)

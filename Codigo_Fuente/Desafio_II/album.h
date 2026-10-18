@@ -24,7 +24,7 @@ public:
           const Foto* fotos,
           int cantidadFotos);
 
-    // Constructor de copia
+
     Album(const Album& otro);
 
     // Destructor
@@ -33,8 +33,7 @@ public:
     // Operador de asignacion
     Album& operator=(const Album& otro);
 
-    // Reemplazar los datos del album y reservar cantidadFotos fotos vacias, que luego
-    // se llenan en su lugar con getFoto(i)->setDatos(...). Se usa al cargar, sin copias temporales
+
     bool inicializar(const char* nuevoNombre, const char* nuevaRuta, int nuevaPrivacidad, int nuevaCantidadFotos);
 
     // Privacidad
