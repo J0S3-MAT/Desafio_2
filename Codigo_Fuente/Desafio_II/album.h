@@ -12,6 +12,8 @@ private:
     Foto* fotos;
     int cantidadFotos;
 
+    static char* copiarCadena(const char* texto);
+
 public:
     // Constructores
     Album();
@@ -22,7 +24,7 @@ public:
           const Foto* fotos,
           int cantidadFotos);
 
-    // Constructor de copia
+
     Album(const Album& otro);
 
     // Destructor
@@ -30,6 +32,9 @@ public:
 
     // Operador de asignacion
     Album& operator=(const Album& otro);
+
+
+    bool inicializar(const char* nuevoNombre, const char* nuevaRuta, int nuevaPrivacidad, int nuevaCantidadFotos);
 
     // Privacidad
     bool permiteAcceso(bool esPropietario,
@@ -42,6 +47,8 @@ public:
     // Getters
     const char* getNombre() const;
     const char* getRuta() const;
+
+    unsigned long long getBytesDinamicos() const;
 };
 
 #endif // ALBUM_H

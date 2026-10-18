@@ -11,10 +11,16 @@ private:
     bool esBisiesto(int anio) const;
 
 public:
-    // Constructores
+
     Fecha();
     Fecha(int dia, int mes, int anio);
     Fecha(const Fecha& otra);
+
+
+    Fecha& operator=(const Fecha& otra);
+
+
+    static Fecha hoy();
 
     // Validacion
     bool esValida() const;
@@ -24,7 +30,7 @@ public:
     bool operator==(const Fecha& otra) const;
     bool operator<=(const Fecha& otra) const;
 
-    // Getters
+
     int getDia() const;
     int getMes() const;
     int getAnio() const;

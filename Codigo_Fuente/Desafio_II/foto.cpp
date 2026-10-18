@@ -152,3 +152,50 @@ int Foto::getCantidadLikes() const
     return cantidadLikes;
 }
 
+
+unsigned long long Foto::getBytesRuta() const
+{
+    if (rutaArchivo == nullptr)
+    {
+        return 0;
+    }
+
+    int longitud = 0;
+
+    while (rutaArchivo[longitud] != '\0')
+    {
+        longitud++;
+    }
+
+    return longitud + 1;
+}
+
+// Reemplazar todos los datos de la foto. La ruta nueva se copia antes de liberar la anterior
+void Foto::setDatos(const Fecha& fecha, unsigned long long tamanio, const char* ruta, int likes)
+{
+    char* nuevaRuta = nullptr;
+
+    if (ruta != nullptr)
+    {
+        int longitud = 0;
+
+        while (ruta[longitud] != '\0')
+        {
+            longitud++;
+        }
+
+        nuevaRuta = new char[longitud + 1];
+
+        for (int i = 0; i <= longitud; i++)
+        {
+            nuevaRuta[i] = ruta[i];
+        }
+    }
+
+    delete[] rutaArchivo;
+
+    rutaArchivo = nuevaRuta;
+    fechaCaptura = fecha;
+    tamanioBytes = tamanio;
+    cantidadLikes = likes >= 0 ? likes : 0;
+}

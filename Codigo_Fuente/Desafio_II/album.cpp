@@ -11,11 +11,7 @@ Album::Album()
 }
 
 // Constructor con parametros
-Album::Album(const char* nombre,
-             const char* ruta,
-             int privacidad,
-             const Foto* fotos,
-             int cantidadFotos)
+Album::Album(const char* nombre,const char* ruta,int privacidad,const Foto* fotos,int cantidadFotos)
     : nombre(nullptr),
     ruta(nullptr),
     privacidad(2),
@@ -90,11 +86,7 @@ Album::Album(const char* nombre,
 
 // Constructor de copia
 Album::Album(const Album& otro)
-    : Album(otro.nombre,
-            otro.ruta,
-            otro.privacidad,
-            otro.fotos,
-            otro.cantidadFotos)
+    : Album(otro.nombre,otro.ruta,otro.privacidad,otro.fotos,otro.cantidadFotos)
 {
 }
 
@@ -111,30 +103,28 @@ Album& Album::operator=(const Album& otro)
 {
     if (this != &otro)
     {
-        // Crear una copia profunda temporal
+
         Album copia(otro);
 
-        // Intercambiar nombres
+
         char* nombreTemporal = nombre;
         nombre = copia.nombre;
         copia.nombre = nombreTemporal;
 
-        // Intercambiar rutas
+
         char* rutaTemporal = ruta;
         ruta = copia.ruta;
         copia.ruta = rutaTemporal;
 
-        // Intercambiar privacidad
         int privacidadTemporal = privacidad;
         privacidad = copia.privacidad;
         copia.privacidad = privacidadTemporal;
 
-        // Intercambiar arreglos de fotos
+
         Foto* fotosTemporales = fotos;
         fotos = copia.fotos;
         copia.fotos = fotosTemporales;
 
-        // Intercambiar cantidades
         int cantidadTemporal = cantidadFotos;
         cantidadFotos = copia.cantidadFotos;
         copia.cantidadFotos = cantidadTemporal;
@@ -147,35 +137,32 @@ Album& Album::operator=(const Album& otro)
 bool Album::permiteAcceso(bool esPropietario,
                           bool esAmigo) const
 {
-    // El propietario siempre puede acceder
+
     if (esPropietario)
     {
         return true;
     }
 
-    // Album publico
     if (privacidad == 0)
     {
         return true;
     }
 
-    // Album solo para amigos
+
     if (privacidad == 1 && esAmigo)
     {
         return true;
     }
 
-    // Album privado
+
     return false;
 }
 
-// Obtener cantidad de fotografias
 int Album::getCantidadFotos() const
 {
     return cantidadFotos;
 }
 
-// Obtener fotografia por posicion
 Foto* Album::getFoto(int posicion)
 {
     if (posicion < 0 || posicion >= cantidadFotos)
@@ -187,16 +174,123 @@ Foto* Album::getFoto(int posicion)
 }
 
 
-// Obtener nombre
+
 const char* Album::getNombre() const
 {
     return nombre;
 }
 
-// Obtener ruta
 const char* Album::getRuta() const
 {
     return ruta;
 }
 
 
+unsigned long long Album::getBytesDinamicos() const
+{
+    unsigned long long memoria = 0;
+
+
+    if (nombre != nullptr)
+    {
+        int longitud = 0;
+
+        while (nombre[longitud] != '\0')
+        {
+            longitud++;
+        }
+
+        memoria += longitud + 1;
+    }
+
+    if (ruta != nullptr)
+    {
+        int longitud = 0;
+
+        while (ruta[longitud] != '\0')
+        {
+            longitud++;
+        }
+
+        memoria += longitud + 1;
+    }
+
+
+    if (fotos != nullptr)
+    {
+        memoria += cantidadFotos * sizeof(Foto);
+
+        for (int i = 0; i < cantidadFotos; i++)
+        {
+            memoria += fotos[i].getBytesRuta();
+        }
+    }
+
+    return memoria;
+}
+
+
+char* Album::copiarCadena(const char* texto)
+{
+    if (texto == nullptr)
+    {
+        return nullptr;
+    }
+
+    int longitud = 0;
+
+    while (texto[longitud] != '\0')
+    {
+        longitud++;
+    }
+
+    char* copia = new char[longitud + 1];
+
+    for (int i = 0; i <= longitud; i++)
+    {
+        copia[i] = texto[i];
+    }
+
+    return copia;
+}
+
+
+bool Album::inicializar(const char* nuevoNombre, const char* nuevaRuta, int nuevaPrivacidad, int nuevaCantidadFotos)
+{
+    if (nuevaCantidadFotos < 0)
+    {
+        return false;
+    }
+
+    char* copiaNombre = copiarCadena(nuevoNombre);
+    char* copiaRuta = nullptr;
+    Foto* nuevasFotos = nullptr;
+
+    try
+    {
+        copiaRuta = copiarCadena(nuevaRuta);
+
+        if (nuevaCantidadFotos > 0)
+        {
+            nuevasFotos = new Foto[nuevaCantidadFotos];
+        }
+    }
+    catch (...)
+    {
+        delete[] copiaNombre;
+        delete[] copiaRuta;
+        throw;
+    }
+
+    delete[] nombre;
+    delete[] ruta;
+    delete[] fotos;
+
+    nombre = copiaNombre;
+    ruta = copiaRuta;
+    privacidad = (nuevaPrivacidad >= 0 && nuevaPrivacidad <= 2) ? nuevaPrivacidad : 2;
+    fotos = nuevasFotos;
+    cantidadFotos = nuevaCantidadFotos;
+
+    return true;
+}

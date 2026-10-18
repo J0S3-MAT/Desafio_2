@@ -29,6 +29,9 @@ public:
     // Operador de asignacion
     Foto& operator=(const Foto& otra);
 
+    // Reemplazar todos los datos de la foto (se usa al cargar, sin crear copias temporales)
+    void setDatos(const Fecha& fecha, unsigned long long tamanio, const char* ruta, int likes);
+
     // Administracion de likes
     void darLike();
     bool quitarLike();
@@ -38,6 +41,8 @@ public:
     const Fecha& getFechaCaptura() const;
     unsigned long long getTamanioBytes() const;
     int getCantidadLikes() const;
+
+    unsigned long long getBytesRuta() const;
 };
 
 #endif // FOTO_H
