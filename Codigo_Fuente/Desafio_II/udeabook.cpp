@@ -5,7 +5,6 @@
 #include <iostream>
 #include <random>
 #include <fstream>
-#include <filesystem>
 
 using namespace std;
 
@@ -53,8 +52,9 @@ bool UdeABook::inicializarMatrizAmistades(int cantidad)
         return false;
     }
 
-    // Dos matrices de bits N x N: amistades y solicitudes pendientes
-    unsigned char* nuevaMatriz = crearMatrizBits(cantidad, cantidad);
+    // Amistades: matriz triangular, porque la amistad es simetrica (N * (N - 1) / 2 bits).
+    // Solicitudes: matriz completa N x N, porque no es simetrica (A -> B no implica B -> A)
+    unsigned char* nuevaMatriz = crearMatrizTriangular(cantidad);
     unsigned char* nuevasSolicitudes = crearMatrizBits(cantidad, cantidad);
 
     if (nuevaMatriz == nullptr || nuevasSolicitudes == nullptr)
@@ -93,7 +93,7 @@ bool UdeABook::sonAmigos(int usuario1, int usuario2) const
         return false;
     }
 
-    return leerBit(matrizAmistades, usuario1, usuario2, cantidadUsuarios);
+    return leerBitTriangular(matrizAmistades, usuario1, usuario2);
 }
 
 bool UdeABook::establecerAmistad(int usuario1, int usuario2)
@@ -118,8 +118,8 @@ bool UdeABook::establecerAmistad(int usuario1, int usuario2)
         return false;
     }
 
-    encenderBit(matrizAmistades, usuario1, usuario2, cantidadUsuarios);
-    encenderBit(matrizAmistades, usuario2, usuario1, cantidadUsuarios);
+    // Un solo bit representa la amistad en los dos sentidos
+    encenderBitTriangular(matrizAmistades, usuario1, usuario2);
 
     cantidadAmistades++;
 
@@ -169,8 +169,21 @@ unsigned long long UdeABook::getBytesMatrizAmistades() const
         return 0;
     }
 
-    unsigned long long totalBits = static_cast<unsigned long long>(cantidadUsuarios) * cantidadUsuarios;
+    return calcularBytesTriangular(cantidadUsuarios);
+}
 
+
+
+// La matriz de solicitudes es completa: N * N bits
+unsigned long long UdeABook::getBytesMatrizSolicitudes() const
+{
+    if (matrizSolicitudes == nullptr)
+    {
+        return 0;
+    }
+
+    unsigned long long totalBits = cantidadUsuarios;
+    totalBits = totalBits * cantidadUsuarios;
     unsigned long long bytes = totalBits / 8;
 
     if (totalBits % 8 != 0)
@@ -181,26 +194,13 @@ unsigned long long UdeABook::getBytesMatrizAmistades() const
     return bytes;
 }
 
-
-
-// La matriz de solicitudes tiene el mismo tamano que la de amistades
-unsigned long long UdeABook::getBytesMatrizSolicitudes() const
-{
-    if (matrizSolicitudes == nullptr)
-    {
-        return 0;
-    }
-
-    return getBytesMatrizAmistades();
-}
-
 unsigned long long UdeABook::getMemoriaSistema() const
 {
     unsigned long long memoria = sizeof(UdeABook) + getBytesMatrizAmistades() + getBytesMatrizSolicitudes();
 
     if (usuarios != nullptr)
     {
-        memoria += static_cast<unsigned long long>(cantidadUsuarios) * sizeof(Usuario);
+        memoria += cantidadUsuarios * sizeof(Usuario);
 
         for (int i = 0; i < cantidadUsuarios; i++)
         {
@@ -209,7 +209,7 @@ unsigned long long UdeABook::getMemoriaSistema() const
     }
 
     // Bloques de mensajes reservados y textos de los mensajes
-    unsigned long long bloques = (static_cast<unsigned long long>(cantidadMensajes) + TAM_BLOQUE_MENSAJES - 1) / TAM_BLOQUE_MENSAJES;
+    unsigned long long bloques = (cantidadMensajes + TAM_BLOQUE_MENSAJES - 1) / TAM_BLOQUE_MENSAJES;
 
     memoria += bloques * TAM_BLOQUE_MENSAJES * sizeof(Mensaje);
     memoria += bytesTextosMensajes;
@@ -224,7 +224,7 @@ unsigned long long UdeABook::getMemoriaSistema() const
             longitud++;
         }
 
-        memoria += static_cast<unsigned long long>(longitud) + 1;
+        memoria += longitud + 1;
     }
 
     return memoria;
@@ -262,7 +262,7 @@ int UdeABook::obtenerSugerencias(int usuario, int k, int* resultados, Metricas& 
     }
 
     // Reservar y registrar el arreglo de puntuaciones
-    unsigned long long bytesPuntuaciones = static_cast<unsigned long long>(cantidadUsuarios) * sizeof(int);
+    unsigned long long bytesPuntuaciones = cantidadUsuarios * sizeof(int);
 
     int* puntuaciones = new int[cantidadUsuarios]();
 
@@ -661,7 +661,7 @@ int UdeABook::agregarMensaje(int emisor, int receptor, const char* texto, const 
         return 4;
     }
 
-    // Si el ultimo bloque esta lleno (o no hay bloques) se enlaza uno nuevo
+
     if (cantidadMensajes % TAM_BLOQUE_MENSAJES == 0)
     {
         Mensaje* nuevo = new Mensaje[TAM_BLOQUE_MENSAJES];
@@ -702,12 +702,7 @@ int UdeABook::agregarMensaje(int emisor, int receptor, const char* texto, const 
     return 0;
 }
 
-// Reunir los mensajes recibidos por el usuario que cumplan la condicion y ordenarlos por fecha.
-// soloNoLeidos = true: solo los no leidos. soloNoLeidos = false: solo los del rango [inicio, fin].
-// Se recorre la lista enlazada de recibidos del usuario y los mensajes elegidos se guardan en un
-// arreglo temporal de punteros (no se copian mensajes), que se ordena por insercion. La insercion es
-// estable: los mensajes del mismo dia conservan su orden de llegada.
-// Retorna la cantidad; 'seleccionados' queda reservado y debe liberarse con delete[]
+
 int UdeABook::seleccionarMensajesOrdenados(int usuario, bool soloNoLeidos, const Fecha& inicio, const Fecha& fin, Mensaje**& seleccionados, Metricas& metricas) const
 {
     int recibidos = usuarios[usuario].getCantidadMensajesRecibidos();
@@ -906,7 +901,7 @@ void UdeABook::verAlbumCarrusel(int visitante, int dueno, int posicionAlbum, Met
 
     // Recordar en que fotos dio like el visitante durante esta visita, para alternar dar/quitar
     bool* conLike = new bool[total]();
-    unsigned long long bytesConLike = static_cast<unsigned long long>(total) * sizeof(bool);
+    unsigned long long bytesConLike = total * sizeof(bool);
 
     metricas.sumarMemoriaTemporal(bytesConLike);
     metricas.sumarMemoriaTemporal(sizeof(album) + sizeof(total) + sizeof(conLike) + sizeof(bytesConLike) + 16 * sizeof(char));
@@ -1008,7 +1003,7 @@ int UdeABook::seleccionarFotosAmigos(int usuario, int* seleccion, const int* exc
     int* amigos = new int[cantidadAmigos];
     int* pesos = new int[cantidadAmigos];
     bool* excluido = new bool[cantidadAmigos]();
-    unsigned long long bytesTemporales = static_cast<unsigned long long>(cantidadAmigos) * (2 * sizeof(int) + sizeof(bool));
+    unsigned long long bytesTemporales = cantidadAmigos * (2 * sizeof(int) + sizeof(bool));
 
     metricas.sumarMemoriaTemporal(bytesTemporales);
 
@@ -1330,7 +1325,7 @@ bool UdeABook::cargarAlbumesYFotos(const char* carpeta, Metricas& metricas)
 
                 if (correcto)
                 {
-                    album->getFoto(f)->setDatos(Fecha(dia, mes, anio), static_cast<unsigned long long>(tamanio), rutaFoto, likes);
+                    album->getFoto(f)->setDatos(Fecha(dia, mes, anio), tamanio, rutaFoto, likes);
                 }
             }
         }
@@ -1608,10 +1603,7 @@ bool UdeABook::escribirFotos(const char* ruta, Metricas& metricas) const
     return !archivo.fail();
 }
 
-// Guardar lo que cambia durante la ejecucion: amistades, solicitudes, mensajes y likes.
-// usuarios.txt y albumes.txt no cambian en esta version, por eso no se reescriben.
-// Guardado seguro: primero se escribe todo en archivos .tmp; solo si los cuatro quedaron
-// bien se reemplazan los originales. Si algo falla, los originales quedan intactos
+
 bool UdeABook::guardarDatos(const char* carpeta, Metricas& metricas) const
 {
     if (usuarios == nullptr)
@@ -1619,54 +1611,25 @@ bool UdeABook::guardarDatos(const char* carpeta, Metricas& metricas) const
         return false;
     }
 
-    const int CANTIDAD_ARCHIVOS = 4;
-    const char* nombres[CANTIDAD_ARCHIVOS] = {"amistades.txt", "solicitudes.txt", "mensajes.txt", "fotos.txt"};
-    char rutasFinales[CANTIDAD_ARCHIVOS][TAM_RUTA];
-    char rutasTemporales[CANTIDAD_ARCHIVOS][TAM_RUTA];
-
-    unsigned long long bytesLocales = sizeof(nombres) + sizeof(rutasFinales) + sizeof(rutasTemporales) + 2 * sizeof(int) + sizeof(bool);
+    char ruta[TAM_RUTA];
+    unsigned long long bytesLocales = sizeof(ruta) + sizeof(bool);
     metricas.sumarMemoriaTemporal(bytesLocales);
 
-    for (int i = 0; i < CANTIDAD_ARCHIVOS; i++)
-    {
-        metricas.sumarIteraciones(1);
+    armarRuta(ruta, TAM_RUTA, carpeta, "amistades.txt");
+    bool correcto = escribirAmistades(ruta, metricas);
 
-        armarRuta(rutasFinales[i], TAM_RUTA, carpeta, nombres[i]);
-        armarRuta(rutasTemporales[i], TAM_RUTA, rutasFinales[i], ".tmp");
-    }
+    armarRuta(ruta, TAM_RUTA, carpeta, "solicitudes.txt");
+    correcto = correcto && escribirSolicitudes(ruta, metricas);
 
-    // 1. Escribir los temporales
-    bool correcto = escribirAmistades(rutasTemporales[0], metricas) && escribirSolicitudes(rutasTemporales[1], metricas) && escribirMensajes(rutasTemporales[2], metricas) && escribirFotos(rutasTemporales[3], metricas);
+    armarRuta(ruta, TAM_RUTA, carpeta, "mensajes.txt");
+    correcto = correcto && escribirMensajes(ruta, metricas);
 
-    // 2. Reemplazar los originales solo si todo se escribio bien
-    for (int i = 0; i < CANTIDAD_ARCHIVOS; i++)
-    {
-        metricas.sumarIteraciones(1);
-
-        std::error_code error;
-
-        if (correcto)
-        {
-            std::filesystem::rename(rutasTemporales[i], rutasFinales[i], error);
-            metricas.registrarExterno(Metricas::EXTERNO_SISTEMA_ARCHIVOS);
-
-            if (error)
-            {
-                correcto = false;
-            }
-        }
-
-        // Si algo fallo, se borran los temporales que queden
-        if (!correcto)
-        {
-            std::filesystem::remove(rutasTemporales[i], error);
-            metricas.registrarExterno(Metricas::EXTERNO_SISTEMA_ARCHIVOS);
-        }
-    }
+    armarRuta(ruta, TAM_RUTA, carpeta, "fotos.txt");
+    correcto = correcto && escribirFotos(ruta, metricas);
 
     if (!correcto)
     {
-        cout << "Error al guardar los datos en " << carpeta << ". Se conservan los archivos anteriores." << endl;
+        cout << "Error al guardar los datos en " << carpeta << endl;
     }
 
     metricas.restarMemoriaTemporal(bytesLocales);

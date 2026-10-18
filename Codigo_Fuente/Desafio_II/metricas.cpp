@@ -56,8 +56,7 @@ void Metricas::restarMemoriaTemporal(unsigned long long bytes)
 
 void Metricas::registrarMemoriaFinal(unsigned long long memoriaSistema)
 {
-    // Memoria en el momento exacto en que termina la funcionalidad:
-    // estructuras permanentes del sistema + variables locales y parametros por valor aun activos
+
     memoriaTotalBytes = memoriaSistema + memoriaTemporalBytes;
 }
 
@@ -86,7 +85,7 @@ unsigned long long Metricas::getUsosExterno(int tipo) const
 
 void Metricas::mostrarResultados() const
 {
-    const char* nombres[CANTIDAD_EXTERNOS] = {"generador aleatorio <random>", "reloj del sistema <chrono>", "archivos abiertos <fstream>", "operaciones de archivo <filesystem>"};
+    const char* nombres[CANTIDAD_EXTERNOS] = {"generador aleatorio <random>", "reloj del sistema <chrono>", "archivos abiertos <fstream>"};
 
     cout << "------METRICAS DE RECURSOS------" << endl;
     cout << "Iteraciones: " << iteraciones << endl;

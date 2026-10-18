@@ -8,6 +8,9 @@ Mensaje::Mensaje()
     texto = nullptr;
     longitudTexto = 0;
     leido = false;
+    siguienteBloque = nullptr;
+    siguienteEnviado = nullptr;
+    siguienteRecibido = nullptr;
 }
 
 Mensaje::~Mensaje()
@@ -44,7 +47,7 @@ bool Mensaje::setTexto(const char* nuevoTexto)
     delete[] texto;
 
     texto = copia;
-    longitudTexto = static_cast<unsigned short>(longitud);
+    longitudTexto = longitud;
 
     return true;
 }
@@ -111,7 +114,7 @@ const Fecha& Mensaje::getFecha() const
     return fecha;
 }
 
-Mensaje::Mensaje(int emisor, int receptor, const char* nuevoTexto, const Fecha& fechaEnvio) : indiceEmisor(-1), indiceReceptor(-1), texto(nullptr), longitudTexto(0), leido(false), fecha(fechaEnvio)
+Mensaje::Mensaje(int emisor, int receptor, const char* nuevoTexto, const Fecha& fechaEnvio) : indiceEmisor(-1), indiceReceptor(-1), texto(nullptr), longitudTexto(0), leido(false), fecha(fechaEnvio), siguienteBloque(nullptr), siguienteEnviado(nullptr), siguienteRecibido(nullptr)
 {
     setIndiceEmisor(emisor);
     setIndiceReceptor(receptor);
@@ -171,4 +174,34 @@ bool Mensaje::estaEnIntervalo(const Fecha& fechaInicio, const Fecha& fechaFin) c
     }
 
     return true;
+}
+
+void Mensaje::setSiguienteBloque(Mensaje* bloque)
+{
+    siguienteBloque = bloque;
+}
+
+Mensaje* Mensaje::getSiguienteBloque() const
+{
+    return siguienteBloque;
+}
+
+void Mensaje::setSiguienteEnviado(Mensaje* mensaje)
+{
+    siguienteEnviado = mensaje;
+}
+
+Mensaje* Mensaje::getSiguienteEnviado() const
+{
+    return siguienteEnviado;
+}
+
+void Mensaje::setSiguienteRecibido(Mensaje* mensaje)
+{
+    siguienteRecibido = mensaje;
+}
+
+Mensaje* Mensaje::getSiguienteRecibido() const
+{
+    return siguienteRecibido;
 }

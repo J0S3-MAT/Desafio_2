@@ -5,11 +5,10 @@ class Metricas
 {
 public:
     // Componentes externos (librerias del lenguaje) cuyo uso se reporta
-    static const int EXTERNO_ALEATORIO = 0;         // <random>: generador de numeros aleatorios
-    static const int EXTERNO_RELOJ = 1;             // <chrono>: consulta de la fecha actual
-    static const int EXTERNO_ARCHIVO = 2;           // <fstream>: apertura de archivos
-    static const int EXTERNO_SISTEMA_ARCHIVOS = 3;  // <filesystem>: renombrar o borrar archivos
-    static const int CANTIDAD_EXTERNOS = 4;
+    static const int EXTERNO_ALEATORIO = 0;
+    static const int EXTERNO_RELOJ = 1;
+    static const int EXTERNO_ARCHIVO = 2;
+    static const int CANTIDAD_EXTERNOS = 3;
 
 private:
     unsigned long long iteraciones;
