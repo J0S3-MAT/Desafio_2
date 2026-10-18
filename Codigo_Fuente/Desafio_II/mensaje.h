@@ -12,6 +12,13 @@ private:
     bool leido;
     Fecha fecha;
 
+    // Enlace al siguiente bloque de mensajes (solo lo usa el primer mensaje de cada bloque)
+    Mensaje* siguienteBloque;
+
+
+    Mensaje* siguienteEnviado;
+    Mensaje* siguienteRecibido;
+
 public:
     //__________Temporal_________
     Mensaje(const Mensaje& otro) = delete;
@@ -44,6 +51,17 @@ public:
     bool esValido() const;
 
     bool estaEnIntervalo(const Fecha& fechaInicio, const Fecha& fechaFin) const;
+
+    // Enlace entre bloques de almacenamiento
+    void setSiguienteBloque(Mensaje* bloque);
+    Mensaje* getSiguienteBloque() const;
+
+    // Enlaces de las listas de enviados y recibidos
+    void setSiguienteEnviado(Mensaje* mensaje);
+    Mensaje* getSiguienteEnviado() const;
+
+    void setSiguienteRecibido(Mensaje* mensaje);
+    Mensaje* getSiguienteRecibido() const;
 };
 
 

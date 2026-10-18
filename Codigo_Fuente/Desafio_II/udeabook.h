@@ -7,14 +7,13 @@
 class Mensaje;
 class Usuario;
 
-// Clase administradora del sistema.
-// La logica esta en udeabook.cpp y la interaccion con el usuario (menus) en udeabook_menu.cpp
+
 class UdeABook
 {
 private:
-    // Matrices de bits N x N (1 bit por pareja de usuarios)
-    unsigned char* matrizAmistades;      // (a, b) = 1 si a y b son amigos
-    unsigned char* matrizSolicitudes;    // (emisor, receptor) = 1 si hay solicitud pendiente
+
+    unsigned char* matrizAmistades;
+    unsigned char* matrizSolicitudes;
     int cantidadUsuarios;
     int cantidadAmistades;
     int cantidadSolicitudes;
@@ -33,10 +32,10 @@ private:
 
     // ---------- Logica interna (udeabook.cpp) ----------
 
-    // Guardar un mensaje en el almacen sin validar amistad (lo usan enviarMensaje y la carga de archivos)
+
     int agregarMensaje(int emisor, int receptor, const char* texto, const Fecha& fecha, bool leido, Metricas& metricas);
 
-    // Reunir y ordenar por fecha los mensajes recibidos (no leidos, o dentro de un rango)
+
     int seleccionarMensajesOrdenados(int usuario, bool soloNoLeidos, const Fecha& inicio, const Fecha& fin, Mensaje**& seleccionados, Metricas& metricas) const;
     void imprimirMensaje(const Mensaje& mensaje) const;
 

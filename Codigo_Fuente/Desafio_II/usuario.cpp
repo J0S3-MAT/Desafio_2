@@ -29,8 +29,7 @@ char* Usuario::copiarCadena(const char* texto)
 }
 
 
-// Liberar la memoria dinamica propia del usuario
-// (los mensajes no se liberan aqui: pertenecen a UdeABook)
+
 void Usuario::liberarMemoria()
 {
     delete[] nombreUsuario;
@@ -605,7 +604,7 @@ unsigned long long Usuario::getBytesDinamicos() const
     // Memoria de los albumes
     if (albumes != nullptr)
     {
-        memoria += static_cast<unsigned long long>(cantidadAlbumes) * sizeof(Album);
+        memoria += cantidadAlbumes * sizeof(Album);
 
         for (int i = 0; i < cantidadAlbumes; i++)
         {

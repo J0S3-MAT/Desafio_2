@@ -1,0 +1,2501 @@
+2500
+0\0\1\1\9\2026\0\hola, como estas?
+1\22\25\1\9\2026\0\ya revise los archivos
+2\82\89\1\9\2026\0\todo listo para la entrega
+3\143\144\1\9\2026\0\ya terminaste la parte del proyecto?
+4\203\215\1\9\2026\0\nos vemos manana en la universidad
+5\264\277\1\9\2026\0\hablemos luego del parcial
+6\326\328\1\9\2026\0\puedes revisar el ejercicio?
+7\387\396\1\9\2026\0\recuerda la reunion de esta semana
+8\449\450\1\9\2026\0\hola, como estas?
+9\479\494\1\9\2026\0\ya revise los archivos
+10\541\550\1\9\2026\0\todo listo para la entrega
+11\603\616\1\9\2026\0\ya terminaste la parte del proyecto?
+12\666\668\1\9\2026\0\nos vemos manana en la universidad
+13\728\737\1\9\2026\0\hablemos luego del parcial
+14\791\793\1\9\2026\0\puedes revisar el ejercicio?
+15\854\857\1\9\2026\0\recuerda la reunion de esta semana
+16\917\923\1\9\2026\0\hola, como estas?
+17\949\951\1\9\2026\0\ya revise los archivos
+18\11\998\1\9\2026\0\todo listo para la entrega
+19\71\83\1\9\2026\0\ya terminaste la parte del proyecto?
+20\132\137\1\9\2026\0\nos vemos manana en la universidad
+21\192\207\1\9\2026\0\hablemos luego del parcial
+22\254\255\1\9\2026\0\puedes revisar el ejercicio?
+23\315\319\1\9\2026\0\recuerda la reunion de esta semana
+24\376\387\1\9\2026\0\hola, como estas?
+25\407\414\1\9\2026\0\ya revise los archivos
+26\469\470\1\9\2026\0\todo listo para la entrega
+27\530\544\1\9\2026\0\ya terminaste la parte del proyecto?
+28\592\605\1\9\2026\0\nos vemos manana en la universidad
+29\655\657\1\9\2026\0\hablemos luego del parcial
+30\717\725\1\9\2026\0\puedes revisar el ejercicio?
+31\780\783\1\9\2026\0\recuerda la reunion de esta semana
+32\843\844\1\9\2026\0\hola, como estas?
+33\874\883\1\9\2026\0\ya revise los archivos
+34\937\951\1\9\2026\0\todo listo para la entrega
+35\4\992\1\9\2026\0\ya terminaste la parte del proyecto?
+36\61\63\1\9\2026\0\nos vemos manana en la universidad
+37\121\130\1\9\2026\0\hablemos luego del parcial
+38\182\186\1\9\2026\0\puedes revisar el ejercicio?
+39\243\247\1\9\2026\0\recuerda la reunion de esta semana
+40\304\310\1\9\2026\0\hola, como estas?
+41\335\337\1\9\2026\0\ya revise los archivos
+42\396\405\1\9\2026\0\todo listo para la entrega
+43\458\460\1\9\2026\0\ya terminaste la parte del proyecto?
+44\519\534\1\9\2026\0\nos vemos manana en la universidad
+45\581\594\1\9\2026\0\hablemos luego del parcial
+46\644\646\1\9\2026\0\puedes revisar el ejercicio?
+47\706\713\1\9\2026\0\recuerda la reunion de esta semana
+48\300\0\2\9\2026\1\nos vemos manana en la universidad
+49\28\23\2\9\2026\1\nos encontramos en la biblioteca
+50\92\83\2\9\2026\1\te escribo cuando llegue
+51\147\144\2\9\2026\1\que buena foto subiste
+52\218\204\2\9\2026\1\te envie la informacion del trabajo
+53\280\265\2\9\2026\1\ya revise los archivos
+54\331\327\2\9\2026\1\todo listo para la entrega
+55\399\388\2\9\2026\1\ya terminaste la parte del proyecto?
+56\453\450\2\9\2026\1\nos vemos manana en la universidad
+57\680\480\2\9\2026\1\nos encontramos en la biblioteca
+58\553\542\2\9\2026\1\te escribo cuando llegue
+59\619\604\2\9\2026\1\que buena foto subiste
+60\671\667\2\9\2026\1\te envie la informacion del trabajo
+61\740\729\2\9\2026\1\ya revise los archivos
+62\796\792\2\9\2026\1\todo listo para la entrega
+63\860\855\2\9\2026\1\ya terminaste la parte del proyecto?
+64\926\918\2\9\2026\1\nos vemos manana en la universidad
+65\954\950\2\9\2026\1\nos encontramos en la biblioteca
+66\997\12\2\9\2026\1\te escribo cuando llegue
+67\86\72\2\9\2026\1\que buena foto subiste
+68\140\133\2\9\2026\1\te envie la informacion del trabajo
+69\196\194\2\9\2026\1\ya revise los archivos
+70\258\255\2\9\2026\1\todo listo para la entrega
+71\322\316\2\9\2026\1\ya terminaste la parte del proyecto?
+72\390\377\2\9\2026\1\nos vemos manana en la universidad
+73\417\408\2\9\2026\1\nos encontramos en la biblioteca
+74\473\470\2\9\2026\1\te escribo cuando llegue
+75\543\531\2\9\2026\1\que buena foto subiste
+76\608\593\2\9\2026\1\te envie la informacion del trabajo
+77\660\656\2\9\2026\1\ya revise los archivos
+78\728\718\2\9\2026\1\todo listo para la entrega
+79\784\781\2\9\2026\1\ya terminaste la parte del proyecto?
+80\847\844\2\9\2026\1\nos vemos manana en la universidad
+81\886\875\2\9\2026\1\nos encontramos en la biblioteca
+82\940\939\2\9\2026\1\te escribo cuando llegue
+83\15\5\2\9\2026\1\que buena foto subiste
+84\66\62\2\9\2026\1\te envie la informacion del trabajo
+85\133\122\2\9\2026\1\ya revise los archivos
+86\189\183\2\9\2026\1\todo listo para la entrega
+87\250\244\2\9\2026\1\ya terminaste la parte del proyecto?
+88\313\305\2\9\2026\1\nos vemos manana en la universidad
+89\340\336\2\9\2026\1\nos encontramos en la biblioteca
+90\408\397\2\9\2026\1\te escribo cuando llegue
+91\463\459\2\9\2026\1\que buena foto subiste
+92\720\520\2\9\2026\1\te envie la informacion del trabajo
+93\597\582\2\9\2026\1\ya revise los archivos
+94\649\645\2\9\2026\1\todo listo para la entrega
+95\716\707\2\9\2026\1\ya terminaste la parte del proyecto?
+96\0\996\3\9\2026\1\te envie la informacion del trabajo
+97\84\95\3\9\2026\1\me confirmas la hora por favor
+98\145\150\3\9\2026\1\nos vemos el viernes
+99\206\207\3\9\2026\1\gracias por avisarme
+100\267\269\3\9\2026\1\nos encontramos en la biblioteca
+101\328\334\3\9\2026\1\te escribo cuando llegue
+102\389\402\3\9\2026\1\que buena foto subiste
+103\451\452\3\9\2026\1\te envie la informacion del trabajo
+104\543\556\3\9\2026\1\me confirmas la hora por favor
+105\606\608\3\9\2026\1\nos vemos el viernes
+106\668\674\3\9\2026\1\gracias por avisarme
+107\730\743\3\9\2026\1\nos encontramos en la biblioteca
+108\793\799\3\9\2026\1\te escribo cuando llegue
+109\856\863\3\9\2026\1\que buena foto subiste
+110\919\929\3\9\2026\1\te envie la informacion del trabajo
+111\13\28\3\9\2026\1\me confirmas la hora por favor
+112\74\75\3\9\2026\1\nos vemos el viernes
+113\134\143\3\9\2026\1\gracias por avisarme
+114\195\199\3\9\2026\1\nos encontramos en la biblioteca
+115\256\261\3\9\2026\1\te escribo cuando llegue
+116\317\325\3\9\2026\1\que buena foto subiste
+117\378\393\3\9\2026\1\te envie la informacion del trabajo
+118\471\472\3\9\2026\1\me confirmas la hora por favor
+119\532\546\3\9\2026\1\nos vemos el viernes
+120\595\597\3\9\2026\1\gracias por avisarme
+121\657\663\3\9\2026\1\nos encontramos en la biblioteca
+122\719\731\3\9\2026\1\te escribo cuando llegue
+123\782\787\3\9\2026\1\que buena foto subiste
+124\845\850\3\9\2026\1\te envie la informacion del trabajo
+125\940\943\3\9\2026\1\me confirmas la hora por favor
+126\6\8\3\9\2026\1\nos vemos el viernes
+127\63\69\3\9\2026\1\gracias por avisarme
+128\123\136\3\9\2026\1\nos encontramos en la biblioteca
+129\184\192\3\9\2026\1\te escribo cuando llegue
+130\245\253\3\9\2026\1\que buena foto subiste
+131\306\316\3\9\2026\1\te envie la informacion del trabajo
+132\398\411\3\9\2026\1\me confirmas la hora por favor
+133\460\466\3\9\2026\1\nos vemos el viernes
+134\521\536\3\9\2026\1\gracias por avisarme
+135\584\586\3\9\2026\1\nos encontramos en la biblioteca
+136\646\652\3\9\2026\1\te escribo cuando llegue
+137\708\719\3\9\2026\1\que buena foto subiste
+138\15\1\4\9\2026\1\gracias por avisarme
+139\98\85\4\9\2026\1\hablemos luego del parcial
+140\153\146\4\9\2026\1\puedes revisar el ejercicio?
+141\210\207\4\9\2026\1\recuerda la reunion de esta semana
+142\272\268\4\9\2026\1\hola, como estas?
+143\337\329\4\9\2026\1\me confirmas la hora por favor
+144\405\390\4\9\2026\1\nos vemos el viernes
+145\455\452\4\9\2026\1\gracias por avisarme
+146\559\544\4\9\2026\1\hablemos luego del parcial
+147\611\607\4\9\2026\1\puedes revisar el ejercicio?
+148\677\669\4\9\2026\1\recuerda la reunion de esta semana
+149\744\731\4\9\2026\1\hola, como estas?
+150\802\794\4\9\2026\1\me confirmas la hora por favor
+151\866\857\4\9\2026\1\nos vemos el viernes
+152\932\920\4\9\2026\1\gracias por avisarme
+153\29\14\4\9\2026\1\hablemos luego del parcial
+154\78\75\4\9\2026\1\puedes revisar el ejercicio?
+155\146\135\4\9\2026\1\recuerda la reunion de esta semana
+156\202\196\4\9\2026\1\hola, como estas?
+157\264\257\4\9\2026\1\me confirmas la hora por favor
+158\328\318\4\9\2026\1\nos vemos el viernes
+159\382\380\4\9\2026\1\gracias por avisarme
+160\475\472\4\9\2026\1\hablemos luego del parcial
+161\535\534\4\9\2026\1\puedes revisar el ejercicio?
+162\600\596\4\9\2026\1\recuerda la reunion de esta semana
+163\666\658\4\9\2026\1\hola, como estas?
+164\734\720\4\9\2026\1\me confirmas la hora por favor
+165\790\783\4\9\2026\1\nos vemos el viernes
+166\853\846\4\9\2026\1\gracias por avisarme
+167\946\941\4\9\2026\1\hablemos luego del parcial
+168\994\6\4\9\2026\1\puedes revisar el ejercicio?
+169\72\64\4\9\2026\1\recuerda la reunion de esta semana
+170\139\124\4\9\2026\1\hola, como estas?
+171\195\185\4\9\2026\1\me confirmas la hora por favor
+172\256\246\4\9\2026\1\nos vemos el viernes
+173\319\307\4\9\2026\1\gracias por avisarme
+174\414\399\4\9\2026\1\hablemos luego del parcial
+175\465\461\4\9\2026\1\puedes revisar el ejercicio?
+176\525\523\4\9\2026\1\recuerda la reunion de esta semana
+177\589\585\4\9\2026\1\hola, como estas?
+178\655\647\4\9\2026\1\me confirmas la hora por favor
+179\722\709\4\9\2026\1\nos vemos el viernes
+180\2\4\5\9\2026\0\recuerda la reunion de esta semana
+181\56\69\5\9\2026\0\hola, como estas?
+182\86\101\5\9\2026\0\ya revise los archivos
+183\147\156\5\9\2026\0\todo listo para la entrega
+184\208\213\5\9\2026\0\ya terminaste la parte del proyecto?
+185\269\275\5\9\2026\0\nos vemos manana en la universidad
+186\330\340\5\9\2026\0\hablemos luego del parcial
+187\391\403\5\9\2026\0\puedes revisar el ejercicio?
+188\453\458\5\9\2026\0\recuerda la reunion de esta semana
+189\515\518\5\9\2026\0\hola, como estas?
+190\546\548\5\9\2026\0\ya revise los archivos
+191\608\614\5\9\2026\0\todo listo para la entrega
+192\670\680\5\9\2026\0\ya terminaste la parte del proyecto?
+193\732\747\5\9\2026\0\nos vemos manana en la universidad
+194\795\805\5\9\2026\0\hablemos luego del parcial
+195\858\869\5\9\2026\0\puedes revisar el ejercicio?
+196\921\935\5\9\2026\0\recuerda la reunion de esta semana
+197\985\991\5\9\2026\0\hola, como estas?
+198\16\17\5\9\2026\0\ya revise los archivos
+199\76\81\5\9\2026\0\todo listo para la entrega
+200\136\149\5\9\2026\0\ya terminaste la parte del proyecto?
+201\197\205\5\9\2026\0\nos vemos manana en la universidad
+202\258\267\5\9\2026\0\hablemos luego del parcial
+203\319\331\5\9\2026\0\puedes revisar el ejercicio?
+204\380\830\5\9\2026\0\recuerda la reunion de esta semana
+205\442\448\5\9\2026\0\hola, como estas?
+206\473\478\5\9\2026\0\ya revise los archivos
+207\535\538\5\9\2026\0\todo listo para la entrega
+208\597\603\5\9\2026\0\ya terminaste la parte del proyecto?
+209\659\669\5\9\2026\0\nos vemos manana en la universidad
+210\721\735\5\9\2026\0\hablemos luego del parcial
+211\784\793\5\9\2026\0\puedes revisar el ejercicio?
+212\847\856\5\9\2026\0\recuerda la reunion de esta semana
+213\910\921\5\9\2026\0\hola, como estas?
+214\942\949\5\9\2026\0\ya revise los archivos
+215\7\19\5\9\2026\0\todo listo para la entrega
+216\65\75\5\9\2026\0\ya terminaste la parte del proyecto?
+217\126\128\5\9\2026\0\nos vemos manana en la universidad
+218\186\198\5\9\2026\0\hablemos luego del parcial
+219\247\259\5\9\2026\0\puedes revisar el ejercicio?
+220\308\322\5\9\2026\0\recuerda la reunion de esta semana
+221\370\376\5\9\2026\0\hola, como estas?
+222\400\600\5\9\2026\0\ya revise los archivos
+223\462\468\5\9\2026\0\todo listo para la entrega
+224\524\528\5\9\2026\0\ya terminaste la parte del proyecto?
+225\586\592\5\9\2026\0\nos vemos manana en la universidad
+226\648\658\5\9\2026\0\hablemos luego del parcial
+227\710\725\5\9\2026\0\puedes revisar el ejercicio?
+228\990\2\6\9\2026\1\ya terminaste la parte del proyecto?
+229\72\57\6\9\2026\1\nos vemos manana en la universidad
+230\90\88\6\9\2026\1\nos encontramos en la biblioteca
+231\159\148\6\9\2026\1\te escribo cuando llegue
+232\216\209\6\9\2026\1\que buena foto subiste
+233\278\270\6\9\2026\1\te envie la informacion del trabajo
+234\338\331\6\9\2026\1\ya revise los archivos
+235\406\392\6\9\2026\1\todo listo para la entrega
+236\461\454\6\9\2026\1\ya terminaste la parte del proyecto?
+237\521\516\6\9\2026\1\nos vemos manana en la universidad
+238\551\547\6\9\2026\1\nos encontramos en la biblioteca
+239\617\609\6\9\2026\1\te escribo cuando llegue
+240\680\671\6\9\2026\1\que buena foto subiste
+241\736\734\6\9\2026\1\te envie la informacion del trabajo
+242\808\796\6\9\2026\1\ya revise los archivos
+243\872\859\6\9\2026\1\todo listo para la entrega
+244\924\923\6\9\2026\1\ya terminaste la parte del proyecto?
+245\995\986\6\9\2026\1\nos vemos manana en la universidad
+246\20\17\6\9\2026\1\nos encontramos en la biblioteca
+247\84\77\6\9\2026\1\te escribo cuando llegue
+248\152\137\6\9\2026\1\que buena foto subiste
+249\208\198\6\9\2026\1\te envie la informacion del trabajo
+250\270\259\6\9\2026\1\ya revise los archivos
+251\334\320\6\9\2026\1\todo listo para la entrega
+252\383\382\6\9\2026\1\ya terminaste la parte del proyecto?
+253\451\443\6\9\2026\1\nos vemos manana en la universidad
+254\481\474\6\9\2026\1\nos encontramos en la biblioteca
+255\541\536\6\9\2026\1\te escribo cuando llegue
+256\606\598\6\9\2026\1\que buena foto subiste
+257\672\660\6\9\2026\1\te envie la informacion del trabajo
+258\724\723\6\9\2026\1\ya revise los archivos
+259\796\785\6\9\2026\1\todo listo para la entrega
+260\859\848\6\9\2026\1\ya terminaste la parte del proyecto?
+261\924\911\6\9\2026\1\nos vemos manana en la universidad
+262\952\943\6\9\2026\1\nos encontramos en la biblioteca
+263\14\8\6\9\2026\1\te escribo cuando llegue
+264\78\66\6\9\2026\1\que buena foto subiste
+265\131\127\6\9\2026\1\te envie la informacion del trabajo
+266\201\187\6\9\2026\1\ya revise los archivos
+267\262\248\6\9\2026\1\todo listo para la entrega
+268\311\310\6\9\2026\1\ya terminaste la parte del proyecto?
+269\374\371\6\9\2026\1\nos vemos manana en la universidad
+270\415\401\6\9\2026\1\nos encontramos en la biblioteca
+271\471\463\6\9\2026\1\te escribo cuando llegue
+272\531\525\6\9\2026\1\que buena foto subiste
+273\595\587\6\9\2026\1\te envie la informacion del trabajo
+274\661\649\6\9\2026\1\ya revise los archivos
+275\726\711\6\9\2026\1\todo listo para la entrega
+276\3\11\7\9\2026\1\que buena foto subiste
+277\59\61\7\9\2026\1\te envie la informacion del trabajo
+278\149\162\7\9\2026\1\me confirmas la hora por favor
+279\210\219\7\9\2026\1\nos vemos el viernes
+280\271\275\7\9\2026\1\gracias por avisarme
+281\332\341\7\9\2026\1\nos encontramos en la biblioteca
+282\394\395\7\9\2026\1\te escribo cuando llegue
+283\455\464\7\9\2026\1\que buena foto subiste
+284\517\524\7\9\2026\1\te envie la informacion del trabajo
+285\610\620\7\9\2026\1\me confirmas la hora por favor
+286\672\683\7\9\2026\1\nos vemos el viernes
+287\735\739\7\9\2026\1\gracias por avisarme
+288\797\811\7\9\2026\1\nos encontramos en la biblioteca
+289\860\875\7\9\2026\1\te escribo cuando llegue
+290\924\927\7\9\2026\1\que buena foto subiste
+291\988\989\7\9\2026\1\te envie la informacion del trabajo
+292\78\87\7\9\2026\1\me confirmas la hora por favor
+293\139\141\7\9\2026\1\nos vemos el viernes
+294\199\211\7\9\2026\1\gracias por avisarme
+295\260\273\7\9\2026\1\nos encontramos en la biblioteca
+296\321\332\7\9\2026\1\te escribo cuando llegue
+297\383\386\7\9\2026\1\que buena foto subiste
+298\444\454\7\9\2026\1\te envie la informacion del trabajo
+299\537\544\7\9\2026\1\me confirmas la hora por favor
+300\599\609\7\9\2026\1\nos vemos el viernes
+301\661\672\7\9\2026\1\gracias por avisarme
+302\724\727\7\9\2026\1\nos encontramos en la biblioteca
+303\786\799\7\9\2026\1\te escribo cuando llegue
+304\849\862\7\9\2026\1\que buena foto subiste
+305\912\927\7\9\2026\1\te envie la informacion del trabajo
+306\9\10\7\9\2026\1\me confirmas la hora por favor
+307\67\81\7\9\2026\1\nos vemos el viernes
+308\128\134\7\9\2026\1\gracias por avisarme
+309\189\190\7\9\2026\1\nos encontramos en la biblioteca
+310\250\251\7\9\2026\1\te escribo cuando llegue
+311\310\610\7\9\2026\1\que buena foto subiste
+312\372\377\7\9\2026\1\te envie la informacion del trabajo
+313\464\474\7\9\2026\1\me confirmas la hora por favor
+314\526\534\7\9\2026\1\nos vemos el viernes
+315\588\598\7\9\2026\1\gracias por avisarme
+316\650\664\7\9\2026\1\nos encontramos en la biblioteca
+317\713\715\7\9\2026\1\te escribo cuando llegue
+318\997\3\8\9\2026\1\nos vemos el viernes
+319\64\60\8\9\2026\1\gracias por avisarme
+320\165\150\8\9\2026\1\hablemos luego del parcial
+321\216\211\8\9\2026\1\puedes revisar el ejercicio?
+322\278\272\8\9\2026\1\recuerda la reunion de esta semana
+323\344\333\8\9\2026\1\hola, como estas?
+324\398\395\8\9\2026\1\me confirmas la hora por favor
+325\467\456\8\9\2026\1\nos vemos el viernes
+326\527\518\8\9\2026\1\gracias por avisarme
+327\620\611\8\9\2026\1\hablemos luego del parcial
+328\686\673\8\9\2026\1\puedes revisar el ejercicio?
+329\742\736\8\9\2026\1\recuerda la reunion de esta semana
+330\800\799\8\9\2026\1\hola, como estas?
+331\863\862\8\9\2026\1\me confirmas la hora por favor
+332\930\925\8\9\2026\1\nos vemos el viernes
+333\996\989\8\9\2026\1\gracias por avisarme
+334\90\79\8\9\2026\1\hablemos luego del parcial
+335\144\140\8\9\2026\1\puedes revisar el ejercicio?
+336\214\200\8\9\2026\1\recuerda la reunion de esta semana
+337\270\261\8\9\2026\1\hola, como estas?
+338\335\322\8\9\2026\1\me confirmas la hora por favor
+339\389\384\8\9\2026\1\nos vemos el viernes
+340\457\445\8\9\2026\1\gracias por avisarme
+341\547\538\8\9\2026\1\hablemos luego del parcial
+342\612\600\8\9\2026\1\puedes revisar el ejercicio?
+343\675\662\8\9\2026\1\recuerda la reunion de esta semana
+344\730\725\8\9\2026\1\hola, como estas?
+345\802\787\8\9\2026\1\me confirmas la hora por favor
+346\865\850\8\9\2026\1\nos vemos el viernes
+347\916\914\8\9\2026\1\gracias por avisarme
+348\996\9\8\9\2026\1\hablemos luego del parcial
+349\70\69\8\9\2026\1\puedes revisar el ejercicio?
+350\137\129\8\9\2026\1\recuerda la reunion de esta semana
+351\193\190\8\9\2026\1\hola, como estas?
+352\550\250\8\9\2026\1\me confirmas la hora por favor
+353\326\311\8\9\2026\1\nos vemos el viernes
+354\380\373\8\9\2026\1\gracias por avisarme
+355\477\465\8\9\2026\1\hablemos luego del parcial
+356\537\527\8\9\2026\1\puedes revisar el ejercicio?
+357\601\589\8\9\2026\1\recuerda la reunion de esta semana
+358\664\651\8\9\2026\1\hola, como estas?
+359\718\714\8\9\2026\1\me confirmas la hora por favor
+360\4\19\9\9\2026\0\puedes revisar el ejercicio?
+361\60\760\9\9\2026\0\recuerda la reunion de esta semana
+362\121\126\9\9\2026\0\hola, como estas?
+363\151\161\9\9\2026\0\ya revise los archivos
+364\212\219\9\9\2026\0\todo listo para la entrega
+365\273\281\9\9\2026\0\ya terminaste la parte del proyecto?
+366\334\347\9\9\2026\0\nos vemos manana en la universidad
+367\396\401\9\9\2026\0\hablemos luego del parcial
+368\457\470\9\9\2026\0\puedes revisar el ejercicio?
+369\519\530\9\9\2026\0\recuerda la reunion de esta semana
+370\581\590\9\9\2026\0\hola, como estas?
+371\612\623\9\9\2026\0\ya revise los archivos
+372\674\689\9\9\2026\0\todo listo para la entrega
+373\737\745\9\9\2026\0\ya terminaste la parte del proyecto?
+374\800\803\9\9\2026\0\nos vemos manana en la universidad
+375\863\866\9\9\2026\0\hablemos luego del parcial
+376\926\933\9\9\2026\0\puedes revisar el ejercicio?
+377\991\996\9\9\2026\0\recuerda la reunion de esta semana
+378\50\61\9\9\2026\0\hola, como estas?
+379\80\93\9\9\2026\0\ya revise los archivos
+380\140\840\9\9\2026\0\todo listo para la entrega
+381\201\211\9\9\2026\0\ya terminaste la parte del proyecto?
+382\262\273\9\9\2026\0\nos vemos manana en la universidad
+383\323\338\9\9\2026\0\hablemos luego del parcial
+384\385\392\9\9\2026\0\puedes revisar el ejercicio?
+385\446\460\9\9\2026\0\recuerda la reunion de esta semana
+386\508\520\9\9\2026\0\hola, como estas?
+387\539\550\9\9\2026\0\ya revise los archivos
+388\601\612\9\9\2026\0\todo listo para la entrega
+389\663\678\9\9\2026\0\ya terminaste la parte del proyecto?
+390\726\733\9\9\2026\0\nos vemos manana en la universidad
+391\789\791\9\9\2026\0\hablemos luego del parcial
+392\852\853\9\9\2026\0\puedes revisar el ejercicio?
+393\915\919\9\9\2026\0\recuerda la reunion de esta semana
+394\978\989\9\9\2026\0\hola, como estas?
+395\10\24\9\9\2026\0\ya revise los archivos
+396\70\73\9\9\2026\0\todo listo para la entrega
+397\130\140\9\9\2026\0\ya terminaste la parte del proyecto?
+398\190\740\9\9\2026\0\nos vemos manana en la universidad
+399\251\265\9\9\2026\0\hablemos luego del parcial
+400\313\315\9\9\2026\0\puedes revisar el ejercicio?
+401\374\383\9\9\2026\0\recuerda la reunion de esta semana
+402\436\437\9\9\2026\0\hola, como estas?
+403\466\480\9\9\2026\0\ya revise los archivos
+404\528\540\9\9\2026\0\todo listo para la entrega
+405\590\604\9\9\2026\0\ya terminaste la parte del proyecto?
+406\652\667\9\9\2026\0\nos vemos manana en la universidad
+407\715\721\9\9\2026\0\hablemos luego del parcial
+408\11\5\10\9\2026\1\todo listo para la entrega
+409\76\61\10\9\2026\1\ya terminaste la parte del proyecto?
+410\129\122\10\9\2026\1\nos vemos manana en la universidad
+411\164\152\10\9\2026\1\nos encontramos en la biblioteca
+412\222\213\10\9\2026\1\te escribo cuando llegue
+413\284\274\10\9\2026\1\que buena foto subiste
+414\350\335\10\9\2026\1\te envie la informacion del trabajo
+415\404\397\10\9\2026\1\ya revise los archivos
+416\473\458\10\9\2026\1\todo listo para la entrega
+417\533\520\10\9\2026\1\ya terminaste la parte del proyecto?
+418\593\582\10\9\2026\1\nos vemos manana en la universidad
+419\626\613\10\9\2026\1\nos encontramos en la biblioteca
+420\678\676\10\9\2026\1\te escribo cuando llegue
+421\748\738\10\9\2026\1\que buena foto subiste
+422\805\801\10\9\2026\1\te envie la informacion del trabajo
+423\869\864\10\9\2026\1\ya revise los archivos
+424\936\927\10\9\2026\1\todo listo para la entrega
+425\995\994\10\9\2026\1\ya terminaste la parte del proyecto?
+426\56\51\10\9\2026\1\nos vemos manana en la universidad
+427\88\81\10\9\2026\1\nos encontramos en la biblioteca
+428\143\142\10\9\2026\1\te escribo cuando llegue
+429\214\202\10\9\2026\1\que buena foto subiste
+430\276\263\10\9\2026\1\te envie la informacion del trabajo
+431\327\325\10\9\2026\1\ya revise los archivos
+432\395\386\10\9\2026\1\todo listo para la entrega
+433\449\448\10\9\2026\1\ya terminaste la parte del proyecto?
+434\523\509\10\9\2026\1\nos vemos manana en la universidad
+435\553\540\10\9\2026\1\nos encontramos en la biblioteca
+436\615\602\10\9\2026\1\te escribo cuando llegue
+437\667\665\10\9\2026\1\que buena foto subiste
+438\736\727\10\9\2026\1\te envie la informacion del trabajo
+439\794\790\10\9\2026\1\ya revise los archivos
+440\856\853\10\9\2026\1\todo listo para la entrega
+441\922\916\10\9\2026\1\ya terminaste la parte del proyecto?
+442\992\979\10\9\2026\1\nos vemos manana en la universidad
+443\14\11\10\9\2026\1\nos encontramos en la biblioteca
+444\620\70\10\9\2026\1\te escribo cuando llegue
+445\136\131\10\9\2026\1\que buena foto subiste
+446\206\191\10\9\2026\1\te envie la informacion del trabajo
+447\254\253\10\9\2026\1\ya revise los archivos
+448\318\314\10\9\2026\1\todo listo para la entrega
+449\386\375\10\9\2026\1\ya terminaste la parte del proyecto?
+450\440\437\10\9\2026\1\nos vemos manana en la universidad
+451\469\468\10\9\2026\1\nos encontramos en la biblioteca
+452\543\529\10\9\2026\1\te escribo cuando llegue
+453\604\591\10\9\2026\1\que buena foto subiste
+454\656\654\10\9\2026\1\te envie la informacion del trabajo
+455\724\716\10\9\2026\1\ya revise los archivos
+456\5\997\11\9\2026\1\te escribo cuando llegue
+457\63\65\11\9\2026\1\que buena foto subiste
+458\123\132\11\9\2026\1\te envie la informacion del trabajo
+459\214\225\11\9\2026\1\me confirmas la hora por favor
+460\275\287\11\9\2026\1\nos vemos el viernes
+461\337\339\11\9\2026\1\gracias por avisarme
+462\398\407\11\9\2026\1\nos encontramos en la biblioteca
+463\460\462\11\9\2026\1\te escribo cuando llegue
+464\521\532\11\9\2026\1\que buena foto subiste
+465\583\596\11\9\2026\1\te envie la informacion del trabajo
+466\677\681\11\9\2026\1\me confirmas la hora por favor
+467\739\751\11\9\2026\1\nos vemos el viernes
+468\802\808\11\9\2026\1\gracias por avisarme
+469\865\872\11\9\2026\1\nos encontramos en la biblioteca
+470\928\939\11\9\2026\1\te escribo cuando llegue
+471\0\3\11\9\2026\1\que buena foto subiste
+472\52\59\11\9\2026\1\te envie la informacion del trabajo
+473\143\146\11\9\2026\1\me confirmas la hora por favor
+474\203\217\11\9\2026\1\nos vemos el viernes
+475\264\279\11\9\2026\1\gracias por avisarme
+476\326\330\11\9\2026\1\nos encontramos en la biblioteca
+477\387\398\11\9\2026\1\te escribo cuando llegue
+478\449\452\11\9\2026\1\que buena foto subiste
+479\510\610\11\9\2026\1\te envie la informacion del trabajo
+480\603\618\11\9\2026\1\me confirmas la hora por favor
+481\666\670\11\9\2026\1\nos vemos el viernes
+482\728\739\11\9\2026\1\gracias por avisarme
+483\791\795\11\9\2026\1\nos encontramos en la biblioteca
+484\854\859\11\9\2026\1\te escribo cuando llegue
+485\917\925\11\9\2026\1\que buena foto subiste
+486\980\995\11\9\2026\1\te envie la informacion del trabajo
+487\71\85\11\9\2026\1\me confirmas la hora por favor
+488\132\139\11\9\2026\1\nos vemos el viernes
+489\193\195\11\9\2026\1\gracias por avisarme
+490\254\257\11\9\2026\1\nos encontramos en la biblioteca
+491\315\321\11\9\2026\1\te escribo cuando llegue
+492\376\389\11\9\2026\1\que buena foto subiste
+493\438\443\11\9\2026\1\te envie la informacion del trabajo
+494\530\630\11\9\2026\1\me confirmas la hora por favor
+495\592\607\11\9\2026\1\nos vemos el viernes
+496\655\659\11\9\2026\1\gracias por avisarme
+497\717\727\11\9\2026\1\nos encontramos en la biblioteca
+498\21\6\12\9\2026\1\me confirmas la hora por favor
+499\68\64\12\9\2026\1\nos vemos el viernes
+500\135\124\12\9\2026\1\gracias por avisarme
+501\228\215\12\9\2026\1\hablemos luego del parcial
+502\290\276\12\9\2026\1\puedes revisar el ejercicio?
+503\342\338\12\9\2026\1\recuerda la reunion de esta semana
+504\410\399\12\9\2026\1\hola, como estas?
+505\910\460\12\9\2026\1\me confirmas la hora por favor
+506\535\522\12\9\2026\1\nos vemos el viernes
+507\599\584\12\9\2026\1\gracias por avisarme
+508\684\678\12\9\2026\1\hablemos luego del parcial
+509\754\740\12\9\2026\1\puedes revisar el ejercicio?
+510\811\803\12\9\2026\1\recuerda la reunion de esta semana
+511\875\866\12\9\2026\1\hola, como estas?
+512\942\929\12\9\2026\1\me confirmas la hora por favor
+513\550\0\12\9\2026\1\nos vemos el viernes
+514\62\53\12\9\2026\1\gracias por avisarme
+515\149\144\12\9\2026\1\hablemos luego del parcial
+516\206\205\12\9\2026\1\puedes revisar el ejercicio?
+517\268\266\12\9\2026\1\recuerda la reunion de esta semana
+518\333\327\12\9\2026\1\hola, como estas?
+519\401\388\12\9\2026\1\me confirmas la hora por favor
+520\455\450\12\9\2026\1\nos vemos el viernes
+521\525\511\12\9\2026\1\gracias por avisarme
+522\607\605\12\9\2026\1\hablemos luego del parcial
+523\673\667\12\9\2026\1\puedes revisar el ejercicio?
+524\742\729\12\9\2026\1\recuerda la reunion de esta semana
+525\798\792\12\9\2026\1\hola, como estas?
+526\862\855\12\9\2026\1\me confirmas la hora por favor
+527\928\918\12\9\2026\1\nos vemos el viernes
+528\984\982\12\9\2026\1\gracias por avisarme
+529\74\73\12\9\2026\1\hablemos luego del parcial
+530\142\133\12\9\2026\1\puedes revisar el ejercicio?
+531\198\194\12\9\2026\1\recuerda la reunion de esta semana
+532\260\255\12\9\2026\1\hola, como estas?
+533\324\316\12\9\2026\1\me confirmas la hora por favor
+534\392\377\12\9\2026\1\nos vemos el viernes
+535\446\439\12\9\2026\1\gracias por avisarme
+536\545\531\12\9\2026\1\hablemos luego del parcial
+537\596\594\12\9\2026\1\puedes revisar el ejercicio?
+538\662\656\12\9\2026\1\recuerda la reunion de esta semana
+539\730\718\12\9\2026\1\hola, como estas?
+540\7\15\13\9\2026\0\hablemos luego del parcial
+541\65\71\13\9\2026\0\puedes revisar el ejercicio?
+542\125\138\13\9\2026\0\recuerda la reunion de esta semana
+543\186\194\13\9\2026\0\hola, como estas?
+544\216\231\13\9\2026\0\ya revise los archivos
+545\278\279\13\9\2026\0\todo listo para la entrega
+546\339\345\13\9\2026\0\ya terminaste la parte del proyecto?
+547\400\413\13\9\2026\0\nos vemos manana en la universidad
+548\462\464\13\9\2026\0\hablemos luego del parcial
+549\523\538\13\9\2026\0\puedes revisar el ejercicio?
+550\586\588\13\9\2026\0\recuerda la reunion de esta semana
+551\648\654\13\9\2026\0\hola, como estas?
+552\679\687\13\9\2026\0\ya revise los archivos
+553\741\755\13\9\2026\0\todo listo para la entrega
+554\804\814\13\9\2026\0\ya terminaste la parte del proyecto?
+555\867\878\13\9\2026\0\nos vemos manana en la universidad
+556\930\945\13\9\2026\0\hablemos luego del parcial
+557\0\998\13\9\2026\0\puedes revisar el ejercicio?
+558\54\65\13\9\2026\0\recuerda la reunion de esta semana
+559\115\117\13\9\2026\0\hola, como estas?
+560\145\152\13\9\2026\0\ya revise los archivos
+561\206\209\13\9\2026\0\todo listo para la entrega
+562\267\271\13\9\2026\0\ya terminaste la parte del proyecto?
+563\328\336\13\9\2026\0\nos vemos manana en la universidad
+564\389\404\13\9\2026\0\hablemos luego del parcial
+565\451\454\13\9\2026\0\puedes revisar el ejercicio?
+566\513\514\13\9\2026\0\recuerda la reunion de esta semana
+567\575\577\13\9\2026\0\hola, como estas?
+568\606\610\13\9\2026\0\ya revise los archivos
+569\668\676\13\9\2026\0\todo listo para la entrega
+570\730\745\13\9\2026\0\ya terminaste la parte del proyecto?
+571\793\801\13\9\2026\0\nos vemos manana en la universidad
+572\856\865\13\9\2026\0\hablemos luego del parcial
+573\919\931\13\9\2026\0\puedes revisar el ejercicio?
+574\983\987\13\9\2026\0\recuerda la reunion de esta semana
+575\44\45\13\9\2026\0\hola, como estas?
+576\74\77\13\9\2026\0\ya revise los archivos
+577\134\145\13\9\2026\0\todo listo para la entrega
+578\195\201\13\9\2026\0\ya terminaste la parte del proyecto?
+579\256\263\13\9\2026\0\nos vemos manana en la universidad
+580\317\327\13\9\2026\0\hablemos luego del parcial
+581\379\381\13\9\2026\0\puedes revisar el ejercicio?
+582\440\449\13\9\2026\0\recuerda la reunion de esta semana
+583\502\504\13\9\2026\0\hola, como estas?
+584\533\534\13\9\2026\0\ya revise los archivos
+585\595\599\13\9\2026\0\todo listo para la entrega
+586\657\665\13\9\2026\0\ya terminaste la parte del proyecto?
+587\719\733\13\9\2026\0\nos vemos manana en la universidad
+588\10\8\14\9\2026\1\ya revise los archivos
+589\74\66\14\9\2026\1\todo listo para la entrega
+590\141\126\14\9\2026\1\ya terminaste la parte del proyecto?
+591\197\187\14\9\2026\1\nos vemos manana en la universidad
+592\220\218\14\9\2026\1\nos encontramos en la biblioteca
+593\282\279\14\9\2026\1\te escribo cuando llegue
+594\348\340\14\9\2026\1\que buena foto subiste
+595\411\401\14\9\2026\1\te envie la informacion del trabajo
+596\467\463\14\9\2026\1\ya revise los archivos
+597\527\525\14\9\2026\1\todo listo para la entrega
+598\591\587\14\9\2026\1\ya terminaste la parte del proyecto?
+599\657\649\14\9\2026\1\nos vemos manana en la universidad
+600\690\680\14\9\2026\1\nos encontramos en la biblioteca
+601\744\743\14\9\2026\1\te escribo cuando llegue
+602\817\805\14\9\2026\1\que buena foto subiste
+603\881\868\14\9\2026\1\te envie la informacion del trabajo
+604\934\932\14\9\2026\1\ya revise los archivos
+605\986\1\14\9\2026\1\todo listo para la entrega
+606\68\55\14\9\2026\1\ya terminaste la parte del proyecto?
+607\120\116\14\9\2026\1\nos vemos manana en la universidad
+608\155\146\14\9\2026\1\nos encontramos en la biblioteca
+609\212\207\14\9\2026\1\te escribo cuando llegue
+610\274\268\14\9\2026\1\que buena foto subiste
+611\339\329\14\9\2026\1\te envie la informacion del trabajo
+612\590\390\14\9\2026\1\ya revise los archivos
+613\457\452\14\9\2026\1\todo listo para la entrega
+614\517\514\14\9\2026\1\ya terminaste la parte del proyecto?
+615\580\576\14\9\2026\1\nos vemos manana en la universidad
+616\613\607\14\9\2026\1\nos encontramos en la biblioteca
+617\679\669\14\9\2026\1\te escribo cuando llegue
+618\746\731\14\9\2026\1\que buena foto subiste
+619\804\794\14\9\2026\1\te envie la informacion del trabajo
+620\868\857\14\9\2026\1\ya revise los archivos
+621\934\920\14\9\2026\1\todo listo para la entrega
+622\990\984\14\9\2026\1\ya terminaste la parte del proyecto?
+623\48\45\14\9\2026\1\nos vemos manana en la universidad
+624\80\75\14\9\2026\1\nos encontramos en la biblioteca
+625\148\135\14\9\2026\1\te escribo cuando llegue
+626\204\196\14\9\2026\1\que buena foto subiste
+627\266\257\14\9\2026\1\te envie la informacion del trabajo
+628\330\318\14\9\2026\1\ya revise los archivos
+629\384\380\14\9\2026\1\todo listo para la entrega
+630\447\441\14\9\2026\1\ya terminaste la parte del proyecto?
+631\507\503\14\9\2026\1\nos vemos manana en la universidad
+632\537\534\14\9\2026\1\nos encontramos en la biblioteca
+633\602\596\14\9\2026\1\te escribo cuando llegue
+634\668\658\14\9\2026\1\que buena foto subiste
+635\820\720\14\9\2026\1\te envie la informacion del trabajo
+636\8\996\15\9\2026\1\nos encontramos en la biblioteca
+637\67\77\15\9\2026\1\te escribo cuando llegue
+638\128\130\15\9\2026\1\que buena foto subiste
+639\188\200\15\9\2026\1\te envie la informacion del trabajo
+640\280\285\15\9\2026\1\me confirmas la hora por favor
+641\341\346\15\9\2026\1\nos vemos el viernes
+642\402\414\15\9\2026\1\gracias por avisarme
+643\464\470\15\9\2026\1\nos encontramos en la biblioteca
+644\526\530\15\9\2026\1\te escribo cuando llegue
+645\588\594\15\9\2026\1\que buena foto subiste
+646\650\660\15\9\2026\1\te envie la informacion del trabajo
+647\744\747\15\9\2026\1\me confirmas la hora por favor
+648\806\820\15\9\2026\1\nos vemos el viernes
+649\869\884\15\9\2026\1\gracias por avisarme
+650\933\937\15\9\2026\1\nos encontramos en la biblioteca
+651\2\6\15\9\2026\1\te escribo cuando llegue
+652\56\71\15\9\2026\1\que buena foto subiste
+653\117\123\15\9\2026\1\te envie la informacion del trabajo
+654\208\215\15\9\2026\1\me confirmas la hora por favor
+655\269\277\15\9\2026\1\nos vemos el viernes
+656\330\342\15\9\2026\1\gracias por avisarme
+657\391\405\15\9\2026\1\nos encontramos en la biblioteca
+658\453\460\15\9\2026\1\te escribo cuando llegue
+659\515\520\15\9\2026\1\que buena foto subiste
+660\577\583\15\9\2026\1\te envie la informacion del trabajo
+661\670\682\15\9\2026\1\me confirmas la hora por favor
+662\733\735\15\9\2026\1\nos vemos el viernes
+663\795\807\15\9\2026\1\gracias por avisarme
+664\858\871\15\9\2026\1\nos encontramos en la biblioteca
+665\922\923\15\9\2026\1\te escribo cuando llegue
+666\985\993\15\9\2026\1\que buena foto subiste
+667\46\51\15\9\2026\1\te envie la informacion del trabajo
+668\136\151\15\9\2026\1\me confirmas la hora por favor
+669\197\207\15\9\2026\1\nos vemos el viernes
+670\258\269\15\9\2026\1\gracias por avisarme
+671\319\333\15\9\2026\1\nos encontramos en la biblioteca
+672\381\382\15\9\2026\1\te escribo cuando llegue
+673\442\450\15\9\2026\1\que buena foto subiste
+674\504\510\15\9\2026\1\te envie la informacion del trabajo
+675\597\605\15\9\2026\1\me confirmas la hora por favor
+676\659\671\15\9\2026\1\nos vemos el viernes
+677\722\723\15\9\2026\1\gracias por avisarme
+678\23\9\16\9\2026\1\hola, como estas?
+679\80\68\16\9\2026\1\me confirmas la hora por favor
+680\133\129\16\9\2026\1\nos vemos el viernes
+681\203\189\16\9\2026\1\gracias por avisarme
+682\282\281\16\9\2026\1\hablemos luego del parcial
+683\349\342\16\9\2026\1\puedes revisar el ejercicio?
+684\417\403\16\9\2026\1\recuerda la reunion de esta semana
+685\473\465\16\9\2026\1\hola, como estas?
+686\533\527\16\9\2026\1\me confirmas la hora por favor
+687\597\589\16\9\2026\1\nos vemos el viernes
+688\660\651\16\9\2026\1\gracias por avisarme
+689\750\745\16\9\2026\1\hablemos luego del parcial
+690\809\808\16\9\2026\1\puedes revisar el ejercicio?
+691\872\871\16\9\2026\1\recuerda la reunion de esta semana
+692\940\934\16\9\2026\1\hola, como estas?
+693\992\2\16\9\2026\1\me confirmas la hora por favor
+694\60\58\16\9\2026\1\nos vemos el viernes
+695\126\118\16\9\2026\1\gracias por avisarme
+696\218\209\16\9\2026\1\hablemos luego del parcial
+697\280\270\16\9\2026\1\puedes revisar el ejercicio?
+698\340\331\16\9\2026\1\recuerda la reunion de esta semana
+699\394\393\16\9\2026\1\hola, como estas?
+700\463\454\16\9\2026\1\me confirmas la hora por favor
+701\523\516\16\9\2026\1\nos vemos el viernes
+702\586\578\16\9\2026\1\gracias por avisarme
+703\682\671\16\9\2026\1\hablemos luego del parcial
+704\738\734\16\9\2026\1\puedes revisar el ejercicio?
+705\810\796\16\9\2026\1\recuerda la reunion de esta semana
+706\874\859\16\9\2026\1\hola, como estas?
+707\926\923\16\9\2026\1\me confirmas la hora por favor
+708\997\986\16\9\2026\1\nos vemos el viernes
+709\54\47\16\9\2026\1\gracias por avisarme
+710\140\138\16\9\2026\1\hablemos luego del parcial
+711\210\198\16\9\2026\1\puedes revisar el ejercicio?
+712\272\259\16\9\2026\1\recuerda la reunion de esta semana
+713\420\320\16\9\2026\1\hola, como estas?
+714\385\382\16\9\2026\1\me confirmas la hora por favor
+715\453\443\16\9\2026\1\nos vemos el viernes
+716\513\505\16\9\2026\1\gracias por avisarme
+717\608\598\16\9\2026\1\hablemos luego del parcial
+718\674\660\16\9\2026\1\puedes revisar el ejercicio?
+719\726\723\16\9\2026\1\recuerda la reunion de esta semana
+720\10\20\17\9\2026\0\nos vemos manana en la universidad
+721\69\83\17\9\2026\0\hablemos luego del parcial
+722\130\136\17\9\2026\0\puedes revisar el ejercicio?
+723\190\290\17\9\2026\0\recuerda la reunion de esta semana
+724\251\261\17\9\2026\0\hola, como estas?
+725\282\285\17\9\2026\0\ya revise los archivos
+726\343\352\17\9\2026\0\todo listo para la entrega
+727\405\406\17\9\2026\0\ya terminaste la parte del proyecto?
+728\466\476\17\9\2026\0\nos vemos manana en la universidad
+729\528\536\17\9\2026\0\hablemos luego del parcial
+730\590\600\17\9\2026\0\puedes revisar el ejercicio?
+731\652\663\17\9\2026\0\recuerda la reunion de esta semana
+732\715\717\17\9\2026\0\hola, como estas?
+733\746\753\17\9\2026\0\ya revise los archivos
+734\809\812\17\9\2026\0\todo listo para la entrega
+735\872\875\17\9\2026\0\ya terminaste la parte del proyecto?
+736\935\943\17\9\2026\0\nos vemos manana en la universidad
+737\3\13\17\9\2026\0\hablemos luego del parcial
+738\59\63\17\9\2026\0\puedes revisar el ejercicio?
+739\119\129\17\9\2026\0\recuerda la reunion de esta semana
+740\180\185\17\9\2026\0\hola, como estas?
+741\210\221\17\9\2026\0\ya revise los archivos
+742\271\277\17\9\2026\0\todo listo para la entrega
+743\332\343\17\9\2026\0\ya terminaste la parte del proyecto?
+744\394\397\17\9\2026\0\nos vemos manana en la universidad
+745\455\466\17\9\2026\0\hablemos luego del parcial
+746\517\526\17\9\2026\0\puedes revisar el ejercicio?
+747\579\589\17\9\2026\0\recuerda la reunion de esta semana
+748\641\652\17\9\2026\0\hola, como estas?
+749\672\685\17\9\2026\0\ya revise los archivos
+750\735\741\17\9\2026\0\todo listo para la entrega
+751\798\799\17\9\2026\0\ya terminaste la parte del proyecto?
+752\861\862\17\9\2026\0\nos vemos manana en la universidad
+753\924\929\17\9\2026\0\hablemos luego del parcial
+754\988\991\17\9\2026\0\puedes revisar el ejercicio?
+755\48\57\17\9\2026\0\recuerda la reunion de esta semana
+756\108\122\17\9\2026\0\hola, como estas?
+757\139\143\17\9\2026\0\ya revise los archivos
+758\199\213\17\9\2026\0\todo listo para la entrega
+759\260\275\17\9\2026\0\ya terminaste la parte del proyecto?
+760\321\334\17\9\2026\0\nos vemos manana en la universidad
+761\383\388\17\9\2026\0\hablemos luego del parcial
+762\444\456\17\9\2026\0\puedes revisar el ejercicio?
+763\506\516\17\9\2026\0\recuerda la reunion de esta semana
+764\568\578\17\9\2026\0\hola, como estas?
+765\599\611\17\9\2026\0\ya revise los archivos
+766\661\674\17\9\2026\0\todo listo para la entrega
+767\724\729\17\9\2026\0\ya terminaste la parte del proyecto?
+768\998\10\18\9\2026\1\te envie la informacion del trabajo
+769\170\70\18\9\2026\1\ya revise los archivos
+770\132\131\18\9\2026\1\todo listo para la entrega
+771\202\191\18\9\2026\1\ya terminaste la parte del proyecto?
+772\264\252\18\9\2026\1\nos vemos manana en la universidad
+773\288\283\18\9\2026\1\nos encontramos en la biblioteca
+774\355\344\18\9\2026\1\te escribo cuando llegue
+775\409\406\18\9\2026\1\que buena foto subiste
+776\479\467\18\9\2026\1\te envie la informacion del trabajo
+777\539\529\18\9\2026\1\ya revise los archivos
+778\600\591\18\9\2026\1\todo listo para la entrega
+779\666\653\18\9\2026\1\ya terminaste la parte del proyecto?
+780\720\716\18\9\2026\1\nos vemos manana en la universidad
+781\756\747\18\9\2026\1\nos encontramos en la biblioteca
+782\815\810\18\9\2026\1\te escribo cuando llegue
+783\878\873\18\9\2026\1\que buena foto subiste
+784\946\936\18\9\2026\1\te envie la informacion del trabajo
+785\999\3\18\9\2026\1\ya revise los archivos
+786\66\60\18\9\2026\1\todo listo para la entrega
+787\132\120\18\9\2026\1\ya terminaste la parte del proyecto?
+788\980\180\18\9\2026\1\nos vemos manana en la universidad
+789\218\211\18\9\2026\1\nos encontramos en la biblioteca
+790\280\272\18\9\2026\1\te escribo cuando llegue
+791\346\333\18\9\2026\1\que buena foto subiste
+792\400\395\18\9\2026\1\te envie la informacion del trabajo
+793\469\456\18\9\2026\1\ya revise los archivos
+794\529\518\18\9\2026\1\todo listo para la entrega
+795\592\580\18\9\2026\1\ya terminaste la parte del proyecto?
+796\655\642\18\9\2026\1\nos vemos manana en la universidad
+797\688\673\18\9\2026\1\nos encontramos en la biblioteca
+798\744\736\18\9\2026\1\te escribo cuando llegue
+799\802\799\18\9\2026\1\que buena foto subiste
+800\865\862\18\9\2026\1\te envie la informacion del trabajo
+801\932\925\18\9\2026\1\ya revise los archivos
+802\998\989\18\9\2026\1\todo listo para la entrega
+803\60\49\18\9\2026\1\ya terminaste la parte del proyecto?
+804\111\110\18\9\2026\1\nos vemos manana en la universidad
+805\146\140\18\9\2026\1\nos encontramos en la biblioteca
+806\300\200\18\9\2026\1\te escribo cuando llegue
+807\272\261\18\9\2026\1\que buena foto subiste
+808\337\322\18\9\2026\1\te envie la informacion del trabajo
+809\391\384\18\9\2026\1\ya revise los archivos
+810\459\445\18\9\2026\1\todo listo para la entrega
+811\519\507\18\9\2026\1\ya terminaste la parte del proyecto?
+812\581\569\18\9\2026\1\nos vemos manana en la universidad
+813\614\600\18\9\2026\1\nos encontramos en la biblioteca
+814\677\662\18\9\2026\1\te escribo cuando llegue
+815\732\725\18\9\2026\1\que buena foto subiste
+816\11\996\19\9\2026\1\gracias por avisarme
+817\71\81\19\9\2026\1\nos encontramos en la biblioteca
+818\132\135\19\9\2026\1\te escribo cuando llegue
+819\192\205\19\9\2026\1\que buena foto subiste
+820\253\267\19\9\2026\1\te envie la informacion del trabajo
+821\345\358\19\9\2026\1\me confirmas la hora por favor
+822\407\412\19\9\2026\1\nos vemos el viernes
+823\468\482\19\9\2026\1\gracias por avisarme
+824\530\542\19\9\2026\1\nos encontramos en la biblioteca
+825\592\603\19\9\2026\1\te escribo cuando llegue
+826\654\669\19\9\2026\1\que buena foto subiste
+827\717\723\19\9\2026\1\te envie la informacion del trabajo
+828\811\817\19\9\2026\1\me confirmas la hora por favor
+829\874\881\19\9\2026\1\nos vemos el viernes
+830\937\949\19\9\2026\1\gracias por avisarme
+831\4\990\19\9\2026\1\nos encontramos en la biblioteca
+832\60\960\19\9\2026\1\te escribo cuando llegue
+833\121\128\19\9\2026\1\que buena foto subiste
+834\182\184\19\9\2026\1\te envie la informacion del trabajo
+835\273\283\19\9\2026\1\me confirmas la hora por favor
+836\334\349\19\9\2026\1\nos vemos el viernes
+837\396\403\19\9\2026\1\gracias por avisarme
+838\457\472\19\9\2026\1\nos encontramos en la biblioteca
+839\519\532\19\9\2026\1\te escribo cuando llegue
+840\581\592\19\9\2026\1\que buena foto subiste
+841\643\658\19\9\2026\1\te envie la informacion del trabajo
+842\737\747\19\9\2026\1\me confirmas la hora por favor
+843\800\805\19\9\2026\1\nos vemos el viernes
+844\863\868\19\9\2026\1\gracias por avisarme
+845\926\935\19\9\2026\1\nos encontramos en la biblioteca
+846\991\998\19\9\2026\1\te escribo cuando llegue
+847\50\63\19\9\2026\1\que buena foto subiste
+848\110\410\19\9\2026\1\te envie la informacion del trabajo
+849\201\213\19\9\2026\1\me confirmas la hora por favor
+850\262\275\19\9\2026\1\nos vemos el viernes
+851\324\326\19\9\2026\1\gracias por avisarme
+852\385\394\19\9\2026\1\nos encontramos en la biblioteca
+853\447\448\19\9\2026\1\te escribo cuando llegue
+854\508\522\19\9\2026\1\que buena foto subiste
+855\570\584\19\9\2026\1\te envie la informacion del trabajo
+856\664\666\19\9\2026\1\me confirmas la hora por favor
+857\726\735\19\9\2026\1\nos vemos el viernes
+858\26\12\20\9\2026\1\recuerda la reunion de esta semana
+859\84\72\20\9\2026\1\hola, como estas?
+860\138\133\20\9\2026\1\me confirmas la hora por favor
+861\208\193\20\9\2026\1\nos vemos el viernes
+862\256\255\20\9\2026\1\gracias por avisarme
+863\361\346\20\9\2026\1\hablemos luego del parcial
+864\415\408\20\9\2026\1\puedes revisar el ejercicio?
+865\471\470\20\9\2026\1\recuerda la reunion de esta semana
+866\541\531\20\9\2026\1\hola, como estas?
+867\606\593\20\9\2026\1\me confirmas la hora por favor
+868\658\656\20\9\2026\1\nos vemos el viernes
+869\726\718\20\9\2026\1\gracias por avisarme
+870\820\812\20\9\2026\1\hablemos luego del parcial
+871\884\875\20\9\2026\1\puedes revisar el ejercicio?
+872\952\938\20\9\2026\1\recuerda la reunion de esta semana
+873\13\5\20\9\2026\1\hola, como estas?
+874\64\62\20\9\2026\1\me confirmas la hora por favor
+875\131\122\20\9\2026\1\nos vemos el viernes
+876\187\183\20\9\2026\1\gracias por avisarme
+877\286\274\20\9\2026\1\hablemos luego del parcial
+878\338\336\20\9\2026\1\puedes revisar el ejercicio?
+879\406\397\20\9\2026\1\recuerda la reunion de esta semana
+880\461\459\20\9\2026\1\hola, como estas?
+881\535\520\20\9\2026\1\me confirmas la hora por favor
+882\595\582\20\9\2026\1\nos vemos el viernes
+883\647\645\20\9\2026\1\gracias por avisarme
+884\750\738\20\9\2026\1\hablemos luego del parcial
+885\807\801\20\9\2026\1\puedes revisar el ejercicio?
+886\871\864\20\9\2026\1\recuerda la reunion de esta semana
+887\938\927\20\9\2026\1\hola, como estas?
+888\997\994\20\9\2026\1\me confirmas la hora por favor
+889\58\51\20\9\2026\1\nos vemos el viernes
+890\124\111\20\9\2026\1\gracias por avisarme
+891\216\202\20\9\2026\1\hablemos luego del parcial
+892\278\263\20\9\2026\1\puedes revisar el ejercicio?
+893\329\325\20\9\2026\1\recuerda la reunion de esta semana
+894\397\386\20\9\2026\1\hola, como estas?
+895\451\448\20\9\2026\1\me confirmas la hora por favor
+896\511\510\20\9\2026\1\nos vemos el viernes
+897\584\571\20\9\2026\1\gracias por avisarme
+898\669\665\20\9\2026\1\hablemos luego del parcial
+899\738\727\20\9\2026\1\puedes revisar el ejercicio?
+900\13\26\21\9\2026\0\ya terminaste la parte del proyecto?
+901\73\87\21\9\2026\0\nos vemos manana en la universidad
+902\134\141\21\9\2026\0\hablemos luego del parcial
+903\195\197\21\9\2026\0\puedes revisar el ejercicio?
+904\256\259\21\9\2026\0\recuerda la reunion de esta semana
+905\317\323\21\9\2026\0\hola, como estas?
+906\348\350\21\9\2026\0\ya revise los archivos
+907\409\418\21\9\2026\0\todo listo para la entrega
+908\470\770\21\9\2026\0\ya terminaste la parte del proyecto?
+909\532\544\21\9\2026\0\nos vemos manana en la universidad
+910\594\609\21\9\2026\0\hablemos luego del parcial
+911\657\661\21\9\2026\0\puedes revisar el ejercicio?
+912\719\729\21\9\2026\0\recuerda la reunion de esta semana
+913\782\785\21\9\2026\0\hola, como estas?
+914\813\823\21\9\2026\0\ya revise los archivos
+915\876\887\21\9\2026\0\todo listo para la entrega
+916\940\941\21\9\2026\0\ya terminaste la parte del proyecto?
+917\5\999\21\9\2026\0\nos vemos manana en la universidad
+918\63\67\21\9\2026\0\hablemos luego del parcial
+919\123\134\21\9\2026\0\puedes revisar el ejercicio?
+920\184\190\21\9\2026\0\recuerda la reunion de esta semana
+921\245\251\21\9\2026\0\hola, como estas?
+922\275\289\21\9\2026\0\ya revise los archivos
+923\337\341\21\9\2026\0\todo listo para la entrega
+924\398\409\21\9\2026\0\ya terminaste la parte del proyecto?
+925\460\464\21\9\2026\0\nos vemos manana en la universidad
+926\521\534\21\9\2026\0\hablemos luego del parcial
+927\583\598\21\9\2026\0\puedes revisar el ejercicio?
+928\646\650\21\9\2026\0\recuerda la reunion de esta semana
+929\708\717\21\9\2026\0\hola, como estas?
+930\739\753\21\9\2026\0\ya revise los archivos
+931\802\810\21\9\2026\0\todo listo para la entrega
+932\865\874\21\9\2026\0\ya terminaste la parte del proyecto?
+933\928\941\21\9\2026\0\nos vemos manana en la universidad
+934\0\5\21\9\2026\0\hablemos luego del parcial
+935\52\61\21\9\2026\0\puedes revisar el ejercicio?
+936\112\127\21\9\2026\0\recuerda la reunion de esta semana
+937\173\183\21\9\2026\0\hola, como estas?
+938\204\205\21\9\2026\0\ya revise los archivos
+939\265\267\21\9\2026\0\todo listo para la entrega
+940\326\332\21\9\2026\0\ya terminaste la parte del proyecto?
+941\387\400\21\9\2026\0\nos vemos manana en la universidad
+942\449\454\21\9\2026\0\hablemos luego del parcial
+943\510\810\21\9\2026\0\puedes revisar el ejercicio?
+944\572\587\21\9\2026\0\recuerda la reunion de esta semana
+945\635\639\21\9\2026\0\hola, como estas?
+946\666\672\21\9\2026\0\ya revise los archivos
+947\728\741\21\9\2026\0\todo listo para la entrega
+948\27\14\22\9\2026\1\que buena foto subiste
+949\76\75\22\9\2026\1\te envie la informacion del trabajo
+950\144\135\22\9\2026\1\ya revise los archivos
+951\200\196\22\9\2026\1\todo listo para la entrega
+952\262\257\22\9\2026\1\ya terminaste la parte del proyecto?
+953\326\318\22\9\2026\1\nos vemos manana en la universidad
+954\353\349\22\9\2026\1\nos encontramos en la biblioteca
+955\421\410\22\9\2026\1\te escribo cuando llegue
+956\473\472\22\9\2026\1\que buena foto subiste
+957\547\533\22\9\2026\1\te envie la informacion del trabajo
+958\598\596\22\9\2026\1\ya revise los archivos
+959\664\658\22\9\2026\1\todo listo para la entrega
+960\732\720\22\9\2026\1\ya terminaste la parte del proyecto?
+961\788\783\22\9\2026\1\nos vemos manana en la universidad
+962\826\814\22\9\2026\1\nos encontramos en la biblioteca
+963\890\877\22\9\2026\1\te escribo cuando llegue
+964\944\941\22\9\2026\1\que buena foto subiste
+965\992\6\22\9\2026\1\te envie la informacion del trabajo
+966\70\64\22\9\2026\1\ya revise los archivos
+967\137\124\22\9\2026\1\todo listo para la entrega
+968\193\185\22\9\2026\1\ya terminaste la parte del proyecto?
+969\254\246\22\9\2026\1\nos vemos manana en la universidad
+970\278\277\22\9\2026\1\nos encontramos en la biblioteca
+971\344\338\22\9\2026\1\te escribo cuando llegue
+972\412\399\22\9\2026\1\que buena foto subiste
+973\463\461\22\9\2026\1\te envie la informacion del trabajo
+974\537\522\22\9\2026\1\ya revise los archivos
+975\587\585\22\9\2026\1\todo listo para la entrega
+976\653\647\22\9\2026\1\ya terminaste la parte del proyecto?
+977\720\709\22\9\2026\1\nos vemos manana en la universidad
+978\840\740\22\9\2026\1\nos encontramos en la biblioteca
+979\813\803\22\9\2026\1\te escribo cuando llegue
+980\877\866\22\9\2026\1\que buena foto subiste
+981\944\929\22\9\2026\1\te envie la informacion del trabajo
+982\800\0\22\9\2026\1\ya revise los archivos
+983\64\53\22\9\2026\1\todo listo para la entrega
+984\116\114\22\9\2026\1\ya terminaste la parte del proyecto?
+985\186\174\22\9\2026\1\nos vemos manana en la universidad
+986\208\205\22\9\2026\1\nos encontramos en la biblioteca
+987\270\266\22\9\2026\1\te escribo cuando llegue
+988\335\327\22\9\2026\1\que buena foto subiste
+989\403\388\22\9\2026\1\te envie la informacion del trabajo
+990\457\450\22\9\2026\1\ya revise los archivos
+991\513\512\22\9\2026\1\todo listo para la entrega
+992\576\574\22\9\2026\1\ya terminaste la parte del proyecto?
+993\642\636\22\9\2026\1\nos vemos manana en la universidad
+994\675\667\22\9\2026\1\nos encontramos en la biblioteca
+995\744\729\22\9\2026\1\te escribo cuando llegue
+996\15\29\23\9\2026\1\nos vemos el viernes
+997\76\79\23\9\2026\1\gracias por avisarme
+998\136\147\23\9\2026\1\nos encontramos en la biblioteca
+999\197\203\23\9\2026\1\te escribo cuando llegue
+1000\258\265\23\9\2026\1\que buena foto subiste
+1001\319\329\23\9\2026\1\te envie la informacion del trabajo
+1002\411\419\23\9\2026\1\me confirmas la hora por favor
+1003\473\476\23\9\2026\1\nos vemos el viernes
+1004\535\536\23\9\2026\1\gracias por avisarme
+1005\597\601\23\9\2026\1\nos encontramos en la biblioteca
+1006\659\667\23\9\2026\1\te escribo cuando llegue
+1007\721\733\23\9\2026\1\que buena foto subiste
+1008\784\791\23\9\2026\1\te envie la informacion del trabajo
+1009\878\893\23\9\2026\1\me confirmas la hora por favor
+1010\942\947\23\9\2026\1\nos vemos el viernes
+1011\7\17\23\9\2026\1\gracias por avisarme
+1012\65\73\23\9\2026\1\nos encontramos en la biblioteca
+1013\125\140\23\9\2026\1\te escribo cuando llegue
+1014\186\196\23\9\2026\1\que buena foto subiste
+1015\247\257\23\9\2026\1\te envie la informacion del trabajo
+1016\339\347\23\9\2026\1\me confirmas la hora por favor
+1017\400\415\23\9\2026\1\nos vemos el viernes
+1018\462\466\23\9\2026\1\gracias por avisarme
+1019\524\526\23\9\2026\1\nos encontramos en la biblioteca
+1020\586\590\23\9\2026\1\te escribo cuando llegue
+1021\648\656\23\9\2026\1\que buena foto subiste
+1022\710\723\23\9\2026\1\te envie la informacion del trabajo
+1023\804\816\23\9\2026\1\me confirmas la hora por favor
+1024\867\880\23\9\2026\1\nos vemos el viernes
+1025\931\933\23\9\2026\1\gracias por avisarme
+1026\1\2\23\9\2026\1\nos encontramos en la biblioteca
+1027\54\67\23\9\2026\1\te escribo cuando llegue
+1028\115\119\23\9\2026\1\que buena foto subiste
+1029\175\189\23\9\2026\1\te envie la informacion del trabajo
+1030\267\273\23\9\2026\1\me confirmas la hora por favor
+1031\328\338\23\9\2026\1\nos vemos el viernes
+1032\390\392\23\9\2026\1\gracias por avisarme
+1033\451\456\23\9\2026\1\nos encontramos en la biblioteca
+1034\513\516\23\9\2026\1\te escribo cuando llegue
+1035\575\579\23\9\2026\1\que buena foto subiste
+1036\637\645\23\9\2026\1\te envie la informacion del trabajo
+1037\730\930\23\9\2026\1\me confirmas la hora por favor
+1038\18\17\24\9\2026\1\puedes revisar el ejercicio?
+1039\82\77\24\9\2026\1\recuerda la reunion de esta semana
+1040\150\137\24\9\2026\1\hola, como estas?
+1041\206\198\24\9\2026\1\me confirmas la hora por favor
+1042\268\259\24\9\2026\1\nos vemos el viernes
+1043\332\320\24\9\2026\1\gracias por avisarme
+1044\422\412\24\9\2026\1\hablemos luego del parcial
+1045\479\474\24\9\2026\1\puedes revisar el ejercicio?
+1046\539\536\24\9\2026\1\recuerda la reunion de esta semana
+1047\604\598\24\9\2026\1\hola, como estas?
+1048\670\660\24\9\2026\1\me confirmas la hora por favor
+1049\736\722\24\9\2026\1\nos vemos el viernes
+1050\794\785\24\9\2026\1\gracias por avisarme
+1051\882\880\24\9\2026\1\hablemos luego del parcial
+1052\950\943\24\9\2026\1\puedes revisar el ejercicio?
+1053\12\8\24\9\2026\1\recuerda la reunion de esta semana
+1054\76\66\24\9\2026\1\hola, como estas?
+1055\129\127\24\9\2026\1\me confirmas la hora por favor
+1056\199\187\24\9\2026\1\nos vemos el viernes
+1057\260\248\24\9\2026\1\gracias por avisarme
+1058\350\340\24\9\2026\1\hablemos luego del parcial
+1059\413\401\24\9\2026\1\puedes revisar el ejercicio?
+1060\469\463\24\9\2026\1\recuerda la reunion de esta semana
+1061\529\525\24\9\2026\1\hola, como estas?
+1062\593\587\24\9\2026\1\me confirmas la hora por favor
+1063\659\649\24\9\2026\1\nos vemos el viernes
+1064\724\711\24\9\2026\1\gracias por avisarme
+1065\819\805\24\9\2026\1\hablemos luego del parcial
+1066\883\868\24\9\2026\1\puedes revisar el ejercicio?
+1067\936\932\24\9\2026\1\recuerda la reunion de esta semana
+1068\988\1\24\9\2026\1\hola, como estas?
+1069\70\55\24\9\2026\1\me confirmas la hora por favor
+1070\122\116\24\9\2026\1\nos vemos el viernes
+1071\178\177\24\9\2026\1\gracias por avisarme
+1072\276\268\24\9\2026\1\hablemos luego del parcial
+1073\341\329\24\9\2026\1\puedes revisar el ejercicio?
+1074\840\390\24\9\2026\1\recuerda la reunion de esta semana
+1075\459\452\24\9\2026\1\hola, como estas?
+1076\519\514\24\9\2026\1\me confirmas la hora por favor
+1077\582\576\24\9\2026\1\nos vemos el viernes
+1078\648\638\24\9\2026\1\gracias por avisarme
+1079\734\732\24\9\2026\1\hablemos luego del parcial
+1080\18\21\25\9\2026\0\todo listo para la entrega
+1081\78\85\25\9\2026\0\ya terminaste la parte del proyecto?
+1082\138\153\25\9\2026\0\nos vemos manana en la universidad
+1083\199\209\25\9\2026\0\hablemos luego del parcial
+1084\260\271\25\9\2026\0\puedes revisar el ejercicio?
+1085\321\330\25\9\2026\0\recuerda la reunion de esta semana
+1086\383\384\25\9\2026\0\hola, como estas?
+1087\413\425\25\9\2026\0\ya revise los archivos
+1088\475\482\25\9\2026\0\todo listo para la entrega
+1089\537\542\25\9\2026\0\ya terminaste la parte del proyecto?
+1090\599\607\25\9\2026\0\nos vemos manana en la universidad
+1091\661\670\25\9\2026\0\hablemos luego del parcial
+1092\724\725\25\9\2026\0\puedes revisar el ejercicio?
+1093\786\797\25\9\2026\0\recuerda la reunion de esta semana
+1094\849\860\25\9\2026\0\hola, como estas?
+1095\881\884\25\9\2026\0\ya revise los archivos
+1096\944\953\25\9\2026\0\todo listo para la entrega
+1097\8\998\25\9\2026\0\ya terminaste la parte del proyecto?
+1098\67\79\25\9\2026\0\nos vemos manana en la universidad
+1099\128\132\25\9\2026\0\hablemos luego del parcial
+1100\188\202\25\9\2026\0\puedes revisar el ejercicio?
+1101\249\263\25\9\2026\0\recuerda la reunion de esta semana
+1102\310\410\25\9\2026\0\hola, como estas?
+1103\341\348\25\9\2026\0\ya revise los archivos
+1104\402\416\25\9\2026\0\todo listo para la entrega
+1105\464\472\25\9\2026\0\ya terminaste la parte del proyecto?
+1106\526\532\25\9\2026\0\nos vemos manana en la universidad
+1107\588\596\25\9\2026\0\hablemos luego del parcial
+1108\650\662\25\9\2026\0\puedes revisar el ejercicio?
+1109\712\727\25\9\2026\0\recuerda la reunion de esta semana
+1110\775\785\25\9\2026\0\hola, como estas?
+1111\807\808\25\9\2026\0\ya revise los archivos
+1112\870\872\25\9\2026\0\todo listo para la entrega
+1113\933\939\25\9\2026\0\ya terminaste la parte del proyecto?
+1114\2\8\25\9\2026\0\nos vemos manana en la universidad
+1115\57\59\25\9\2026\0\hablemos luego del parcial
+1116\117\125\25\9\2026\0\puedes revisar el ejercicio?
+1117\178\181\25\9\2026\0\recuerda la reunion de esta semana
+1118\239\241\25\9\2026\0\hola, como estas?
+1119\269\279\25\9\2026\0\ya revise los archivos
+1120\330\344\25\9\2026\0\todo listo para la entrega
+1121\392\393\25\9\2026\0\ya terminaste la parte del proyecto?
+1122\453\462\25\9\2026\0\nos vemos manana en la universidad
+1123\515\522\25\9\2026\0\hablemos luego del parcial
+1124\577\585\25\9\2026\0\puedes revisar el ejercicio?
+1125\639\651\25\9\2026\0\recuerda la reunion de esta semana
+1126\701\715\25\9\2026\0\hola, como estas?
+1127\733\737\25\9\2026\0\ya revise los archivos
+1128\24\19\26\9\2026\1\te escribo cuando llegue
+1129\88\79\26\9\2026\1\que buena foto subiste
+1130\142\140\26\9\2026\1\te envie la informacion del trabajo
+1131\212\200\26\9\2026\1\ya revise los archivos
+1132\268\261\26\9\2026\1\todo listo para la entrega
+1133\333\322\26\9\2026\1\ya terminaste la parte del proyecto?
+1134\387\384\26\9\2026\1\nos vemos manana en la universidad
+1135\428\414\26\9\2026\1\nos encontramos en la biblioteca
+1136\485\476\26\9\2026\1\te escribo cuando llegue
+1137\545\538\26\9\2026\1\que buena foto subiste
+1138\610\600\26\9\2026\1\te envie la informacion del trabajo
+1139\673\662\26\9\2026\1\ya revise los archivos
+1140\728\725\26\9\2026\1\todo listo para la entrega
+1141\800\787\26\9\2026\1\ya terminaste la parte del proyecto?
+1142\863\850\26\9\2026\1\nos vemos manana en la universidad
+1143\887\882\26\9\2026\1\nos encontramos en la biblioteca
+1144\956\945\26\9\2026\1\te escribo cuando llegue
+1145\994\9\26\9\2026\1\que buena foto subiste
+1146\82\68\26\9\2026\1\te envie la informacion del trabajo
+1147\135\129\26\9\2026\1\ya revise los archivos
+1148\191\190\26\9\2026\1\todo listo para la entrega
+1149\350\250\26\9\2026\1\ya terminaste la parte del proyecto?
+1150\324\311\26\9\2026\1\nos vemos manana en la universidad
+1151\351\342\26\9\2026\1\nos encontramos en la biblioteca
+1152\405\404\26\9\2026\1\te escribo cuando llegue
+1153\475\465\26\9\2026\1\que buena foto subiste
+1154\535\527\26\9\2026\1\te envie la informacion del trabajo
+1155\599\589\26\9\2026\1\ya revise los archivos
+1156\662\651\26\9\2026\1\todo listo para la entrega
+1157\716\714\26\9\2026\1\ya terminaste la parte del proyecto?
+1158\788\776\26\9\2026\1\nos vemos manana en la universidad
+1159\811\808\26\9\2026\1\nos encontramos en la biblioteca
+1160\874\871\26\9\2026\1\te escribo cuando llegue
+1161\942\934\26\9\2026\1\que buena foto subiste
+1162\994\2\26\9\2026\1\te envie la informacion del trabajo
+1163\62\58\26\9\2026\1\ya revise los archivos
+1164\128\118\26\9\2026\1\todo listo para la entrega
+1165\184\179\26\9\2026\1\ya terminaste la parte del proyecto?
+1166\244\240\26\9\2026\1\nos vemos manana en la universidad
+1167\282\270\26\9\2026\1\nos encontramos en la biblioteca
+1168\342\331\26\9\2026\1\te escribo cuando llegue
+1169\396\393\26\9\2026\1\que buena foto subiste
+1170\465\454\26\9\2026\1\te envie la informacion del trabajo
+1171\525\516\26\9\2026\1\ya revise los archivos
+1172\588\578\26\9\2026\1\todo listo para la entrega
+1173\654\640\26\9\2026\1\ya terminaste la parte del proyecto?
+1174\704\703\26\9\2026\1\nos vemos manana en la universidad
+1175\740\734\26\9\2026\1\nos encontramos en la biblioteca
+1176\20\27\27\9\2026\1\me confirmas la hora por favor
+1177\80\91\27\9\2026\1\nos vemos el viernes
+1178\140\590\27\9\2026\1\gracias por avisarme
+1179\201\209\27\9\2026\1\nos encontramos en la biblioteca
+1180\262\271\27\9\2026\1\te escribo cuando llegue
+1181\323\336\27\9\2026\1\que buena foto subiste
+1182\385\390\27\9\2026\1\te envie la informacion del trabajo
+1183\477\488\27\9\2026\1\me confirmas la hora por favor
+1184\539\548\27\9\2026\1\nos vemos el viernes
+1185\601\610\27\9\2026\1\gracias por avisarme
+1186\663\676\27\9\2026\1\nos encontramos en la biblioteca
+1187\726\731\27\9\2026\1\te escribo cuando llegue
+1188\788\803\27\9\2026\1\que buena foto subiste
+1189\851\865\27\9\2026\1\te envie la informacion del trabajo
+1190\946\959\27\9\2026\1\me confirmas la hora por favor
+1191\10\22\27\9\2026\1\nos vemos el viernes
+1192\70\71\27\9\2026\1\gracias por avisarme
+1193\130\138\27\9\2026\1\nos encontramos en la biblioteca
+1194\190\490\27\9\2026\1\te escribo cuando llegue
+1195\251\263\27\9\2026\1\que buena foto subiste
+1196\312\327\27\9\2026\1\te envie la informacion del trabajo
+1197\405\408\27\9\2026\1\me confirmas la hora por favor
+1198\466\478\27\9\2026\1\nos vemos el viernes
+1199\528\538\27\9\2026\1\gracias por avisarme
+1200\590\602\27\9\2026\1\nos encontramos en la biblioteca
+1201\652\665\27\9\2026\1\te escribo cuando llegue
+1202\715\719\27\9\2026\1\que buena foto subiste
+1203\777\791\27\9\2026\1\te envie la informacion del trabajo
+1204\872\877\27\9\2026\1\me confirmas la hora por favor
+1205\935\945\27\9\2026\1\nos vemos el viernes
+1206\3\15\27\9\2026\1\gracias por avisarme
+1207\59\65\27\9\2026\1\nos encontramos en la biblioteca
+1208\119\131\27\9\2026\1\te escribo cuando llegue
+1209\180\187\27\9\2026\1\que buena foto subiste
+1210\240\940\27\9\2026\1\te envie la informacion del trabajo
+1211\332\345\27\9\2026\1\me confirmas la hora por favor
+1212\394\399\27\9\2026\1\nos vemos el viernes
+1213\455\468\27\9\2026\1\gracias por avisarme
+1214\517\528\27\9\2026\1\nos encontramos en la biblioteca
+1215\579\591\27\9\2026\1\te escribo cuando llegue
+1216\641\654\27\9\2026\1\que buena foto subiste
+1217\704\707\27\9\2026\1\te envie la informacion del trabajo
+1218\22\21\28\9\2026\1\hablemos luego del parcial
+1219\86\81\28\9\2026\1\puedes revisar el ejercicio?
+1220\155\141\28\9\2026\1\recuerda la reunion de esta semana
+1221\212\202\28\9\2026\1\hola, como estas?
+1222\274\263\28\9\2026\1\me confirmas la hora por favor
+1223\339\324\28\9\2026\1\nos vemos el viernes
+1224\393\386\28\9\2026\1\gracias por avisarme
+1225\491\478\28\9\2026\1\hablemos luego del parcial
+1226\551\540\28\9\2026\1\puedes revisar el ejercicio?
+1227\613\602\28\9\2026\1\recuerda la reunion de esta semana
+1228\679\664\28\9\2026\1\hola, como estas?
+1229\734\727\28\9\2026\1\me confirmas la hora por favor
+1230\792\790\28\9\2026\1\nos vemos el viernes
+1231\854\853\28\9\2026\1\gracias por avisarme
+1232\962\947\28\9\2026\1\hablemos luego del parcial
+1233\12\11\28\9\2026\1\puedes revisar el ejercicio?
+1234\370\70\28\9\2026\1\recuerda la reunion de esta semana
+1235\134\131\28\9\2026\1\hola, como estas?
+1236\204\191\28\9\2026\1\me confirmas la hora por favor
+1237\266\252\28\9\2026\1\nos vemos el viernes
+1238\316\314\28\9\2026\1\gracias por avisarme
+1239\411\406\28\9\2026\1\hablemos luego del parcial
+1240\481\467\28\9\2026\1\puedes revisar el ejercicio?
+1241\541\529\28\9\2026\1\recuerda la reunion de esta semana
+1242\602\591\28\9\2026\1\hola, como estas?
+1243\668\653\28\9\2026\1\me confirmas la hora por favor
+1244\722\716\28\9\2026\1\nos vemos el viernes
+1245\780\779\28\9\2026\1\gracias por avisarme
+1246\880\873\28\9\2026\1\hablemos luego del parcial
+1247\948\936\28\9\2026\1\puedes revisar el ejercicio?
+1248\6\4\28\9\2026\1\recuerda la reunion de esta semana
+1249\68\60\28\9\2026\1\hola, como estas?
+1250\134\120\28\9\2026\1\me confirmas la hora por favor
+1251\183\181\28\9\2026\1\nos vemos el viernes
+1252\244\242\28\9\2026\1\gracias por avisarme
+1253\348\333\28\9\2026\1\hablemos luego del parcial
+1254\402\395\28\9\2026\1\puedes revisar el ejercicio?
+1255\471\456\28\9\2026\1\recuerda la reunion de esta semana
+1256\531\518\28\9\2026\1\hola, como estas?
+1257\594\580\28\9\2026\1\me confirmas la hora por favor
+1258\657\642\28\9\2026\1\nos vemos el viernes
+1259\710\705\28\9\2026\1\gracias por avisarme
+1260\52\57\1\10\2026\0\me confirmas la hora por favor
+1261\112\123\1\10\2026\0\nos vemos el viernes
+1262\173\179\1\10\2026\0\gracias por avisarme
+1263\234\239\1\10\2026\0\nos encontramos en la biblioteca
+1264\295\301\1\10\2026\0\te escribo cuando llegue
+1265\356\369\1\10\2026\0\que buena foto subiste
+1266\418\423\1\10\2026\0\te envie la informacion del trabajo
+1267\510\524\1\10\2026\0\me confirmas la hora por favor
+1268\572\583\1\10\2026\0\nos vemos el viernes
+1269\634\649\1\10\2026\0\gracias por avisarme
+1270\697\701\1\10\2026\0\nos encontramos en la biblioteca
+1271\759\773\1\10\2026\0\te escribo cuando llegue
+1272\822\832\1\10\2026\0\que buena foto subiste
+1273\885\896\1\10\2026\0\te envie la informacion del trabajo
+1274\980\993\1\10\2026\0\me confirmas la hora por favor
+1275\41\51\1\10\2026\0\nos vemos el viernes
+1276\101\116\1\10\2026\0\gracias por avisarme
+1277\162\172\1\10\2026\0\nos encontramos en la biblioteca
+1278\223\231\1\10\2026\0\te escribo cuando llegue
+1279\284\293\1\10\2026\0\que buena foto subiste
+1280\345\360\1\10\2026\0\te envie la informacion del trabajo
+1281\438\441\1\10\2026\0\me confirmas la hora por favor
+1282\499\514\1\10\2026\0\nos vemos el viernes
+1283\561\572\1\10\2026\0\gracias por avisarme
+1284\623\638\1\10\2026\0\nos encontramos en la biblioteca
+1285\686\690\1\10\2026\0\te escribo cuando llegue
+1286\748\761\1\10\2026\0\que buena foto subiste
+1287\811\819\1\10\2026\0\te envie la informacion del trabajo
+1288\906\909\1\10\2026\0\me confirmas la hora por favor
+1289\969\979\1\10\2026\0\nos vemos el viernes
+1290\30\930\1\10\2026\0\gracias por avisarme
+1291\91\95\1\10\2026\0\nos encontramos en la biblioteca
+1292\151\165\1\10\2026\0\te escribo cuando llegue
+1293\212\223\1\10\2026\0\que buena foto subiste
+1294\273\285\1\10\2026\0\te envie la informacion del trabajo
+1295\365\378\1\10\2026\0\me confirmas la hora por favor
+1296\427\432\1\10\2026\0\nos vemos el viernes
+1297\489\490\1\10\2026\0\gracias por avisarme
+1298\550\564\1\10\2026\0\nos encontramos en la biblioteca
+1299\612\627\1\10\2026\0\te escribo cuando llegue
+1300\675\679\1\10\2026\0\que buena foto subiste
+1301\737\749\1\10\2026\0\te envie la informacion del trabajo
+1302\60\53\2\10\2026\1\hablemos luego del parcial
+1303\126\113\2\10\2026\1\puedes revisar el ejercicio?
+1304\182\174\2\10\2026\1\recuerda la reunion de esta semana
+1305\242\235\2\10\2026\1\hola, como estas?
+1306\304\296\2\10\2026\1\me confirmas la hora por favor
+1307\372\357\2\10\2026\1\nos vemos el viernes
+1308\426\419\2\10\2026\1\gracias por avisarme
+1309\523\511\2\10\2026\1\hablemos luego del parcial
+1310\586\573\2\10\2026\1\puedes revisar el ejercicio?
+1311\638\636\2\10\2026\1\recuerda la reunion de esta semana
+1312\704\698\2\10\2026\1\hola, como estas?
+1313\860\760\2\10\2026\1\me confirmas la hora por favor
+1314\835\823\2\10\2026\1\nos vemos el viernes
+1315\899\886\2\10\2026\1\gracias por avisarme
+1316\996\981\2\10\2026\1\hablemos luego del parcial
+1317\54\42\2\10\2026\1\puedes revisar el ejercicio?
+1318\105\103\2\10\2026\1\recuerda la reunion de esta semana
+1319\175\163\2\10\2026\1\hola, como estas?
+1320\234\224\2\10\2026\1\me confirmas la hora por favor
+1321\296\285\2\10\2026\1\nos vemos el viernes
+1322\349\347\2\10\2026\1\gracias por avisarme
+1323\444\439\2\10\2026\1\hablemos luego del parcial
+1324\700\500\2\10\2026\1\puedes revisar el ejercicio?
+1325\575\562\2\10\2026\1\recuerda la reunion de esta semana
+1326\627\625\2\10\2026\1\hola, como estas?
+1327\693\687\2\10\2026\1\me confirmas la hora por favor
+1328\764\749\2\10\2026\1\nos vemos el viernes
+1329\822\812\2\10\2026\1\gracias por avisarme
+1330\912\907\2\10\2026\1\hablemos luego del parcial
+1331\982\970\2\10\2026\1\puedes revisar el ejercicio?
+1332\34\32\2\10\2026\1\recuerda la reunion de esta semana
+1333\98\92\2\10\2026\1\hola, como estas?
+1334\154\153\2\10\2026\1\me confirmas la hora por favor
+1335\226\213\2\10\2026\1\nos vemos el viernes
+1336\288\274\2\10\2026\1\gracias por avisarme
+1337\381\366\2\10\2026\1\hablemos luego del parcial
+1338\435\428\2\10\2026\1\puedes revisar el ejercicio?
+1339\493\490\2\10\2026\1\recuerda la reunion de esta semana
+1340\564\551\2\10\2026\1\hola, como estas?
+1341\616\614\2\10\2026\1\me confirmas la hora por favor
+1342\682\676\2\10\2026\1\nos vemos el viernes
+1343\752\738\2\10\2026\1\gracias por avisarme
+1344\24\31\3\10\2026\1\hola, como estas?
+1345\54\63\3\10\2026\1\ya revise los archivos
+1346\114\129\3\10\2026\1\todo listo para la entrega
+1347\175\185\3\10\2026\1\ya terminaste la parte del proyecto?
+1348\236\245\3\10\2026\1\nos vemos manana en la universidad
+1349\297\307\3\10\2026\1\hablemos luego del parcial
+1350\359\361\3\10\2026\1\puedes revisar el ejercicio?
+1351\420\429\3\10\2026\1\recuerda la reunion de esta semana
+1352\481\496\3\10\2026\1\hola, como estas?
+1353\512\526\3\10\2026\1\ya revise los archivos
+1354\574\589\3\10\2026\1\todo listo para la entrega
+1355\637\641\3\10\2026\1\ya terminaste la parte del proyecto?
+1356\699\707\3\10\2026\1\nos vemos manana en la universidad
+1357\762\763\3\10\2026\1\hablemos luego del parcial
+1358\824\838\3\10\2026\1\puedes revisar el ejercicio?
+1359\887\902\3\10\2026\1\recuerda la reunion de esta semana
+1360\951\957\3\10\2026\1\hola, como estas?
+1361\983\985\3\10\2026\1\ya revise los archivos
+1362\43\57\3\10\2026\1\todo listo para la entrega
+1363\104\108\3\10\2026\1\ya terminaste la parte del proyecto?
+1364\164\178\3\10\2026\1\nos vemos manana en la universidad
+1365\225\237\3\10\2026\1\hablemos luego del parcial
+1366\286\299\3\10\2026\1\puedes revisar el ejercicio?
+1367\348\352\3\10\2026\1\recuerda la reunion de esta semana
+1368\409\420\3\10\2026\1\hola, como estas?
+1369\440\447\3\10\2026\1\ya revise los archivos
+1370\501\516\3\10\2026\1\todo listo para la entrega
+1371\563\578\3\10\2026\1\ya terminaste la parte del proyecto?
+1372\626\630\3\10\2026\1\nos vemos manana en la universidad
+1373\688\696\3\10\2026\1\hablemos luego del parcial
+1374\750\950\3\10\2026\1\puedes revisar el ejercicio?
+1375\813\825\3\10\2026\1\recuerda la reunion de esta semana
+1376\876\889\3\10\2026\1\hola, como estas?
+1377\908\915\3\10\2026\1\ya revise los archivos
+1378\971\985\3\10\2026\1\todo listo para la entrega
+1379\33\37\3\10\2026\1\ya terminaste la parte del proyecto?
+1380\93\101\3\10\2026\1\nos vemos manana en la universidad
+1381\154\157\3\10\2026\1\hablemos luego del parcial
+1382\214\229\3\10\2026\1\puedes revisar el ejercicio?
+1383\276\277\3\10\2026\1\recuerda la reunion de esta semana
+1384\337\343\3\10\2026\1\hola, como estas?
+1385\368\370\3\10\2026\1\ya revise los archivos
+1386\429\438\3\10\2026\1\todo listo para la entrega
+1387\491\492\3\10\2026\1\ya terminaste la parte del proyecto?
+1388\552\567\3\10\2026\1\nos vemos manana en la universidad
+1389\615\619\3\10\2026\1\hablemos luego del parcial
+1390\677\685\3\10\2026\1\puedes revisar el ejercicio?
+1391\740\741\3\10\2026\1\recuerda la reunion de esta semana
+1392\34\25\4\10\2026\1\nos vemos manana en la universidad
+1393\66\55\4\10\2026\1\nos encontramos en la biblioteca
+1394\118\116\4\10\2026\1\te escribo cuando llegue
+1395\188\176\4\10\2026\1\que buena foto subiste
+1396\248\237\4\10\2026\1\te envie la informacion del trabajo
+1397\310\298\4\10\2026\1\ya revise los archivos
+1398\364\360\4\10\2026\1\todo listo para la entrega
+1399\427\421\4\10\2026\1\ya terminaste la parte del proyecto?
+1400\485\483\4\10\2026\1\nos vemos manana en la universidad
+1401\515\514\4\10\2026\1\nos encontramos en la biblioteca
+1402\578\576\4\10\2026\1\te escribo cuando llegue
+1403\644\638\4\10\2026\1\que buena foto subiste
+1404\710\700\4\10\2026\1\te envie la informacion del trabajo
+1405\766\763\4\10\2026\1\ya revise los archivos
+1406\827\826\4\10\2026\1\todo listo para la entrega
+1407\891\889\4\10\2026\1\ya terminaste la parte del proyecto?
+1408\960\952\4\10\2026\1\nos vemos manana en la universidad
+1409\988\984\4\10\2026\1\nos encontramos en la biblioteca
+1410\46\45\4\10\2026\1\te escribo cuando llegue
+1411\111\105\4\10\2026\1\que buena foto subiste
+1412\167\166\4\10\2026\1\te envie la informacion del trabajo
+1413\240\226\4\10\2026\1\ya revise los archivos
+1414\302\287\4\10\2026\1\todo listo para la entrega
+1415\355\349\4\10\2026\1\ya terminaste la parte del proyecto?
+1416\423\410\4\10\2026\1\nos vemos manana en la universidad
+1417\445\441\4\10\2026\1\nos encontramos en la biblioteca
+1418\505\503\4\10\2026\1\te escribo cuando llegue
+1419\567\565\4\10\2026\1\que buena foto subiste
+1420\633\627\4\10\2026\1\te envie la informacion del trabajo
+1421\699\689\4\10\2026\1\ya revise los archivos
+1422\754\752\4\10\2026\1\todo listo para la entrega
+1423\828\814\4\10\2026\1\ya terminaste la parte del proyecto?
+1424\892\877\4\10\2026\1\nos vemos manana en la universidad
+1425\918\909\4\10\2026\1\nos encontramos en la biblioteca
+1426\974\973\4\10\2026\1\te escribo cuando llegue
+1427\40\34\4\10\2026\1\que buena foto subiste
+1428\104\94\4\10\2026\1\te envie la informacion del trabajo
+1429\160\155\4\10\2026\1\ya revise los archivos
+1430\218\216\4\10\2026\1\todo listo para la entrega
+1431\280\277\4\10\2026\1\ya terminaste la parte del proyecto?
+1432\346\338\4\10\2026\1\nos vemos manana en la universidad
+1433\373\369\4\10\2026\1\nos encontramos en la biblioteca
+1434\441\430\4\10\2026\1\te escribo cuando llegue
+1435\495\492\4\10\2026\1\que buena foto subiste
+1436\556\554\4\10\2026\1\te envie la informacion del trabajo
+1437\622\616\4\10\2026\1\ya revise los archivos
+1438\688\678\4\10\2026\1\todo listo para la entrega
+1439\742\741\4\10\2026\1\ya terminaste la parte del proyecto?
+1440\26\37\5\10\2026\0\te envie la informacion del trabajo
+1441\117\121\5\10\2026\0\me confirmas la hora por favor
+1442\177\191\5\10\2026\0\nos vemos el viernes
+1443\238\251\5\10\2026\0\gracias por avisarme
+1444\299\313\5\10\2026\0\nos encontramos en la biblioteca
+1445\361\362\5\10\2026\0\te escribo cuando llegue
+1446\422\430\5\10\2026\0\que buena foto subiste
+1447\484\488\5\10\2026\0\te envie la informacion del trabajo
+1448\577\581\5\10\2026\0\me confirmas la hora por favor
+1449\639\647\5\10\2026\0\nos vemos el viernes
+1450\701\711\5\10\2026\0\gracias por avisarme
+1451\764\769\5\10\2026\0\nos encontramos en la biblioteca
+1452\827\830\5\10\2026\0\te escribo cuando llegue
+1453\890\894\5\10\2026\0\que buena foto subiste
+1454\953\963\5\10\2026\0\te envie la informacion del trabajo
+1455\46\49\5\10\2026\0\me confirmas la hora por favor
+1456\106\114\5\10\2026\0\nos vemos el viernes
+1457\167\170\5\10\2026\0\gracias por avisarme
+1458\228\229\5\10\2026\0\nos encontramos en la biblioteca
+1459\289\291\5\10\2026\0\te escribo cuando llegue
+1460\350\358\5\10\2026\0\que buena foto subiste
+1461\411\421\5\10\2026\0\te envie la informacion del trabajo
+1462\504\508\5\10\2026\0\me confirmas la hora por favor
+1463\566\570\5\10\2026\0\nos vemos el viernes
+1464\628\636\5\10\2026\0\gracias por avisarme
+1465\690\702\5\10\2026\0\nos encontramos en la biblioteca
+1466\753\757\5\10\2026\0\te escribo cuando llegue
+1467\816\817\5\10\2026\0\que buena foto subiste
+1468\879\881\5\10\2026\0\te envie la informacion del trabajo
+1469\974\977\5\10\2026\0\me confirmas la hora por favor
+1470\35\43\5\10\2026\0\nos vemos el viernes
+1471\95\107\5\10\2026\0\gracias por avisarme
+1472\156\163\5\10\2026\0\nos encontramos en la biblioteca
+1473\217\221\5\10\2026\0\te escribo cuando llegue
+1474\278\283\5\10\2026\0\que buena foto subiste
+1475\339\349\5\10\2026\0\te envie la informacion del trabajo
+1476\431\439\5\10\2026\0\me confirmas la hora por favor
+1477\493\498\5\10\2026\0\nos vemos el viernes
+1478\555\559\5\10\2026\0\gracias por avisarme
+1479\617\625\5\10\2026\0\nos encontramos en la biblioteca
+1480\679\691\5\10\2026\0\te escribo cuando llegue
+1481\742\745\5\10\2026\0\que buena foto subiste
+1482\40\27\6\10\2026\1\gracias por avisarme
+1483\124\118\6\10\2026\1\hablemos luego del parcial
+1484\180\179\6\10\2026\1\puedes revisar el ejercicio?
+1485\254\239\6\10\2026\1\recuerda la reunion de esta semana
+1486\400\300\6\10\2026\1\hola, como estas?
+1487\365\362\6\10\2026\1\me confirmas la hora por favor
+1488\433\423\6\10\2026\1\nos vemos el viernes
+1489\491\485\6\10\2026\1\gracias por avisarme
+1490\584\578\6\10\2026\1\hablemos luego del parcial
+1491\650\640\6\10\2026\1\puedes revisar el ejercicio?
+1492\714\702\6\10\2026\1\recuerda la reunion de esta semana
+1493\772\765\6\10\2026\1\hola, como estas?
+1494\833\828\6\10\2026\1\me confirmas la hora por favor
+1495\896\891\6\10\2026\1\nos vemos el viernes
+1496\966\954\6\10\2026\1\gracias por avisarme
+1497\52\47\6\10\2026\1\hablemos luego del parcial
+1498\117\107\6\10\2026\1\puedes revisar el ejercicio?
+1499\173\168\6\10\2026\1\recuerda la reunion de esta semana
+1500\232\229\6\10\2026\1\hola, como estas?
+1501\294\290\6\10\2026\1\me confirmas la hora por favor
+1502\356\351\6\10\2026\1\nos vemos el viernes
+1503\424\412\6\10\2026\1\gracias por avisarme
+1504\511\505\6\10\2026\1\hablemos luego del parcial
+1505\573\567\6\10\2026\1\puedes revisar el ejercicio?
+1506\639\629\6\10\2026\1\recuerda la reunion de esta semana
+1507\702\691\6\10\2026\1\hola, como estas?
+1508\760\754\6\10\2026\1\me confirmas la hora por favor
+1509\820\817\6\10\2026\1\nos vemos el viernes
+1510\884\880\6\10\2026\1\gracias por avisarme
+1511\980\975\6\10\2026\1\hablemos luego del parcial
+1512\46\36\6\10\2026\1\puedes revisar el ejercicio?
+1513\110\96\6\10\2026\1\recuerda la reunion de esta semana
+1514\166\157\6\10\2026\1\hola, como estas?
+1515\224\218\6\10\2026\1\me confirmas la hora por favor
+1516\286\279\6\10\2026\1\nos vemos el viernes
+1517\352\340\6\10\2026\1\gracias por avisarme
+1518\442\432\6\10\2026\1\hablemos luego del parcial
+1519\501\494\6\10\2026\1\puedes revisar el ejercicio?
+1520\562\556\6\10\2026\1\recuerda la reunion de esta semana
+1521\628\618\6\10\2026\1\hola, como estas?
+1522\694\680\6\10\2026\1\me confirmas la hora por favor
+1523\748\743\6\10\2026\1\nos vemos el viernes
+1524\28\43\7\10\2026\1\recuerda la reunion de esta semana
+1525\89\93\7\10\2026\1\hola, como estas?
+1526\119\127\7\10\2026\1\ya revise los archivos
+1527\180\183\7\10\2026\1\todo listo para la entrega
+1528\240\440\7\10\2026\1\ya terminaste la parte del proyecto?
+1529\301\314\7\10\2026\1\nos vemos manana en la universidad
+1530\363\368\7\10\2026\1\hablemos luego del parcial
+1531\424\436\7\10\2026\1\puedes revisar el ejercicio?
+1532\486\494\7\10\2026\1\recuerda la reunion de esta semana
+1533\548\554\7\10\2026\1\hola, como estas?
+1534\579\587\7\10\2026\1\ya revise los archivos
+1535\641\650\7\10\2026\1\todo listo para la entrega
+1536\703\717\7\10\2026\1\ya terminaste la parte del proyecto?
+1537\766\775\7\10\2026\1\nos vemos manana en la universidad
+1538\829\836\7\10\2026\1\hablemos luego del parcial
+1539\892\899\7\10\2026\1\puedes revisar el ejercicio?
+1540\955\969\7\10\2026\1\recuerda la reunion de esta semana
+1541\18\23\7\10\2026\1\hola, como estas?
+1542\48\55\7\10\2026\1\ya revise los archivos
+1543\108\120\7\10\2026\1\todo listo para la entrega
+1544\169\176\7\10\2026\1\ya terminaste la parte del proyecto?
+1545\230\235\7\10\2026\1\nos vemos manana en la universidad
+1546\290\990\7\10\2026\1\hablemos luego del parcial
+1547\352\359\7\10\2026\1\puedes revisar el ejercicio?
+1548\413\427\7\10\2026\1\recuerda la reunion de esta semana
+1549\475\484\7\10\2026\1\hola, como estas?
+1550\506\514\7\10\2026\1\ya revise los archivos
+1551\568\576\7\10\2026\1\todo listo para la entrega
+1552\630\642\7\10\2026\1\ya terminaste la parte del proyecto?
+1553\692\705\7\10\2026\1\nos vemos manana en la universidad
+1554\755\763\7\10\2026\1\hablemos luego del parcial
+1555\818\823\7\10\2026\1\puedes revisar el ejercicio?
+1556\881\886\7\10\2026\1\recuerda la reunion de esta semana
+1557\944\955\7\10\2026\1\hola, como estas?
+1558\976\983\7\10\2026\1\ya revise los archivos
+1559\37\49\7\10\2026\1\todo listo para la entrega
+1560\98\99\7\10\2026\1\ya terminaste la parte del proyecto?
+1561\158\169\7\10\2026\1\nos vemos manana en la universidad
+1562\219\227\7\10\2026\1\hablemos luego del parcial
+1563\280\289\7\10\2026\1\puedes revisar el ejercicio?
+1564\341\350\7\10\2026\1\recuerda la reunion de esta semana
+1565\403\404\7\10\2026\1\hola, como estas?
+1566\433\445\7\10\2026\1\ya revise los archivos
+1567\495\504\7\10\2026\1\todo listo para la entrega
+1568\557\565\7\10\2026\1\ya terminaste la parte del proyecto?
+1569\619\631\7\10\2026\1\nos vemos manana en la universidad
+1570\681\694\7\10\2026\1\hablemos luego del parcial
+1571\744\751\7\10\2026\1\puedes revisar el ejercicio?
+1572\32\30\8\10\2026\1\ya terminaste la parte del proyecto?
+1573\96\90\8\10\2026\1\nos vemos manana en la universidad
+1574\130\120\8\10\2026\1\nos encontramos en la biblioteca
+1575\730\180\8\10\2026\1\te escribo cuando llegue
+1576\254\241\8\10\2026\1\que buena foto subiste
+1577\317\302\8\10\2026\1\te envie la informacion del trabajo
+1578\371\364\8\10\2026\1\ya revise los archivos
+1579\439\425\8\10\2026\1\todo listo para la entrega
+1580\497\487\8\10\2026\1\ya terminaste la parte del proyecto?
+1581\557\549\8\10\2026\1\nos vemos manana en la universidad
+1582\590\580\8\10\2026\1\nos encontramos en la biblioteca
+1583\653\642\8\10\2026\1\te escribo cuando llegue
+1584\706\705\8\10\2026\1\que buena foto subiste
+1585\778\767\8\10\2026\1\te envie la informacion del trabajo
+1586\839\830\8\10\2026\1\ya revise los archivos
+1587\902\893\8\10\2026\1\todo listo para la entrega
+1588\958\957\8\10\2026\1\ya terminaste la parte del proyecto?
+1589\26\19\8\10\2026\1\nos vemos manana en la universidad
+1590\58\49\8\10\2026\1\nos encontramos en la biblioteca
+1591\123\109\8\10\2026\1\te escribo cuando llegue
+1592\179\170\8\10\2026\1\que buena foto subiste
+1593\232\231\8\10\2026\1\te envie la informacion del trabajo
+1594\294\292\8\10\2026\1\ya revise los archivos
+1595\362\353\8\10\2026\1\todo listo para la entrega
+1596\416\415\8\10\2026\1\ya terminaste la parte del proyecto?
+1597\487\476\8\10\2026\1\nos vemos manana en la universidad
+1598\517\507\8\10\2026\1\nos encontramos en la biblioteca
+1599\579\569\8\10\2026\1\te escribo cuando llegue
+1600\642\631\8\10\2026\1\que buena foto subiste
+1601\708\693\8\10\2026\1\te envie la informacion del trabajo
+1602\766\756\8\10\2026\1\ya revise los archivos
+1603\826\819\8\10\2026\1\todo listo para la entrega
+1604\889\882\8\10\2026\1\ya terminaste la parte del proyecto?
+1605\958\945\8\10\2026\1\nos vemos manana en la universidad
+1606\986\977\8\10\2026\1\nos encontramos en la biblioteca
+1607\52\38\8\10\2026\1\te escribo cuando llegue
+1608\102\99\8\10\2026\1\que buena foto subiste
+1609\172\159\8\10\2026\1\te envie la informacion del trabajo
+1610\230\220\8\10\2026\1\ya revise los archivos
+1611\286\281\8\10\2026\1\todo listo para la entrega
+1612\353\342\8\10\2026\1\ya terminaste la parte del proyecto?
+1613\407\404\8\10\2026\1\nos vemos manana en la universidad
+1614\448\434\8\10\2026\1\nos encontramos en la biblioteca
+1615\507\496\8\10\2026\1\te escribo cuando llegue
+1616\568\558\8\10\2026\1\que buena foto subiste
+1617\634\620\8\10\2026\1\te envie la informacion del trabajo
+1618\697\682\8\10\2026\1\ya revise los archivos
+1619\754\745\8\10\2026\1\todo listo para la entrega
+1620\30\480\9\10\2026\0\que buena foto subiste
+1621\90\990\9\10\2026\0\te envie la informacion del trabajo
+1622\181\196\9\10\2026\0\me confirmas la hora por favor
+1623\242\257\9\10\2026\0\nos vemos el viernes
+1624\304\306\9\10\2026\0\gracias por avisarme
+1625\365\374\9\10\2026\0\nos encontramos en la biblioteca
+1626\427\428\9\10\2026\0\te escribo cuando llegue
+1627\488\500\9\10\2026\0\que buena foto subiste
+1628\550\560\9\10\2026\0\te envie la informacion del trabajo
+1629\643\656\9\10\2026\0\me confirmas la hora por favor
+1630\706\709\9\10\2026\0\nos vemos el viernes
+1631\768\781\9\10\2026\0\gracias por avisarme
+1632\831\841\9\10\2026\0\nos encontramos en la biblioteca
+1633\894\905\9\10\2026\0\te escribo cuando llegue
+1634\958\961\9\10\2026\0\que buena foto subiste
+1635\20\29\9\10\2026\0\te envie la informacion del trabajo
+1636\110\210\9\10\2026\0\me confirmas la hora por favor
+1637\171\175\9\10\2026\0\nos vemos el viernes
+1638\232\235\9\10\2026\0\gracias por avisarme
+1639\293\297\9\10\2026\0\nos encontramos en la biblioteca
+1640\354\365\9\10\2026\0\te escribo cuando llegue
+1641\416\419\9\10\2026\0\que buena foto subiste
+1642\477\490\9\10\2026\0\te envie la informacion del trabajo
+1643\570\582\9\10\2026\0\me confirmas la hora por favor
+1644\632\645\9\10\2026\0\nos vemos el viernes
+1645\695\697\9\10\2026\0\gracias por avisarme
+1646\757\769\9\10\2026\0\nos encontramos en la biblioteca
+1647\820\829\9\10\2026\0\te escribo cuando llegue
+1648\883\892\9\10\2026\0\que buena foto subiste
+1649\946\961\9\10\2026\0\te envie la informacion del trabajo
+1650\40\41\9\10\2026\0\me confirmas la hora por favor
+1651\100\105\9\10\2026\0\nos vemos el viernes
+1652\160\175\9\10\2026\0\gracias por avisarme
+1653\221\227\9\10\2026\0\nos encontramos en la biblioteca
+1654\282\289\9\10\2026\0\te escribo cuando llegue
+1655\343\356\9\10\2026\0\que buena foto subiste
+1656\405\410\9\10\2026\0\te envie la informacion del trabajo
+1657\497\510\9\10\2026\0\me confirmas la hora por favor
+1658\559\571\9\10\2026\0\nos vemos el viernes
+1659\621\634\9\10\2026\0\gracias por avisarme
+1660\684\686\9\10\2026\0\nos encontramos en la biblioteca
+1661\44\31\10\10\2026\1\nos vemos el viernes
+1662\94\92\10\10\2026\1\gracias por avisarme
+1663\185\183\10\10\2026\1\hablemos luego del parcial
+1664\246\244\10\10\2026\1\puedes revisar el ejercicio?
+1665\309\305\10\10\2026\1\recuerda la reunion de esta semana
+1666\377\366\10\10\2026\1\hola, como estas?
+1667\431\428\10\10\2026\1\me confirmas la hora por favor
+1668\503\489\10\10\2026\1\nos vemos el viernes
+1669\560\551\10\10\2026\1\gracias por avisarme
+1670\659\644\10\10\2026\1\hablemos luego del parcial
+1671\712\707\10\10\2026\1\puedes revisar el ejercicio?
+1672\784\769\10\10\2026\1\recuerda la reunion de esta semana
+1673\844\832\10\10\2026\1\hola, como estas?
+1674\908\895\10\10\2026\1\me confirmas la hora por favor
+1675\964\959\10\10\2026\1\nos vemos el viernes
+1676\24\21\10\10\2026\1\gracias por avisarme
+1677\122\111\10\10\2026\1\hablemos luego del parcial
+1678\178\172\10\10\2026\1\puedes revisar el ejercicio?
+1679\238\233\10\10\2026\1\recuerda la reunion de esta semana
+1680\300\294\10\10\2026\1\hola, como estas?
+1681\368\355\10\10\2026\1\me confirmas la hora por favor
+1682\422\417\10\10\2026\1\nos vemos el viernes
+1683\493\478\10\10\2026\1\gracias por avisarme
+1684\582\571\10\10\2026\1\hablemos luego del parcial
+1685\648\633\10\10\2026\1\puedes revisar el ejercicio?
+1686\700\696\10\10\2026\1\recuerda la reunion de esta semana
+1687\772\758\10\10\2026\1\hola, como estas?
+1688\831\821\10\10\2026\1\me confirmas la hora por favor
+1689\895\884\10\10\2026\1\nos vemos el viernes
+1690\950\948\10\10\2026\1\gracias por avisarme
+1691\340\40\10\10\2026\1\hablemos luego del parcial
+1692\900\100\10\10\2026\1\puedes revisar el ejercicio?
+1693\171\161\10\10\2026\1\recuerda la reunion de esta semana
+1694\230\222\10\10\2026\1\hola, como estas?
+1695\292\283\10\10\2026\1\me confirmas la hora por favor
+1696\359\344\10\10\2026\1\nos vemos el viernes
+1697\413\406\10\10\2026\1\gracias por avisarme
+1698\513\498\10\10\2026\1\hablemos luego del parcial
+1699\574\560\10\10\2026\1\puedes revisar el ejercicio?
+1700\637\622\10\10\2026\1\recuerda la reunion de esta semana
+1701\689\685\10\10\2026\1\hola, como estas?
+1702\32\47\11\10\2026\1\puedes revisar el ejercicio?
+1703\93\97\11\10\2026\1\recuerda la reunion de esta semana
+1704\153\167\11\10\2026\1\hola, como estas?
+1705\184\188\11\10\2026\1\ya revise los archivos
+1706\245\249\11\10\2026\1\todo listo para la entrega
+1707\306\312\11\10\2026\1\ya terminaste la parte del proyecto?
+1708\367\380\11\10\2026\1\nos vemos manana en la universidad
+1709\429\434\11\10\2026\1\hablemos luego del parcial
+1710\490\590\11\10\2026\1\puedes revisar el ejercicio?
+1711\552\563\11\10\2026\1\recuerda la reunion de esta semana
+1712\614\629\11\10\2026\1\hola, como estas?
+1713\646\648\11\10\2026\1\ya revise los archivos
+1714\708\715\11\10\2026\1\todo listo para la entrega
+1715\770\970\11\10\2026\1\ya terminaste la parte del proyecto?
+1716\833\847\11\10\2026\1\nos vemos manana en la universidad
+1717\896\911\11\10\2026\1\hablemos luego del parcial
+1718\960\967\11\10\2026\1\puedes revisar el ejercicio?
+1719\22\27\11\10\2026\1\recuerda la reunion de esta semana
+1720\82\91\11\10\2026\1\hola, como estas?
+1721\112\125\11\10\2026\1\ya revise los archivos
+1722\173\181\11\10\2026\1\todo listo para la entrega
+1723\234\241\11\10\2026\1\ya terminaste la parte del proyecto?
+1724\295\303\11\10\2026\1\nos vemos manana en la universidad
+1725\356\371\11\10\2026\1\hablemos luego del parcial
+1726\418\425\11\10\2026\1\puedes revisar el ejercicio?
+1727\480\482\11\10\2026\1\recuerda la reunion de esta semana
+1728\541\552\11\10\2026\1\hola, como estas?
+1729\572\585\11\10\2026\1\ya revise los archivos
+1730\635\637\11\10\2026\1\todo listo para la entrega
+1731\697\703\11\10\2026\1\ya terminaste la parte del proyecto?
+1732\760\761\11\10\2026\1\nos vemos manana en la universidad
+1733\822\834\11\10\2026\1\hablemos luego del parcial
+1734\885\898\11\10\2026\1\puedes revisar el ejercicio?
+1735\949\953\11\10\2026\1\recuerda la reunion de esta semana
+1736\12\13\11\10\2026\1\hola, como estas?
+1737\41\53\11\10\2026\1\ya revise los archivos
+1738\102\104\11\10\2026\1\todo listo para la entrega
+1739\162\174\11\10\2026\1\ya terminaste la parte del proyecto?
+1740\223\233\11\10\2026\1\nos vemos manana en la universidad
+1741\284\295\11\10\2026\1\hablemos luego del parcial
+1742\346\348\11\10\2026\1\puedes revisar el ejercicio?
+1743\407\416\11\10\2026\1\recuerda la reunion de esta semana
+1744\469\472\11\10\2026\1\hola, como estas?
+1745\500\502\11\10\2026\1\ya revise los archivos
+1746\561\574\11\10\2026\1\todo listo para la entrega
+1747\624\626\11\10\2026\1\ya terminaste la parte del proyecto?
+1748\686\692\11\10\2026\1\nos vemos manana en la universidad
+1749\36\34\12\10\2026\1\todo listo para la entrega
+1750\100\94\12\10\2026\1\ya terminaste la parte del proyecto?
+1751\156\155\12\10\2026\1\nos vemos manana en la universidad
+1752\191\185\12\10\2026\1\nos encontramos en la biblioteca
+1753\252\246\12\10\2026\1\te escribo cuando llegue
+1754\315\307\12\10\2026\1\que buena foto subiste
+1755\383\368\12\10\2026\1\te envie la informacion del trabajo
+1756\437\430\12\10\2026\1\ya revise los archivos
+1757\505\491\12\10\2026\1\todo listo para la entrega
+1758\566\553\12\10\2026\1\ya terminaste la parte del proyecto?
+1759\618\616\12\10\2026\1\nos vemos manana en la universidad
+1760\651\647\12\10\2026\1\nos encontramos en la biblioteca
+1761\718\709\12\10\2026\1\te escribo cuando llegue
+1762\774\772\12\10\2026\1\que buena foto subiste
+1763\836\835\12\10\2026\1\te envie la informacion del trabajo
+1764\900\898\12\10\2026\1\ya revise los archivos
+1765\970\961\12\10\2026\1\todo listo para la entrega
+1766\30\23\12\10\2026\1\ya terminaste la parte del proyecto?
+1767\94\83\12\10\2026\1\nos vemos manana en la universidad
+1768\128\113\12\10\2026\1\nos encontramos en la biblioteca
+1769\184\174\12\10\2026\1\te escribo cuando llegue
+1770\244\235\12\10\2026\1\que buena foto subiste
+1771\306\296\12\10\2026\1\te envie la informacion del trabajo
+1772\360\358\12\10\2026\1\ya revise los archivos
+1773\428\419\12\10\2026\1\todo listo para la entrega
+1774\930\480\12\10\2026\1\ya terminaste la parte del proyecto?
+1775\555\542\12\10\2026\1\nos vemos manana en la universidad
+1776\588\573\12\10\2026\1\nos encontramos en la biblioteca
+1777\640\636\12\10\2026\1\te escribo cuando llegue
+1778\706\698\12\10\2026\1\que buena foto subiste
+1779\762\761\12\10\2026\1\te envie la informacion del trabajo
+1780\837\823\12\10\2026\1\ya revise los archivos
+1781\901\886\12\10\2026\1\todo listo para la entrega
+1782\956\950\12\10\2026\1\ya terminaste la parte del proyecto?
+1783\999\12\12\10\2026\1\nos vemos manana en la universidad
+1784\56\42\12\10\2026\1\nos encontramos en la biblioteca
+1785\107\103\12\10\2026\1\te escribo cuando llegue
+1786\177\163\12\10\2026\1\que buena foto subiste
+1787\236\224\12\10\2026\1\te envie la informacion del trabajo
+1788\298\285\12\10\2026\1\ya revise los archivos
+1789\351\347\12\10\2026\1\todo listo para la entrega
+1790\419\408\12\10\2026\1\ya terminaste la parte del proyecto?
+1791\475\470\12\10\2026\1\nos vemos manana en la universidad
+1792\950\500\12\10\2026\1\nos encontramos en la biblioteca
+1793\577\562\12\10\2026\1\te escribo cuando llegue
+1794\629\625\12\10\2026\1\que buena foto subiste
+1795\695\687\12\10\2026\1\te envie la informacion del trabajo
+1796\35\39\13\10\2026\0\te escribo cuando llegue
+1797\95\103\13\10\2026\0\que buena foto subiste
+1798\156\159\13\10\2026\0\te envie la informacion del trabajo
+1799\247\255\13\10\2026\0\me confirmas la hora por favor
+1800\308\318\13\10\2026\0\nos vemos el viernes
+1801\370\372\13\10\2026\0\gracias por avisarme
+1802\431\435\13\10\2026\0\nos encontramos en la biblioteca
+1803\493\494\13\10\2026\0\te escribo cuando llegue
+1804\554\569\13\10\2026\0\que buena foto subiste
+1805\617\621\13\10\2026\0\te envie la informacion del trabajo
+1806\710\721\13\10\2026\0\me confirmas la hora por favor
+1807\773\777\13\10\2026\0\nos vemos el viernes
+1808\836\839\13\10\2026\0\gracias por avisarme
+1809\899\903\13\10\2026\0\nos encontramos en la biblioteca
+1810\962\973\13\10\2026\0\te escribo cuando llegue
+1811\24\33\13\10\2026\0\que buena foto subiste
+1812\84\97\13\10\2026\0\te envie la informacion del trabajo
+1813\175\187\13\10\2026\0\me confirmas la hora por favor
+1814\236\247\13\10\2026\0\nos vemos el viernes
+1815\297\309\13\10\2026\0\gracias por avisarme
+1816\359\363\13\10\2026\0\nos encontramos en la biblioteca
+1817\420\431\13\10\2026\0\te escribo cuando llegue
+1818\482\484\13\10\2026\0\que buena foto subiste
+1819\543\558\13\10\2026\0\te envie la informacion del trabajo
+1820\637\643\13\10\2026\0\me confirmas la hora por favor
+1821\699\709\13\10\2026\0\nos vemos el viernes
+1822\762\765\13\10\2026\0\gracias por avisarme
+1823\825\826\13\10\2026\0\nos encontramos en la biblioteca
+1824\888\890\13\10\2026\0\te escribo cuando llegue
+1825\951\959\13\10\2026\0\que buena foto subiste
+1826\13\999\13\10\2026\0\te envie la informacion del trabajo
+1827\104\110\13\10\2026\0\me confirmas la hora por favor
+1828\165\166\13\10\2026\0\nos vemos el viernes
+1829\225\239\13\10\2026\0\gracias por avisarme
+1830\286\301\13\10\2026\0\nos encontramos en la biblioteca
+1831\348\354\13\10\2026\0\te escribo cuando llegue
+1832\409\422\13\10\2026\0\que buena foto subiste
+1833\471\474\13\10\2026\0\te envie la informacion del trabajo
+1834\564\566\13\10\2026\0\me confirmas la hora por favor
+1835\626\632\13\10\2026\0\nos vemos el viernes
+1836\688\698\13\10\2026\0\gracias por avisarme
+1837\42\36\14\10\2026\1\me confirmas la hora por favor
+1838\106\96\14\10\2026\1\nos vemos el viernes
+1839\162\157\14\10\2026\1\gracias por avisarme
+1840\258\248\14\10\2026\1\hablemos luego del parcial
+1841\321\309\14\10\2026\1\puedes revisar el ejercicio?
+1842\820\370\14\10\2026\1\recuerda la reunion de esta semana
+1843\438\432\14\10\2026\1\hola, como estas?
+1844\497\494\14\10\2026\1\me confirmas la hora por favor
+1845\558\556\14\10\2026\1\nos vemos el viernes
+1846\624\618\14\10\2026\1\gracias por avisarme
+1847\722\711\14\10\2026\1\hablemos luego del parcial
+1848\780\774\14\10\2026\1\puedes revisar el ejercicio?
+1849\842\837\14\10\2026\1\recuerda la reunion de esta semana
+1850\906\900\14\10\2026\1\hola, como estas?
+1851\976\963\14\10\2026\1\me confirmas la hora por favor
+1852\36\25\14\10\2026\1\nos vemos el viernes
+1853\100\85\14\10\2026\1\gracias por avisarme
+1854\190\176\14\10\2026\1\hablemos luego del parcial
+1855\250\237\14\10\2026\1\puedes revisar el ejercicio?
+1856\312\298\14\10\2026\1\recuerda la reunion de esta semana
+1857\366\360\14\10\2026\1\hola, como estas?
+1858\429\421\14\10\2026\1\me confirmas la hora por favor
+1859\487\483\14\10\2026\1\nos vemos el viernes
+1860\547\545\14\10\2026\1\gracias por avisarme
+1861\646\638\14\10\2026\1\hablemos luego del parcial
+1862\712\700\14\10\2026\1\puedes revisar el ejercicio?
+1863\768\763\14\10\2026\1\recuerda la reunion de esta semana
+1864\829\826\14\10\2026\1\hola, como estas?
+1865\893\889\14\10\2026\1\me confirmas la hora por favor
+1866\962\952\14\10\2026\1\nos vemos el viernes
+1867\16\15\14\10\2026\1\gracias por avisarme
+1868\113\105\14\10\2026\1\hablemos luego del parcial
+1869\169\166\14\10\2026\1\puedes revisar el ejercicio?
+1870\228\227\14\10\2026\1\recuerda la reunion de esta semana
+1871\290\288\14\10\2026\1\hola, como estas?
+1872\357\349\14\10\2026\1\me confirmas la hora por favor
+1873\425\410\14\10\2026\1\nos vemos el viernes
+1874\477\472\14\10\2026\1\gracias por avisarme
+1875\569\565\14\10\2026\1\hablemos luego del parcial
+1876\635\627\14\10\2026\1\puedes revisar el ejercicio?
+1877\701\689\14\10\2026\1\recuerda la reunion de esta semana
+1878\37\45\15\10\2026\1\hablemos luego del parcial
+1879\97\109\15\10\2026\1\puedes revisar el ejercicio?
+1880\158\165\15\10\2026\1\recuerda la reunion de esta semana
+1881\219\223\15\10\2026\1\hola, como estas?
+1882\249\261\15\10\2026\1\ya revise los archivos
+1883\310\324\15\10\2026\1\todo listo para la entrega
+1884\372\373\15\10\2026\1\ya terminaste la parte del proyecto?
+1885\433\441\15\10\2026\1\nos vemos manana en la universidad
+1886\495\500\15\10\2026\1\hablemos luego del parcial
+1887\557\561\15\10\2026\1\puedes revisar el ejercicio?
+1888\619\627\15\10\2026\1\recuerda la reunion de esta semana
+1889\681\690\15\10\2026\1\hola, como estas?
+1890\712\725\15\10\2026\1\ya revise los archivos
+1891\775\783\15\10\2026\1\todo listo para la entrega
+1892\838\845\15\10\2026\1\ya terminaste la parte del proyecto?
+1893\901\909\15\10\2026\1\nos vemos manana en la universidad
+1894\964\979\15\10\2026\1\hablemos luego del parcial
+1895\26\39\15\10\2026\1\puedes revisar el ejercicio?
+1896\87\89\15\10\2026\1\recuerda la reunion de esta semana
+1897\147\158\15\10\2026\1\hola, como estas?
+1898\178\179\15\10\2026\1\ya revise los archivos
+1899\238\253\15\10\2026\1\todo listo para la entrega
+1900\300\301\15\10\2026\1\ya terminaste la parte del proyecto?
+1901\361\364\15\10\2026\1\nos vemos manana en la universidad
+1902\422\432\15\10\2026\1\hablemos luego del parcial
+1903\484\490\15\10\2026\1\puedes revisar el ejercicio?
+1904\546\550\15\10\2026\1\recuerda la reunion de esta semana
+1905\608\616\15\10\2026\1\hola, como estas?
+1906\639\649\15\10\2026\1\ya revise los archivos
+1907\701\713\15\10\2026\1\todo listo para la entrega
+1908\764\771\15\10\2026\1\ya terminaste la parte del proyecto?
+1909\827\832\15\10\2026\1\nos vemos manana en la universidad
+1910\890\896\15\10\2026\1\hablemos luego del parcial
+1911\953\965\15\10\2026\1\puedes revisar el ejercicio?
+1912\16\19\15\10\2026\1\recuerda la reunion de esta semana
+1913\76\83\15\10\2026\1\hola, como estas?
+1914\106\116\15\10\2026\1\ya revise los archivos
+1915\167\172\15\10\2026\1\todo listo para la entrega
+1916\228\231\15\10\2026\1\ya terminaste la parte del proyecto?
+1917\289\293\15\10\2026\1\nos vemos manana en la universidad
+1918\350\360\15\10\2026\1\hablemos luego del parcial
+1919\411\423\15\10\2026\1\puedes revisar el ejercicio?
+1920\473\480\15\10\2026\1\recuerda la reunion de esta semana
+1921\535\540\15\10\2026\1\hola, como estas?
+1922\566\572\15\10\2026\1\ya revise los archivos
+1923\628\638\15\10\2026\1\todo listo para la entrega
+1924\690\704\15\10\2026\1\ya terminaste la parte del proyecto?
+1925\48\38\16\10\2026\1\ya revise los archivos
+1926\112\98\16\10\2026\1\todo listo para la entrega
+1927\168\159\16\10\2026\1\ya terminaste la parte del proyecto?
+1928\226\220\16\10\2026\1\nos vemos manana en la universidad
+1929\264\250\16\10\2026\1\nos encontramos en la biblioteca
+1930\322\311\16\10\2026\1\te escribo cuando llegue
+1931\376\373\16\10\2026\1\que buena foto subiste
+1932\444\434\16\10\2026\1\te envie la informacion del trabajo
+1933\503\496\16\10\2026\1\ya revise los archivos
+1934\564\558\16\10\2026\1\todo listo para la entrega
+1935\630\620\16\10\2026\1\ya terminaste la parte del proyecto?
+1936\693\682\16\10\2026\1\nos vemos manana en la universidad
+1937\728\713\16\10\2026\1\nos encontramos en la biblioteca
+1938\786\776\16\10\2026\1\te escribo cuando llegue
+1939\848\839\16\10\2026\1\que buena foto subiste
+1940\912\902\16\10\2026\1\te envie la informacion del trabajo
+1941\968\966\16\10\2026\1\ya revise los archivos
+1942\42\27\16\10\2026\1\todo listo para la entrega
+1943\92\88\16\10\2026\1\ya terminaste la parte del proyecto?
+1944\161\148\16\10\2026\1\nos vemos manana en la universidad
+1945\182\179\16\10\2026\1\nos encontramos en la biblioteca
+1946\242\240\16\10\2026\1\te escribo cuando llegue
+1947\600\300\16\10\2026\1\que buena foto subiste
+1948\367\362\16\10\2026\1\te envie la informacion del trabajo
+1949\435\423\16\10\2026\1\ya revise los archivos
+1950\493\485\16\10\2026\1\todo listo para la entrega
+1951\553\547\16\10\2026\1\ya terminaste la parte del proyecto?
+1952\619\609\16\10\2026\1\nos vemos manana en la universidad
+1953\652\640\16\10\2026\1\nos encontramos en la biblioteca
+1954\716\702\16\10\2026\1\te escribo cuando llegue
+1955\774\765\16\10\2026\1\que buena foto subiste
+1956\835\828\16\10\2026\1\te envie la informacion del trabajo
+1957\898\891\16\10\2026\1\ya revise los archivos
+1958\968\954\16\10\2026\1\todo listo para la entrega
+1959\22\17\16\10\2026\1\ya terminaste la parte del proyecto?
+1960\86\77\16\10\2026\1\nos vemos manana en la universidad
+1961\119\107\16\10\2026\1\nos encontramos en la biblioteca
+1962\175\168\16\10\2026\1\te escribo cuando llegue
+1963\234\229\16\10\2026\1\que buena foto subiste
+1964\296\290\16\10\2026\1\te envie la informacion del trabajo
+1965\358\351\16\10\2026\1\ya revise los archivos
+1966\426\412\16\10\2026\1\todo listo para la entrega
+1967\483\474\16\10\2026\1\ya terminaste la parte del proyecto?
+1968\543\536\16\10\2026\1\nos vemos manana en la universidad
+1969\575\567\16\10\2026\1\nos encontramos en la biblioteca
+1970\641\629\16\10\2026\1\te escribo cuando llegue
+1971\704\691\16\10\2026\1\que buena foto subiste
+1972\39\51\17\10\2026\0\nos encontramos en la biblioteca
+1973\100\101\17\10\2026\0\te escribo cuando llegue
+1974\160\171\17\10\2026\0\que buena foto subiste
+1975\221\223\17\10\2026\0\te envie la informacion del trabajo
+1976\312\325\17\10\2026\0\me confirmas la hora por favor
+1977\374\379\17\10\2026\0\nos vemos el viernes
+1978\435\447\17\10\2026\0\gracias por avisarme
+1979\497\506\17\10\2026\0\nos encontramos en la biblioteca
+1980\559\567\17\10\2026\0\te escribo cuando llegue
+1981\621\630\17\10\2026\0\que buena foto subiste
+1982\683\696\17\10\2026\0\te envie la informacion del trabajo
+1983\777\789\17\10\2026\0\me confirmas la hora por favor
+1984\840\851\17\10\2026\0\nos vemos el viernes
+1985\903\915\17\10\2026\0\gracias por avisarme
+1986\967\971\17\10\2026\0\nos encontramos en la biblioteca
+1987\29\31\17\10\2026\0\te escribo cuando llegue
+1988\89\95\17\10\2026\0\que buena foto subiste
+1989\149\164\17\10\2026\0\te envie la informacion del trabajo
+1990\240\690\17\10\2026\0\me confirmas la hora por favor
+1991\301\316\17\10\2026\0\nos vemos el viernes
+1992\363\370\17\10\2026\0\gracias por avisarme
+1993\424\438\17\10\2026\0\nos encontramos en la biblioteca
+1994\486\496\17\10\2026\0\te escribo cuando llegue
+1995\548\556\17\10\2026\0\que buena foto subiste
+1996\610\622\17\10\2026\0\te envie la informacion del trabajo
+1997\704\705\17\10\2026\0\me confirmas la hora por favor
+1998\766\777\17\10\2026\0\nos vemos el viernes
+1999\829\838\17\10\2026\0\gracias por avisarme
+2000\892\901\17\10\2026\0\nos encontramos en la biblioteca
+2001\956\957\17\10\2026\0\te escribo cuando llegue
+2002\18\25\17\10\2026\0\que buena foto subiste
+2003\78\89\17\10\2026\0\te envie la informacion del trabajo
+2004\169\178\17\10\2026\0\me confirmas la hora por favor
+2005\230\237\17\10\2026\0\nos vemos el viernes
+2006\291\293\17\10\2026\0\gracias por avisarme
+2007\352\361\17\10\2026\0\nos encontramos en la biblioteca
+2008\414\415\17\10\2026\0\te escribo cuando llegue
+2009\475\486\17\10\2026\0\que buena foto subiste
+2010\537\546\17\10\2026\0\te envie la informacion del trabajo
+2011\630\644\17\10\2026\0\me confirmas la hora por favor
+2012\692\707\17\10\2026\0\nos vemos el viernes
+2013\54\40\18\10\2026\1\hola, como estas?
+2014\400\100\18\10\2026\1\me confirmas la hora por favor
+2015\167\161\18\10\2026\1\nos vemos el viernes
+2016\226\222\18\10\2026\1\gracias por avisarme
+2017\328\313\18\10\2026\1\hablemos luego del parcial
+2018\382\375\18\10\2026\1\puedes revisar el ejercicio?
+2019\450\436\18\10\2026\1\recuerda la reunion de esta semana
+2020\509\498\18\10\2026\1\hola, como estas?
+2021\570\560\18\10\2026\1\me confirmas la hora por favor
+2022\633\622\18\10\2026\1\nos vemos el viernes
+2023\699\684\18\10\2026\1\gracias por avisarme
+2024\792\778\18\10\2026\1\hablemos luego del parcial
+2025\853\841\18\10\2026\1\puedes revisar el ejercicio?
+2026\918\904\18\10\2026\1\recuerda la reunion de esta semana
+2027\974\968\18\10\2026\1\hola, como estas?
+2028\34\30\18\10\2026\1\me confirmas la hora por favor
+2029\98\90\18\10\2026\1\nos vemos el viernes
+2030\350\150\18\10\2026\1\gracias por avisarme
+2031\256\241\18\10\2026\1\hablemos luego del parcial
+2032\305\303\18\10\2026\1\puedes revisar el ejercicio?
+2033\373\364\18\10\2026\1\recuerda la reunion de esta semana
+2034\427\426\18\10\2026\1\hola, como estas?
+2035\499\487\18\10\2026\1\me confirmas la hora por favor
+2036\559\549\18\10\2026\1\nos vemos el viernes
+2037\622\611\18\10\2026\1\gracias por avisarme
+2038\708\705\18\10\2026\1\hablemos luego del parcial
+2039\780\767\18\10\2026\1\puedes revisar el ejercicio?
+2040\841\830\18\10\2026\1\recuerda la reunion de esta semana
+2041\904\893\18\10\2026\1\hola, como estas?
+2042\960\957\18\10\2026\1\me confirmas la hora por favor
+2043\28\19\18\10\2026\1\nos vemos el viernes
+2044\92\79\18\10\2026\1\gracias por avisarme
+2045\181\170\18\10\2026\1\hablemos luego del parcial
+2046\234\231\18\10\2026\1\puedes revisar el ejercicio?
+2047\296\292\18\10\2026\1\recuerda la reunion de esta semana
+2048\364\353\18\10\2026\1\hola, como estas?
+2049\418\415\18\10\2026\1\me confirmas la hora por favor
+2050\489\476\18\10\2026\1\nos vemos el viernes
+2051\549\538\18\10\2026\1\gracias por avisarme
+2052\644\631\18\10\2026\1\hablemos luego del parcial
+2053\696\694\18\10\2026\1\puedes revisar el ejercicio?
+2054\41\49\19\10\2026\1\nos vemos manana en la universidad
+2055\101\114\19\10\2026\1\hablemos luego del parcial
+2056\162\170\19\10\2026\1\puedes revisar el ejercicio?
+2057\223\229\19\10\2026\1\recuerda la reunion de esta semana
+2058\284\291\19\10\2026\1\hola, como estas?
+2059\315\317\19\10\2026\1\ya revise los archivos
+2060\376\385\19\10\2026\1\todo listo para la entrega
+2061\438\439\19\10\2026\1\ya terminaste la parte del proyecto?
+2062\499\512\19\10\2026\1\nos vemos manana en la universidad
+2063\561\570\19\10\2026\1\hablemos luego del parcial
+2064\623\636\19\10\2026\1\puedes revisar el ejercicio?
+2065\686\688\19\10\2026\1\recuerda la reunion de esta semana
+2066\748\759\19\10\2026\1\hola, como estas?
+2067\780\781\19\10\2026\1\ya revise los archivos
+2068\842\856\19\10\2026\1\todo listo para la entrega
+2069\906\907\19\10\2026\1\ya terminaste la parte del proyecto?
+2070\969\977\19\10\2026\1\nos vemos manana en la universidad
+2071\30\730\19\10\2026\1\hablemos luego del parcial
+2072\91\93\19\10\2026\1\puedes revisar el ejercicio?
+2073\151\163\19\10\2026\1\recuerda la reunion de esta semana
+2074\212\221\19\10\2026\1\hola, como estas?
+2075\243\245\19\10\2026\1\ya revise los archivos
+2076\304\308\19\10\2026\1\todo listo para la entrega
+2077\365\376\19\10\2026\1\ya terminaste la parte del proyecto?
+2078\427\430\19\10\2026\1\nos vemos manana en la universidad
+2079\488\502\19\10\2026\1\hablemos luego del parcial
+2080\550\562\19\10\2026\1\puedes revisar el ejercicio?
+2081\612\625\19\10\2026\1\recuerda la reunion de esta semana
+2082\675\677\19\10\2026\1\hola, como estas?
+2083\706\711\19\10\2026\1\ya revise los archivos
+2084\768\783\19\10\2026\1\todo listo para la entrega
+2085\831\843\19\10\2026\1\ya terminaste la parte del proyecto?
+2086\894\907\19\10\2026\1\nos vemos manana en la universidad
+2087\958\963\19\10\2026\1\hablemos luego del parcial
+2088\20\31\19\10\2026\1\puedes revisar el ejercicio?
+2089\80\95\19\10\2026\1\recuerda la reunion de esta semana
+2090\141\142\19\10\2026\1\hola, como estas?
+2091\171\177\19\10\2026\1\ya revise los archivos
+2092\232\237\19\10\2026\1\todo listo para la entrega
+2093\293\299\19\10\2026\1\ya terminaste la parte del proyecto?
+2094\354\367\19\10\2026\1\nos vemos manana en la universidad
+2095\416\421\19\10\2026\1\hablemos luego del parcial
+2096\477\492\19\10\2026\1\puedes revisar el ejercicio?
+2097\539\552\19\10\2026\1\recuerda la reunion de esta semana
+2098\601\614\19\10\2026\1\hola, como estas?
+2099\632\647\19\10\2026\1\ya revise los archivos
+2100\695\699\19\10\2026\1\todo listo para la entrega
+2101\52\42\20\10\2026\1\te envie la informacion del trabajo
+2102\117\102\20\10\2026\1\ya revise los archivos
+2103\173\163\20\10\2026\1\todo listo para la entrega
+2104\232\224\20\10\2026\1\ya terminaste la parte del proyecto?
+2105\294\285\20\10\2026\1\nos vemos manana en la universidad
+2106\320\316\20\10\2026\1\nos encontramos en la biblioteca
+2107\388\377\20\10\2026\1\te escribo cuando llegue
+2108\442\439\20\10\2026\1\que buena foto subiste
+2109\515\500\20\10\2026\1\te envie la informacion del trabajo
+2110\573\562\20\10\2026\1\ya revise los archivos
+2111\639\624\20\10\2026\1\todo listo para la entrega
+2112\691\687\20\10\2026\1\ya terminaste la parte del proyecto?
+2113\762\749\20\10\2026\1\nos vemos manana en la universidad
+2114\782\781\20\10\2026\1\nos encontramos en la biblioteca
+2115\845\844\20\10\2026\1\te escribo cuando llegue
+2116\910\907\20\10\2026\1\que buena foto subiste
+2117\980\970\20\10\2026\1\te envie la informacion del trabajo
+2118\46\31\20\10\2026\1\ya revise los archivos
+2119\96\92\20\10\2026\1\todo listo para la entrega
+2120\166\152\20\10\2026\1\ya terminaste la parte del proyecto?
+2121\224\213\20\10\2026\1\nos vemos manana en la universidad
+2122\248\244\20\10\2026\1\nos encontramos en la biblioteca
+2123\311\305\20\10\2026\1\te escribo cuando llegue
+2124\379\366\20\10\2026\1\que buena foto subiste
+2125\433\428\20\10\2026\1\te envie la informacion del trabajo
+2126\491\490\20\10\2026\1\ya revise los archivos
+2127\562\551\20\10\2026\1\todo listo para la entrega
+2128\628\613\20\10\2026\1\ya terminaste la parte del proyecto?
+2129\680\676\20\10\2026\1\nos vemos manana en la universidad
+2130\714\707\20\10\2026\1\nos encontramos en la biblioteca
+2131\772\770\20\10\2026\1\te escribo cuando llegue
+2132\846\832\20\10\2026\1\que buena foto subiste
+2133\910\895\20\10\2026\1\te envie la informacion del trabajo
+2134\966\959\20\10\2026\1\ya revise los archivos
+2135\26\21\20\10\2026\1\todo listo para la entrega
+2136\90\81\20\10\2026\1\ya terminaste la parte del proyecto?
+2137\145\142\20\10\2026\1\nos vemos manana en la universidad
+2138\180\172\20\10\2026\1\nos encontramos en la biblioteca
+2139\240\233\20\10\2026\1\te escribo cuando llegue
+2140\302\294\20\10\2026\1\que buena foto subiste
+2141\370\355\20\10\2026\1\te envie la informacion del trabajo
+2142\424\417\20\10\2026\1\ya revise los archivos
+2143\481\479\20\10\2026\1\todo listo para la entrega
+2144\555\540\20\10\2026\1\ya terminaste la parte del proyecto?
+2145\617\602\20\10\2026\1\nos vemos manana en la universidad
+2146\636\634\20\10\2026\1\nos encontramos en la biblioteca
+2147\702\696\20\10\2026\1\te escribo cuando llegue
+2148\43\55\21\10\2026\0\gracias por avisarme
+2149\104\106\21\10\2026\0\nos encontramos en la biblioteca
+2150\164\176\21\10\2026\0\te escribo cuando llegue
+2151\225\235\21\10\2026\0\que buena foto subiste
+2152\286\297\21\10\2026\0\te envie la informacion del trabajo
+2153\378\391\21\10\2026\0\me confirmas la hora por favor
+2154\440\445\21\10\2026\0\nos vemos el viernes
+2155\501\514\21\10\2026\0\gracias por avisarme
+2156\563\576\21\10\2026\0\nos encontramos en la biblioteca
+2157\626\628\21\10\2026\0\te escribo cuando llegue
+2158\688\694\21\10\2026\0\que buena foto subiste
+2159\750\765\21\10\2026\0\te envie la informacion del trabajo
+2160\845\848\21\10\2026\0\me confirmas la hora por favor
+2161\908\913\21\10\2026\0\nos vemos el viernes
+2162\971\983\21\10\2026\0\gracias por avisarme
+2163\33\35\21\10\2026\0\nos encontramos en la biblioteca
+2164\93\99\21\10\2026\0\te escribo cuando llegue
+2165\154\155\21\10\2026\0\que buena foto subiste
+2166\214\227\21\10\2026\0\te envie la informacion del trabajo
+2167\306\314\21\10\2026\0\me confirmas la hora por favor
+2168\367\382\21\10\2026\0\nos vemos el viernes
+2169\429\436\21\10\2026\0\gracias por avisarme
+2170\490\790\21\10\2026\0\nos encontramos en la biblioteca
+2171\552\565\21\10\2026\0\te escribo cuando llegue
+2172\615\617\21\10\2026\0\que buena foto subiste
+2173\677\683\21\10\2026\0\te envie la informacion del trabajo
+2174\771\773\21\10\2026\0\me confirmas la hora por favor
+2175\834\835\21\10\2026\0\nos vemos el viernes
+2176\897\899\21\10\2026\0\gracias por avisarme
+2177\960\969\21\10\2026\0\nos encontramos en la biblioteca
+2178\22\29\21\10\2026\0\te escribo cuando llegue
+2179\82\93\21\10\2026\0\que buena foto subiste
+2180\143\148\21\10\2026\0\te envie la informacion del trabajo
+2181\234\243\21\10\2026\0\me confirmas la hora por favor
+2182\295\305\21\10\2026\0\nos vemos el viernes
+2183\357\359\21\10\2026\0\gracias por avisarme
+2184\418\427\21\10\2026\0\nos encontramos en la biblioteca
+2185\480\484\21\10\2026\0\te escribo cuando llegue
+2186\541\554\21\10\2026\0\que buena foto subiste
+2187\604\606\21\10\2026\0\te envie la informacion del trabajo
+2188\697\705\21\10\2026\0\me confirmas la hora por favor
+2189\58\44\22\10\2026\1\recuerda la reunion de esta semana
+2190\109\105\22\10\2026\1\hola, como estas?
+2191\179\165\22\10\2026\1\me confirmas la hora por favor
+2192\238\226\22\10\2026\1\nos vemos el viernes
+2193\300\287\22\10\2026\1\gracias por avisarme
+2194\394\379\22\10\2026\1\hablemos luego del parcial
+2195\443\441\22\10\2026\1\puedes revisar el ejercicio?
+2196\517\502\22\10\2026\1\recuerda la reunion de esta semana
+2197\579\564\22\10\2026\1\hola, como estas?
+2198\631\627\22\10\2026\1\me confirmas la hora por favor
+2199\697\689\22\10\2026\1\nos vemos el viernes
+2200\766\751\22\10\2026\1\gracias por avisarme
+2201\851\846\22\10\2026\1\hablemos luego del parcial
+2202\916\909\22\10\2026\1\puedes revisar el ejercicio?
+2203\986\972\22\10\2026\1\recuerda la reunion de esta semana
+2204\38\34\22\10\2026\1\hola, como estas?
+2205\102\94\22\10\2026\1\me confirmas la hora por favor
+2206\158\155\22\10\2026\1\nos vemos el viernes
+2207\230\215\22\10\2026\1\gracias por avisarme
+2208\317\307\22\10\2026\1\hablemos luego del parcial
+2209\371\369\22\10\2026\1\puedes revisar el ejercicio?
+2210\439\430\22\10\2026\1\recuerda la reunion de esta semana
+2211\493\492\22\10\2026\1\hola, como estas?
+2212\568\553\22\10\2026\1\me confirmas la hora por favor
+2213\620\616\22\10\2026\1\nos vemos el viernes
+2214\686\678\22\10\2026\1\gracias por avisarme
+2215\776\772\22\10\2026\1\hablemos luego del parcial
+2216\838\835\22\10\2026\1\puedes revisar el ejercicio?
+2217\902\898\22\10\2026\1\recuerda la reunion de esta semana
+2218\972\961\22\10\2026\1\hola, como estas?
+2219\32\23\22\10\2026\1\me confirmas la hora por favor
+2220\96\83\22\10\2026\1\nos vemos el viernes
+2221\151\144\22\10\2026\1\gracias por avisarme
+2222\246\235\22\10\2026\1\hablemos luego del parcial
+2223\308\296\22\10\2026\1\puedes revisar el ejercicio?
+2224\362\358\22\10\2026\1\recuerda la reunion de esta semana
+2225\430\419\22\10\2026\1\hola, como estas?
+2226\483\481\22\10\2026\1\me confirmas la hora por favor
+2227\557\542\22\10\2026\1\nos vemos el viernes
+2228\609\605\22\10\2026\1\gracias por avisarme
+2229\708\698\22\10\2026\1\hablemos luego del parcial
+2230\46\47\23\10\2026\1\ya terminaste la parte del proyecto?
+2231\106\112\23\10\2026\1\nos vemos manana en la universidad
+2232\167\168\23\10\2026\1\hablemos luego del parcial
+2233\227\241\23\10\2026\1\puedes revisar el ejercicio?
+2234\288\303\23\10\2026\1\recuerda la reunion de esta semana
+2235\350\356\23\10\2026\1\hola, como estas?
+2236\380\580\23\10\2026\1\ya revise los archivos
+2237\442\446\23\10\2026\1\todo listo para la entrega
+2238\504\506\23\10\2026\1\ya terminaste la parte del proyecto?
+2239\566\568\23\10\2026\1\nos vemos manana en la universidad
+2240\628\634\23\10\2026\1\hablemos luego del parcial
+2241\690\700\23\10\2026\1\puedes revisar el ejercicio?
+2242\753\755\23\10\2026\1\recuerda la reunion de esta semana
+2243\815\829\23\10\2026\1\hola, como estas?
+2244\847\854\23\10\2026\1\ya revise los archivos
+2245\910\919\23\10\2026\1\todo listo para la entrega
+2246\974\975\23\10\2026\1\ya terminaste la parte del proyecto?
+2247\35\41\23\10\2026\1\nos vemos manana en la universidad
+2248\95\105\23\10\2026\1\hablemos luego del parcial
+2249\156\161\23\10\2026\1\puedes revisar el ejercicio?
+2250\217\219\23\10\2026\1\recuerda la reunion de esta semana
+2251\278\281\23\10\2026\1\hola, como estas?
+2252\308\320\23\10\2026\1\ya revise los archivos
+2253\370\374\23\10\2026\1\todo listo para la entrega
+2254\431\437\23\10\2026\1\ya terminaste la parte del proyecto?
+2255\493\496\23\10\2026\1\nos vemos manana en la universidad
+2256\555\557\23\10\2026\1\hablemos luego del parcial
+2257\617\623\23\10\2026\1\puedes revisar el ejercicio?
+2258\679\689\23\10\2026\1\recuerda la reunion de esta semana
+2259\742\743\23\10\2026\1\hola, como estas?
+2260\773\779\23\10\2026\1\ya revise los archivos
+2261\836\841\23\10\2026\1\todo listo para la entrega
+2262\899\905\23\10\2026\1\ya terminaste la parte del proyecto?
+2263\962\975\23\10\2026\1\nos vemos manana en la universidad
+2264\24\35\23\10\2026\1\hablemos luego del parcial
+2265\84\99\23\10\2026\1\puedes revisar el ejercicio?
+2266\145\154\23\10\2026\1\recuerda la reunion de esta semana
+2267\206\211\23\10\2026\1\hola, como estas?
+2268\236\249\23\10\2026\1\ya revise los archivos
+2269\297\311\23\10\2026\1\todo listo para la entrega
+2270\359\365\23\10\2026\1\ya terminaste la parte del proyecto?
+2271\420\433\23\10\2026\1\nos vemos manana en la universidad
+2272\482\486\23\10\2026\1\hablemos luego del parcial
+2273\544\546\23\10\2026\1\puedes revisar el ejercicio?
+2274\606\612\23\10\2026\1\recuerda la reunion de esta semana
+2275\668\678\23\10\2026\1\hola, como estas?
+2276\699\711\23\10\2026\1\ya revise los archivos
+2277\50\47\24\10\2026\1\que buena foto subiste
+2278\115\107\24\10\2026\1\te envie la informacion del trabajo
+2279\171\168\24\10\2026\1\ya revise los archivos
+2280\230\229\24\10\2026\1\todo listo para la entrega
+2281\292\290\24\10\2026\1\ya terminaste la parte del proyecto?
+2282\354\351\24\10\2026\1\nos vemos manana en la universidad
+2283\395\381\24\10\2026\1\nos encontramos en la biblioteca
+2284\449\443\24\10\2026\1\te escribo cuando llegue
+2285\509\505\24\10\2026\1\que buena foto subiste
+2286\571\567\24\10\2026\1\te envie la informacion del trabajo
+2287\637\629\24\10\2026\1\ya revise los archivos
+2288\700\691\24\10\2026\1\todo listo para la entrega
+2289\758\754\24\10\2026\1\ya terminaste la parte del proyecto?
+2290\818\817\24\10\2026\1\nos vemos manana en la universidad
+2291\857\848\24\10\2026\1\nos encontramos en la biblioteca
+2292\922\911\24\10\2026\1\te escribo cuando llegue
+2293\978\975\24\10\2026\1\que buena foto subiste
+2294\44\36\24\10\2026\1\te envie la informacion del trabajo
+2295\108\96\24\10\2026\1\ya revise los archivos
+2296\164\157\24\10\2026\1\todo listo para la entrega
+2297\222\218\24\10\2026\1\ya terminaste la parte del proyecto?
+2298\284\279\24\10\2026\1\nos vemos manana en la universidad
+2299\323\309\24\10\2026\1\nos encontramos en la biblioteca
+2300\372\371\24\10\2026\1\te escribo cuando llegue
+2301\440\432\24\10\2026\1\que buena foto subiste
+2302\499\494\24\10\2026\1\te envie la informacion del trabajo
+2303\560\556\24\10\2026\1\ya revise los archivos
+2304\626\618\24\10\2026\1\todo listo para la entrega
+2305\692\680\24\10\2026\1\ya terminaste la parte del proyecto?
+2306\746\743\24\10\2026\1\nos vemos manana en la universidad
+2307\782\774\24\10\2026\1\nos encontramos en la biblioteca
+2308\844\837\24\10\2026\1\te escribo cuando llegue
+2309\908\900\24\10\2026\1\que buena foto subiste
+2310\978\963\24\10\2026\1\te envie la informacion del trabajo
+2311\38\25\24\10\2026\1\ya revise los archivos
+2312\88\86\24\10\2026\1\todo listo para la entrega
+2313\157\146\24\10\2026\1\ya terminaste la parte del proyecto?
+2314\214\207\24\10\2026\1\nos vemos manana en la universidad
+2315\252\237\24\10\2026\1\nos encontramos en la biblioteca
+2316\300\299\24\10\2026\1\te escribo cuando llegue
+2317\368\360\24\10\2026\1\que buena foto subiste
+2318\431\421\24\10\2026\1\te envie la informacion del trabajo
+2319\489\483\24\10\2026\1\ya revise los archivos
+2320\549\545\24\10\2026\1\todo listo para la entrega
+2321\615\607\24\10\2026\1\ya terminaste la parte del proyecto?
+2322\681\669\24\10\2026\1\nos vemos manana en la universidad
+2323\714\700\24\10\2026\1\nos encontramos en la biblioteca
+2324\48\53\25\10\2026\0\nos vemos el viernes
+2325\108\118\25\10\2026\0\gracias por avisarme
+2326\169\174\25\10\2026\0\nos encontramos en la biblioteca
+2327\230\233\25\10\2026\0\te escribo cuando llegue
+2328\290\740\25\10\2026\0\que buena foto subiste
+2329\352\357\25\10\2026\0\te envie la informacion del trabajo
+2330\444\452\25\10\2026\0\me confirmas la hora por favor
+2331\506\512\25\10\2026\0\nos vemos el viernes
+2332\568\574\25\10\2026\0\gracias por avisarme
+2333\630\640\25\10\2026\0\nos encontramos en la biblioteca
+2334\692\703\25\10\2026\0\te escribo cuando llegue
+2335\755\761\25\10\2026\0\que buena foto subiste
+2336\818\821\25\10\2026\0\te envie la informacion del trabajo
+2337\912\925\25\10\2026\0\me confirmas la hora por favor
+2338\976\981\25\10\2026\0\nos vemos el viernes
+2339\37\47\25\10\2026\0\gracias por avisarme
+2340\97\111\25\10\2026\0\nos encontramos en la biblioteca
+2341\158\167\25\10\2026\0\te escribo cuando llegue
+2342\219\225\25\10\2026\0\que buena foto subiste
+2343\280\287\25\10\2026\0\te envie la informacion del trabajo
+2344\372\375\25\10\2026\0\me confirmas la hora por favor
+2345\433\443\25\10\2026\0\nos vemos el viernes
+2346\495\502\25\10\2026\0\gracias por avisarme
+2347\557\563\25\10\2026\0\nos encontramos en la biblioteca
+2348\619\629\25\10\2026\0\te escribo cuando llegue
+2349\681\692\25\10\2026\0\que buena foto subiste
+2350\744\749\25\10\2026\0\te envie la informacion del trabajo
+2351\838\847\25\10\2026\0\me confirmas la hora por favor
+2352\901\911\25\10\2026\0\nos vemos el viernes
+2353\965\967\25\10\2026\0\gracias por avisarme
+2354\26\41\25\10\2026\0\nos encontramos en la biblioteca
+2355\87\91\25\10\2026\0\te escribo cuando llegue
+2356\147\160\25\10\2026\0\que buena foto subiste
+2357\208\217\25\10\2026\0\te envie la informacion del trabajo
+2358\300\303\25\10\2026\0\me confirmas la hora por favor
+2359\361\366\25\10\2026\0\nos vemos el viernes
+2360\422\434\25\10\2026\0\gracias por avisarme
+2361\484\492\25\10\2026\0\nos encontramos en la biblioteca
+2362\546\552\25\10\2026\0\te escribo cuando llegue
+2363\608\618\25\10\2026\0\que buena foto subiste
+2364\670\684\25\10\2026\0\te envie la informacion del trabajo
+2365\56\49\26\10\2026\1\puedes revisar el ejercicio?
+2366\121\109\26\10\2026\1\recuerda la reunion de esta semana
+2367\177\170\26\10\2026\1\hola, como estas?
+2368\780\230\26\10\2026\1\me confirmas la hora por favor
+2369\306\291\26\10\2026\1\nos vemos el viernes
+2370\360\353\26\10\2026\1\gracias por avisarme
+2371\455\445\26\10\2026\1\hablemos luego del parcial
+2372\515\507\26\10\2026\1\puedes revisar el ejercicio?
+2373\577\569\26\10\2026\1\recuerda la reunion de esta semana
+2374\640\631\26\10\2026\1\hola, como estas?
+2375\706\693\26\10\2026\1\me confirmas la hora por favor
+2376\764\756\26\10\2026\1\nos vemos el viernes
+2377\824\819\26\10\2026\1\gracias por avisarme
+2378\928\913\26\10\2026\1\hablemos luego del parcial
+2379\984\977\26\10\2026\1\puedes revisar el ejercicio?
+2380\50\38\26\10\2026\1\recuerda la reunion de esta semana
+2381\100\99\26\10\2026\1\hola, como estas?
+2382\170\159\26\10\2026\1\me confirmas la hora por favor
+2383\228\220\26\10\2026\1\nos vemos el viernes
+2384\284\281\26\10\2026\1\gracias por avisarme
+2385\378\373\26\10\2026\1\hablemos luego del parcial
+2386\446\434\26\10\2026\1\puedes revisar el ejercicio?
+2387\505\496\26\10\2026\1\recuerda la reunion de esta semana
+2388\566\558\26\10\2026\1\hola, como estas?
+2389\632\620\26\10\2026\1\me confirmas la hora por favor
+2390\695\682\26\10\2026\1\nos vemos el viernes
+2391\752\745\26\10\2026\1\gracias por avisarme
+2392\850\839\26\10\2026\1\hablemos luego del parcial
+2393\914\902\26\10\2026\1\puedes revisar el ejercicio?
+2394\970\966\26\10\2026\1\recuerda la reunion de esta semana
+2395\30\28\26\10\2026\1\hola, como estas?
+2396\94\88\26\10\2026\1\me confirmas la hora por favor
+2397\163\148\26\10\2026\1\nos vemos el viernes
+2398\220\209\26\10\2026\1\gracias por avisarme
+2399\850\300\26\10\2026\1\hablemos luego del parcial
+2400\369\362\26\10\2026\1\puedes revisar el ejercicio?
+2401\437\423\26\10\2026\1\recuerda la reunion de esta semana
+2402\495\485\26\10\2026\1\hola, como estas?
+2403\555\547\26\10\2026\1\me confirmas la hora por favor
+2404\621\609\26\10\2026\1\nos vemos el viernes
+2405\684\671\26\10\2026\1\gracias por avisarme
+2406\50\59\27\10\2026\1\todo listo para la entrega
+2407\110\124\27\10\2026\1\ya terminaste la parte del proyecto?
+2408\171\173\27\10\2026\1\nos vemos manana en la universidad
+2409\232\233\27\10\2026\1\hablemos luego del parcial
+2410\293\295\27\10\2026\1\puedes revisar el ejercicio?
+2411\354\363\27\10\2026\1\recuerda la reunion de esta semana
+2412\416\417\27\10\2026\1\hola, como estas?
+2413\446\458\27\10\2026\1\ya revise los archivos
+2414\508\518\27\10\2026\1\todo listo para la entrega
+2415\570\580\27\10\2026\1\ya terminaste la parte del proyecto?
+2416\632\643\27\10\2026\1\nos vemos manana en la universidad
+2417\694\709\27\10\2026\1\hablemos luego del parcial
+2418\757\767\27\10\2026\1\puedes revisar el ejercicio?
+2419\820\827\27\10\2026\1\recuerda la reunion de esta semana
+2420\883\890\27\10\2026\1\hola, como estas?
+2421\915\917\27\10\2026\1\ya revise los archivos
+2422\978\987\27\10\2026\1\todo listo para la entrega
+2423\39\53\27\10\2026\1\ya terminaste la parte del proyecto?
+2424\100\103\27\10\2026\1\nos vemos manana en la universidad
+2425\160\173\27\10\2026\1\hablemos luego del parcial
+2426\221\225\27\10\2026\1\puedes revisar el ejercicio?
+2427\282\287\27\10\2026\1\recuerda la reunion de esta semana
+2428\343\354\27\10\2026\1\hola, como estas?
+2429\374\381\27\10\2026\1\ya revise los archivos
+2430\435\449\27\10\2026\1\todo listo para la entrega
+2431\497\508\27\10\2026\1\ya terminaste la parte del proyecto?
+2432\559\569\27\10\2026\1\nos vemos manana en la universidad
+2433\621\632\27\10\2026\1\hablemos luego del parcial
+2434\683\698\27\10\2026\1\puedes revisar el ejercicio?
+2435\746\755\27\10\2026\1\recuerda la reunion de esta semana
+2436\809\814\27\10\2026\1\hola, como estas?
+2437\840\853\27\10\2026\1\ya revise los archivos
+2438\903\917\27\10\2026\1\todo listo para la entrega
+2439\967\973\27\10\2026\1\ya terminaste la parte del proyecto?
+2440\29\33\27\10\2026\1\nos vemos manana en la universidad
+2441\89\97\27\10\2026\1\hablemos luego del parcial
+2442\150\152\27\10\2026\1\puedes revisar el ejercicio?
+2443\210\223\27\10\2026\1\recuerda la reunion de esta semana
+2444\271\279\27\10\2026\1\hola, como estas?
+2445\302\304\27\10\2026\1\ya revise los archivos
+2446\363\372\27\10\2026\1\todo listo para la entrega
+2447\425\426\27\10\2026\1\ya terminaste la parte del proyecto?
+2448\486\498\27\10\2026\1\nos vemos manana en la universidad
+2449\548\558\27\10\2026\1\hablemos luego del parcial
+2450\610\624\27\10\2026\1\puedes revisar el ejercicio?
+2451\672\687\27\10\2026\1\recuerda la reunion de esta semana
+2452\735\743\27\10\2026\1\hola, como estas?
+2453\54\51\28\10\2026\1\te escribo cuando llegue
+2454\120\111\28\10\2026\1\que buena foto subiste
+2455\176\172\28\10\2026\1\te envie la informacion del trabajo
+2456\236\233\28\10\2026\1\ya revise los archivos
+2457\298\294\28\10\2026\1\todo listo para la entrega
+2458\366\355\28\10\2026\1\ya terminaste la parte del proyecto?
+2459\420\417\28\10\2026\1\nos vemos manana en la universidad
+2460\461\447\28\10\2026\1\nos encontramos en la biblioteca
+2461\521\509\28\10\2026\1\te escribo cuando llegue
+2462\580\571\28\10\2026\1\que buena foto subiste
+2463\646\633\28\10\2026\1\te envie la informacion del trabajo
+2464\698\696\28\10\2026\1\ya revise los archivos
+2465\770\758\28\10\2026\1\todo listo para la entrega
+2466\829\821\28\10\2026\1\ya terminaste la parte del proyecto?
+2467\893\884\28\10\2026\1\nos vemos manana en la universidad
+2468\920\916\28\10\2026\1\nos encontramos en la biblioteca
+2469\990\979\28\10\2026\1\te escribo cuando llegue
+2470\140\40\28\10\2026\1\que buena foto subiste
+2471\650\100\28\10\2026\1\te envie la informacion del trabajo
+2472\169\161\28\10\2026\1\ya revise los archivos
+2473\228\222\28\10\2026\1\todo listo para la entrega
+2474\290\283\28\10\2026\1\ya terminaste la parte del proyecto?
+2475\357\344\28\10\2026\1\nos vemos manana en la universidad
+2476\384\375\28\10\2026\1\nos encontramos en la biblioteca
+2477\438\437\28\10\2026\1\te escribo cuando llegue
+2478\511\498\28\10\2026\1\que buena foto subiste
+2479\572\560\28\10\2026\1\te envie la informacion del trabajo
+2480\635\622\28\10\2026\1\ya revise los archivos
+2481\687\685\28\10\2026\1\todo listo para la entrega
+2482\758\747\28\10\2026\1\ya terminaste la parte del proyecto?
+2483\817\810\28\10\2026\1\nos vemos manana en la universidad
+2484\855\841\28\10\2026\1\nos encontramos en la biblioteca
+2485\906\905\28\10\2026\1\te escribo cuando llegue
+2486\976\968\28\10\2026\1\que buena foto subiste
+2487\36\30\28\10\2026\1\te envie la informacion del trabajo
+2488\100\90\28\10\2026\1\ya revise los archivos
+2489\600\150\28\10\2026\1\todo listo para la entrega
+2490\220\211\28\10\2026\1\ya terminaste la parte del proyecto?
+2491\282\272\28\10\2026\1\nos vemos manana en la universidad
+2492\307\303\28\10\2026\1\nos encontramos en la biblioteca
+2493\375\364\28\10\2026\1\te escribo cuando llegue
+2494\429\426\28\10\2026\1\que buena foto subiste
+2495\501\487\28\10\2026\1\te envie la informacion del trabajo
+2496\561\549\28\10\2026\1\ya revise los archivos
+2497\624\611\28\10\2026\1\todo listo para la entrega
+2498\676\674\28\10\2026\1\ya terminaste la parte del proyecto?
+2499\746\736\28\10\2026\1\nos vemos manana en la universidad

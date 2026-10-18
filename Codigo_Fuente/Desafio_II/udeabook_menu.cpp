@@ -10,7 +10,7 @@
 //    estructuras permanentes del sistema (getMemoriaSistema) + variables locales,
 //    buffers y parametros por valor que siguen activos en ese momento.
 //  - Componentes externos: se reporta cuantas veces se usa cada libreria externa
-//    (<random>, <chrono>, <fstream>, <filesystem>). La entrada y salida por consola
+//    (<random>, <chrono>, <fstream>). La entrada y salida por consola
 //    (cin y cout) es la interfaz del programa y no se reporta.
 
 #include "udeabook.h"
@@ -21,7 +21,7 @@ using namespace std;
 
 namespace
 {
-    const int TAM_ENTRADA = 600;
+const int TAM_ENTRADA = 600;
 }
 
 // ----------------LECTURA DEL TECLADO----------------

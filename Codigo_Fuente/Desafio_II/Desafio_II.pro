@@ -5,6 +5,7 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += \
+    udeabook_menu.cpp \
     album.cpp \
     MatrizBits.cpp \
     fecha.cpp \

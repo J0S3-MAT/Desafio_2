@@ -24,8 +24,7 @@ private:
     Album* albumes;
     int cantidadAlbumes;
 
-    // Listas enlazadas de mensajes enviados y recibidos, en orden de llegada.
-    // Los mensajes pertenecen a UdeABook: el usuario solo guarda punteros, no los libera
+
     Mensaje* primerEnviado;
     Mensaje* ultimoEnviado;
     int cantidadEnviados;
