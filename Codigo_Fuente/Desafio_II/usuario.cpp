@@ -1,5 +1,5 @@
 #include "usuario.h"
-#include <climits>
+#include "mensaje.h"
 
 // -------------METODOS AUXILIARES------------
 
@@ -29,7 +29,8 @@ char* Usuario::copiarCadena(const char* texto)
 }
 
 
-// Liberar toda la memoria dinamica propiedad del usuario
+// Liberar la memoria dinamica propia del usuario
+// (los mensajes no se liberan aqui: pertenecen a UdeABook)
 void Usuario::liberarMemoria()
 {
     delete[] nombreUsuario;
@@ -41,12 +42,6 @@ void Usuario::liberarMemoria()
 
     delete[] albumes;
 
-    delete[] mensajesEnviados;
-    delete[] mensajesRecibidos;
-
-    delete[] solicitudesRecibidas;
-
-
     nombreUsuario = nullptr;
     correoElectronico = nullptr;
     rutaFotoPerfil = nullptr;
@@ -55,11 +50,7 @@ void Usuario::liberarMemoria()
     pais = nullptr;
 
     albumes = nullptr;
-
-    mensajesEnviados = nullptr;
-    mensajesRecibidos = nullptr;
-
-    solicitudesRecibidas = nullptr;
+    cantidadAlbumes = 0;
 }
 
 
@@ -67,7 +58,6 @@ void Usuario::liberarMemoria()
 void Usuario::intercambiar(Usuario& otro)
 {
     char* textoTemporal;
-    int* arregloTemporal;
     Album* albumTemporal;
     int enteroTemporal;
     Fecha fechaTemporal;
@@ -131,95 +121,32 @@ void Usuario::intercambiar(Usuario& otro)
     otro.cantidadAlbumes = enteroTemporal;
 
 
-    // Mensajes enviados
-    arregloTemporal = mensajesEnviados;
-    mensajesEnviados = otro.mensajesEnviados;
-    otro.mensajesEnviados = arregloTemporal;
+    // Listas de mensajes (solo se intercambian los punteros)
+    Mensaje* mensajeTemporal;
 
-    enteroTemporal = cantidadMensajesEnviados;
-    cantidadMensajesEnviados = otro.cantidadMensajesEnviados;
-    otro.cantidadMensajesEnviados = enteroTemporal;
+    mensajeTemporal = primerEnviado;
+    primerEnviado = otro.primerEnviado;
+    otro.primerEnviado = mensajeTemporal;
 
-    enteroTemporal = capacidadMensajesEnviados;
-    capacidadMensajesEnviados = otro.capacidadMensajesEnviados;
-    otro.capacidadMensajesEnviados = enteroTemporal;
+    mensajeTemporal = ultimoEnviado;
+    ultimoEnviado = otro.ultimoEnviado;
+    otro.ultimoEnviado = mensajeTemporal;
 
+    enteroTemporal = cantidadEnviados;
+    cantidadEnviados = otro.cantidadEnviados;
+    otro.cantidadEnviados = enteroTemporal;
 
-    // Mensajes recibidos
-    arregloTemporal = mensajesRecibidos;
-    mensajesRecibidos = otro.mensajesRecibidos;
-    otro.mensajesRecibidos = arregloTemporal;
+    mensajeTemporal = primerRecibido;
+    primerRecibido = otro.primerRecibido;
+    otro.primerRecibido = mensajeTemporal;
 
-    enteroTemporal = cantidadMensajesRecibidos;
-    cantidadMensajesRecibidos = otro.cantidadMensajesRecibidos;
-    otro.cantidadMensajesRecibidos = enteroTemporal;
+    mensajeTemporal = ultimoRecibido;
+    ultimoRecibido = otro.ultimoRecibido;
+    otro.ultimoRecibido = mensajeTemporal;
 
-    enteroTemporal = capacidadMensajesRecibidos;
-    capacidadMensajesRecibidos = otro.capacidadMensajesRecibidos;
-    otro.capacidadMensajesRecibidos = enteroTemporal;
-
-
-    // Solicitudes
-    arregloTemporal = solicitudesRecibidas;
-    solicitudesRecibidas = otro.solicitudesRecibidas;
-    otro.solicitudesRecibidas = arregloTemporal;
-
-    enteroTemporal = cantidadSolicitudesRecibidas;
-    cantidadSolicitudesRecibidas = otro.cantidadSolicitudesRecibidas;
-    otro.cantidadSolicitudesRecibidas = enteroTemporal;
-
-    enteroTemporal = capacidadSolicitudesRecibidas;
-    capacidadSolicitudesRecibidas = otro.capacidadSolicitudesRecibidas;
-    otro.capacidadSolicitudesRecibidas = enteroTemporal;
-}
-
-
-// Agregar un indice a un arreglo dinamico
-bool Usuario::agregarIndice(int*& arreglo, int& cantidad, int& capacidad,int valor, Metricas& metricas)
-{
-    if (valor < 0)
-    {
-        return false;
-    }
-
-    // Si no hay espacio se redimensiona (¡pendiente cambiar este redimencionar y copiar!
-    if (cantidad == capacidad)
-    {
-        int nuevaCapacidad;
-
-        if (capacidad == 0)
-        {
-            nuevaCapacidad = 1;
-        }
-        else
-        {
-            if (capacidad > INT_MAX / 2)
-            {
-                return false;
-            }
-
-            nuevaCapacidad = capacidad * 2;
-        }
-
-        int* nuevoArreglo = new int[nuevaCapacidad];
-
-        for (int i = 0; i < cantidad; i++)
-        {
-            metricas.sumarIteraciones(1);
-
-            nuevoArreglo[i] = arreglo[i];
-        }
-
-        delete[] arreglo;
-
-        arreglo = nuevoArreglo;
-        capacidad = nuevaCapacidad;
-    }
-
-    arreglo[cantidad] = valor;
-    cantidad++;
-
-    return true;
+    enteroTemporal = cantidadRecibidos;
+    cantidadRecibidos = otro.cantidadRecibidos;
+    otro.cantidadRecibidos = enteroTemporal;
 }
 
 
@@ -236,15 +163,12 @@ Usuario::Usuario()
     fechaInscripcion(),
     albumes(nullptr),
     cantidadAlbumes(0),
-    mensajesEnviados(nullptr),
-    cantidadMensajesEnviados(0),
-    capacidadMensajesEnviados(0),
-    mensajesRecibidos(nullptr),
-    cantidadMensajesRecibidos(0),
-    capacidadMensajesRecibidos(0),
-    solicitudesRecibidas(nullptr),
-    cantidadSolicitudesRecibidas(0),
-    capacidadSolicitudesRecibidas(0)
+    primerEnviado(nullptr),
+    ultimoEnviado(nullptr),
+    cantidadEnviados(0),
+    primerRecibido(nullptr),
+    ultimoRecibido(nullptr),
+    cantidadRecibidos(0)
 {
 }
 
@@ -287,52 +211,15 @@ Usuario::Usuario(const Usuario& otro)
         }
 
 
-        // Copiar mensajes enviados
-        if (otro.capacidadMensajesEnviados > 0)
-        {
-            mensajesEnviados = new int[otro.capacidadMensajesEnviados];
+        // Las listas de mensajes se comparten: los mensajes pertenecen a UdeABook,
+        // asi que basta con copiar los punteros (no se duplican mensajes)
+        primerEnviado = otro.primerEnviado;
+        ultimoEnviado = otro.ultimoEnviado;
+        cantidadEnviados = otro.cantidadEnviados;
 
-            for (int i = 0; i < otro.cantidadMensajesEnviados; i++)
-            {
-                mensajesEnviados[i] = otro.mensajesEnviados[i];
-            }
-
-            cantidadMensajesEnviados = otro.cantidadMensajesEnviados;
-
-            capacidadMensajesEnviados = otro.capacidadMensajesEnviados;
-        }
-
-
-        // Copiar mensajes recibidos
-        if (otro.capacidadMensajesRecibidos > 0)
-        {
-            mensajesRecibidos = new int[otro.capacidadMensajesRecibidos];
-
-            for (int i = 0; i < otro.cantidadMensajesRecibidos; i++)
-            {
-                mensajesRecibidos[i] = otro.mensajesRecibidos[i];
-            }
-
-            cantidadMensajesRecibidos = otro.cantidadMensajesRecibidos;
-
-            capacidadMensajesRecibidos = otro.capacidadMensajesRecibidos;
-        }
-
-
-        // Copiar solicitudes
-        if (otro.capacidadSolicitudesRecibidas > 0)
-        {
-            solicitudesRecibidas = new int[otro.capacidadSolicitudesRecibidas];
-
-            for (int i = 0; i < otro.cantidadSolicitudesRecibidas; i++)
-            {
-                solicitudesRecibidas[i] = otro.solicitudesRecibidas[i];
-            }
-
-            cantidadSolicitudesRecibidas = otro.cantidadSolicitudesRecibidas;
-
-            capacidadSolicitudesRecibidas = otro.capacidadSolicitudesRecibidas;
-        }
+        primerRecibido = otro.primerRecibido;
+        ultimoRecibido = otro.ultimoRecibido;
+        cantidadRecibidos = otro.cantidadRecibidos;
     }
     catch (...)
     {
@@ -437,15 +324,14 @@ void Usuario::setFechaInscripcion(const Fecha& fecha)
 }
 
 
-bool Usuario::setAlbumes(const Album* nuevosAlbumes,int cantidad)
+bool Usuario::setAlbumes(const Album* nuevosAlbumes, int cantidad)
 {
     if (cantidad < 0)
     {
         return false;
     }
 
-    if (cantidad > 0 &&
-        nuevosAlbumes == nullptr)
+    if (cantidad > 0 && nuevosAlbumes == nullptr)
     {
         return false;
     }
@@ -473,6 +359,24 @@ bool Usuario::setAlbumes(const Album* nuevosAlbumes,int cantidad)
     delete[] albumes;
 
     albumes = copia;
+    cantidadAlbumes = cantidad;
+
+    return true;
+}
+
+// Reservar albumes vacios. Se reemplazan los anteriores
+bool Usuario::reservarAlbumes(int cantidad)
+{
+    if (cantidad < 0)
+    {
+        return false;
+    }
+
+    Album* nuevos = cantidad > 0 ? new Album[cantidad] : nullptr;
+
+    delete[] albumes;
+
+    albumes = nuevos;
     cantidadAlbumes = cantidad;
 
     return true;
@@ -524,7 +428,7 @@ const Fecha& Usuario::getFechaInscripcion() const
 
 // ----------------VALIDACIONES-----------------
 
-bool Usuario::coincideNombre(const char* nombre,Metricas& metricas) const
+bool Usuario::coincideNombre(const char* nombre, Metricas& metricas) const
 {
     if (nombreUsuario == nullptr || nombre == nullptr)
     {
@@ -549,7 +453,7 @@ bool Usuario::coincideNombre(const char* nombre,Metricas& metricas) const
 }
 
 
-bool Usuario::validarContrasena(const char* clave,Metricas& metricas) const
+bool Usuario::validarContrasena(const char* clave, Metricas& metricas) const
 {
     if (contrasena == nullptr || clave == nullptr)
     {
@@ -593,135 +497,123 @@ Album* Usuario::getAlbum(int posicion)
 }
 
 
-// ---------------SOLICITUDES DE AMISTAD----------------
-
-bool Usuario::tieneSolicitudDe(int indiceEmisor,Metricas& metricas) const
-{
-    for (int i = 0; i < cantidadSolicitudesRecibidas; i++)
-    {
-        metricas.sumarIteraciones(1);
-
-        if (solicitudesRecibidas[i] == indiceEmisor)
-        {
-            return true;
-        }
-    }
-
-    return false;
-}
-
-
-bool Usuario::agregarSolicitud(int indiceEmisor,Metricas& metricas)
-{
-    if (indiceEmisor < 0)
-    {
-        return false;
-    }
-
-    if (tieneSolicitudDe(indiceEmisor,metricas))
-    {
-        return false;
-    }
-
-    return agregarIndice(solicitudesRecibidas,cantidadSolicitudesRecibidas,capacidadSolicitudesRecibidas,indiceEmisor,metricas);
-}
-
-
-bool Usuario::eliminarSolicitud(int indiceEmisor,Metricas& metricas)
-{
-    int posicion = -1;
-
-    for (int i = 0; i < cantidadSolicitudesRecibidas;i++)
-    {
-        metricas.sumarIteraciones(1);
-
-        if (solicitudesRecibidas[i] == indiceEmisor)
-        {
-            posicion = i;
-            break;
-        }
-    }
-
-    if (posicion == -1)
-    {
-        return false;
-    }
-
-    for (int i = posicion;i < cantidadSolicitudesRecibidas - 1;i++)
-    {
-        metricas.sumarIteraciones(1);
-
-        solicitudesRecibidas[i] = solicitudesRecibidas[i + 1];
-    }
-
-    cantidadSolicitudesRecibidas--;
-
-    return true;
-}
-
-
-int Usuario::getCantidadSolicitudes() const
-{
-    return cantidadSolicitudesRecibidas;
-}
-
-
-int Usuario::getSolicitante(int posicion) const
-{
-    if (posicion < 0 ||posicion >= cantidadSolicitudesRecibidas)
-    {
-        return -1;
-    }
-
-    return solicitudesRecibidas[posicion];
-}
-
-
 // --------------MENSAJES ENVIADOS-------------
 
-bool Usuario::registrarMensajeEnviado(int indiceMensaje, Metricas& metricas)
+// Agregar un mensaje al final de la lista de enviados
+void Usuario::registrarMensajeEnviado(Mensaje* mensaje)
 {
-    return agregarIndice(mensajesEnviados, cantidadMensajesEnviados, capacidadMensajesEnviados, indiceMensaje, metricas);
+    if (mensaje == nullptr)
+    {
+        return;
+    }
+
+    if (primerEnviado == nullptr)
+    {
+        primerEnviado = mensaje;
+    }
+    else
+    {
+        ultimoEnviado->setSiguienteEnviado(mensaje);
+    }
+
+    ultimoEnviado = mensaje;
+    cantidadEnviados++;
+}
+
+
+Mensaje* Usuario::getPrimerMensajeEnviado() const
+{
+    return primerEnviado;
 }
 
 
 int Usuario::getCantidadMensajesEnviados() const
 {
-    return cantidadMensajesEnviados;
-}
-
-
-int Usuario::getIndiceMensajeEnviado(int posicion) const
-{
-    if (posicion < 0 ||posicion >= cantidadMensajesEnviados)
-    {
-        return -1;
-    }
-
-    return mensajesEnviados[posicion];
+    return cantidadEnviados;
 }
 
 
 // -------------MENSAJES RECIBIDOS---------------
 
-bool Usuario::registrarMensajeRecibido(int indiceMensaje, Metricas& metricas)
+// Agregar un mensaje al final de la lista de recibidos
+void Usuario::registrarMensajeRecibido(Mensaje* mensaje)
 {
-    return agregarIndice(mensajesRecibidos, cantidadMensajesRecibidos,capacidadMensajesRecibidos,indiceMensaje,metricas);
+    if (mensaje == nullptr)
+    {
+        return;
+    }
+
+    if (primerRecibido == nullptr)
+    {
+        primerRecibido = mensaje;
+    }
+    else
+    {
+        ultimoRecibido->setSiguienteRecibido(mensaje);
+    }
+
+    ultimoRecibido = mensaje;
+    cantidadRecibidos++;
+}
+
+
+Mensaje* Usuario::getPrimerMensajeRecibido() const
+{
+    return primerRecibido;
 }
 
 
 int Usuario::getCantidadMensajesRecibidos() const
 {
-    return cantidadMensajesRecibidos;
+    return cantidadRecibidos;
 }
 
 
-int Usuario::getIndiceMensajeRecibido(int posicion) const
+// -------------MEMORIA---------------
+
+unsigned long long Usuario::getBytesDatosPersonales() const
 {
-    if (posicion < 0 ||posicion >= cantidadMensajesRecibidos)
+    const char* cadenas[6] = {nombreUsuario, correoElectronico, rutaFotoPerfil, contrasena, ciudad, pais};
+
+    unsigned long long memoria = 0;
+
+    for (int i = 0; i < 6; i++)
     {
-        return -1;
+        if (cadenas[i] == nullptr)
+        {
+            continue;
+        }
+
+        int longitud = 0;
+
+        while (cadenas[i][longitud] != '\0')
+        {
+            longitud++;
+        }
+
+        memoria += longitud + 1;
     }
 
-    return mensajesRecibidos[posicion];
+    return memoria;
+}
+
+
+unsigned long long Usuario::getBytesDinamicos() const
+{
+    unsigned long long memoria = getBytesDatosPersonales();
+
+    // Memoria de los albumes
+    if (albumes != nullptr)
+    {
+        memoria += static_cast<unsigned long long>(cantidadAlbumes) * sizeof(Album);
+
+        for (int i = 0; i < cantidadAlbumes; i++)
+        {
+            memoria += albumes[i].getBytesDinamicos();
+        }
+    }
+
+    // Los mensajes se cuentan en UdeABook (son suyos); aqui solo hay punteros, incluidos en sizeof(Usuario)
+
+    return memoria;
 }
