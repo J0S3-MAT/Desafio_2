@@ -8,4 +8,4 @@ Repositorio para el desarrollo del desafío 2.
 ## 💡 Indice
 - [📄 Documentos ](Documentos)
 - [💻 Código Fuente ](Codigo_Fuente)
-- [🎥 Video](https://youtu.be/ZHi9-Dv6eqg?si=YrcF2187QWHTVkbx)
+- [🎥 Video](https://www.youtube.com/watch?v=Gco6W_m0TvY)
